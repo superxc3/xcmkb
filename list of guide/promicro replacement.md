@@ -1,8 +1,7 @@
 # Promicro Replacement
 
 As port of micro usb can be very fragile, most of our new boards are now socketed and have the 'hotswappable' feature. This is the guide to replace promicro. 
-[Link for the guide: Promicro Replacement](
-https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/promicro%20replacement.md).
+
 
 ## Guide
 ![1](https://user-images.githubusercontent.com/79617315/150282888-3197c2fe-1ee0-4a0f-9a46-b96c90b85427.jpg)
