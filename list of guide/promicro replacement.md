@@ -11,7 +11,7 @@ https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/promicro%20replace
 
 ![3](https://user-images.githubusercontent.com/79617315/150283527-4a06c146-24c1-4c17-8af7-a8f65b8981f6.jpg)
 ### Common Issue 1 - Promicro cannot be inserted
-This is normal because the new promicro is prepared and soldered on another IC socket. You just need to push the pins here and there to make all the pins insert into your IC socket (refer step 9)
+This is normal because the new promicro is prepared and soldered on another IC socket. You just need to push the pins here and there to make all the pins inserted into your IC socket (refer step 9).
 
 Hopefully no much hiccups on replacing new promicro. Anything just contact me through Discord.
 Stay safe, stay chill, stay thocc.
