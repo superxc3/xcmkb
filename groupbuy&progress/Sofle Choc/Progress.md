@@ -15,7 +15,13 @@ Open source board by author [josefadamcik](https://github.com/josefadamcik). Lin
 - RGB per key
 - Pimoroni trackball
 
-
+## Switch Plate Option
+| No. | Count | Remarks |
+|:-|:-|:-|
+|1| Polycarbonate | Glossy black or frosted transparent |
+|2| Aluminium |  |
+|3| Carbon Fibre |  |
+|4| Brass |  |
 
 ## Progress
 ### Design Progress
