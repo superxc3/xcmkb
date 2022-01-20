@@ -22,7 +22,7 @@ Open source board by author [josefadamcik](https://github.com/josefadamcik). Lin
 |2| Polycarbonate | Yes |Glossy black or frosted transparent |
 |3| Aluminium | By request||
 |4| Carbon Fibre | By request ||
-|4| Brass |By request  ||
+|5| Brass |By request  ||
 
 ## Progress
 ### Design Progress
