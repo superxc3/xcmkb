@@ -16,12 +16,13 @@ Open source board by author [josefadamcik](https://github.com/josefadamcik). Lin
 - Pimoroni trackball
 
 ## Switch Plate Option
-| No. | Count | Remarks |
-|:-|:-|:-|
-|1| Polycarbonate | Glossy black or frosted transparent |
-|2| Aluminium |  |
-|3| Carbon Fibre |  |
-|4| Brass |  |
+| No. | Item | Availability | Remarks |
+|:-|:-|:-|:-|
+|1| Acrylic| No | |
+|2| Polycarbonate | Yes |Glossy black or frosted transparent |
+|3| Aluminium | By request||
+|4| Carbon Fibre | By request ||
+|4| Brass |By request  ||
 
 ## Progress
 ### Design Progress
