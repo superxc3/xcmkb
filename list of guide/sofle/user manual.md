@@ -36,9 +36,46 @@ Insert the switch one by one
 Make sure the orientation of switches is correct according to your pcb. 
 
 #### Step 4
-After all switches are inserted, place it back to the board. Tighten the screws. Go to Part A to connect your board to PC. 
+After all switches are inserted, place it back to the board. Tighten the screws. Go to [Part A](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/sofle/user%20manual.md#part-a-connect) to connect your board to PC. 
 ![](https://user-images.githubusercontent.com/79617315/150452631-d44be381-1db2-464b-be66-542579b562e2.jpg)
 
 
 ## Part C Key Remap
-1. Sofle is built on top of QMK and officially supported by VIA. Once the 
+#### VIA
+1. Sofle is built on top of QMK and officially supported by VIA. Once you connect the board to PC, it will be automatically detected in VIA. 
+
+![image](https://user-images.githubusercontent.com/79617315/150453274-56f37c4d-e0c8-416a-886d-4fadf961090b.png)
+
+2. VIA software downloads from [here](https://github.com/the-via/releases/releases/tag/v1.3.1).
+[Windows platform download here](https://github.com/the-via/releases/releases/download/v1.3.1/via-1.3.1-win.exe). 
+
+4. VIA is a real-time mapping software. Saving is not required and it will be reflect directly once you have assigned the key.
+
+5. You can save your layout in case you want to format the board. Else the board has memory on board and does not required to remap the key although connect to different pc. 
+
+![image](https://user-images.githubusercontent.com/79617315/150453954-8d949cf6-fcf2-4673-8b22-b27a6101c779.png)
+
+
+#### Programmable Rotary Encoders / Knobs through VIAL
+1. Besides VIA, you also can remap using VIAL. VIAL supports remap knobs with different layers. 
+2. VIAL download [here](https://get.vial.today/download/)
+
+
+#### REMAP
+1. REMAP is a relatively simpler key remapping website. 
+2. REMAP link [here](https://remap-keys.app/)
+3. The HOLD and TAP remap interface is easier using REMAP compare to VIA. However, VIA has richer content and more tapping option compared to REMAP. 
+
+![image](https://user-images.githubusercontent.com/79617315/150454359-ab1dcfd9-7e8e-475c-ab4a-ee005d808d9b.png)
+
+#### Notes
+Do launch one application each time to avoid conflict. 
+
+
+## Keycaps
+There are total of 58 keys with all 1u. For 2 thumb keys you can use either 1u or 1.5u. If you don’t mind the legend doesn’t show up properly (like ctrl, alt, tab etc), you can substitute with normal keycap set with 1u novelties. Recommended to use flat profile such as xda, dsa, np etc, so that you do not need to worry about height profile issue. 
+
+For this kind of board with all 1u, there is dedicated keycap sets. You can try to search for “ortholinear keycaps”.
+
+## Switches 
+It supports both 3/5pins mx style switches. Can look for smd type if you choose for acrylic, it can lock to the switch plate better. Milk bottom will be more loose for acrylic version. 
