@@ -7,14 +7,30 @@ Before proceed to Part A, you can try with Part 0 to test out your sofle unit. W
 
 #### Step 1 
 Connect both splits by using the TRS cable provided. Make sure it is properly inserted. 
+![image](https://user-images.githubusercontent.com/79617315/150457931-cd488d1e-3cb7-4ce3-a2a7-16cdad78e0e2.png)
+
 #### Step 2 
 Connect your micro usb / Type C / magnetic cable to either left or right side of the split. Our units are properly flashed, both splits can be used as master. 
+*Pimoroni only working for master side. Let's say you have pimoroni installed on your right, the master must be right.*
+![image](https://user-images.githubusercontent.com/79617315/150458013-4cbabd64-f0ea-4947-93ae-89137f7cf8f1.png)
+
 
 #### Warnings and disclaimers
 - Don’t connect or disconnect the TRS or aux cable when the keyboard is powered. It may short out. Always disconnect the USB cable first.
 - Make sure your micro usb cable is a data usb cable, i.e. can transmit data. 
 - Be gentle with micro USB ports on your microcontrollers. They are easy to break. 
 - Recommended to pair with magnetic cable. Ugreen magnetic cable can be purchased from local MY store through Shopee: [Official UGreen](https://shopee.com.my/UGREEN-3A-Magnetic-Micro-USB-Cable-(100cm)-i.64923440.1619064012?sp_atk=90a0daf5-02a6-424b-93f6-f23fec3c7efe) (may take a week to arrive); [local Ugreen store](https://shopee.com.my/%F0%9F%87%B2%F0%9F%87%BE-UGREEN-Magnetic-Micro-USB-Cable-Fast-Charging-1-Meter-Nylon-Braided-Data-Magnet-USB-Cable-%F0%9F%87%B2%F0%9F%87%BE-i.24857778.9586773643?sp_atk=d176ec5a-5417-4007-ab65-a17f9fa2b2ad) (purchased and legit). 
+
+#### Common issues
+##### Oled is up but key cannot be registered
+Most of the time the problem would be USB cable. Recommend to find a more reliable data cable or just purchase the Ugreen magnetic cable as suggested above. 
+
+##### Master split is working perfectly, slave side is not registering
+Most of the time the problem would be USB cable. Recommend to find a more reliable data cable or just purchase the Ugreen magnetic cable as suggested above. 
+
+##### Certain keys are not registered
+Check any bent pins on your switch. It is recommended to insert the switch properly by following [this method](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/sofle/user%20manual.md#polycarbonate-switch-plate), it is a proper way of inserting switches. 
+*However do note that switches cannot be inserted properly for acrylic switch plate due to the thickness of acrylic*
 
 ## Part B Assemble 
 
