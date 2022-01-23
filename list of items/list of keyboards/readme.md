@@ -6,16 +6,33 @@ Here shows the collection of keyboards XCMKB has made and some are available for
 ### Sofle
 #### Sofle V1
 #### Sofle V2
-![sofle case](https://user-images.githubusercontent.com/79617315/150625256-86398ed9-8d6b-4c29-bf9f-ccc324fad485.jpg)
+|![sofle case](https://user-images.githubusercontent.com/79617315/150625256-86398ed9-8d6b-4c29-bf9f-ccc324fad485.jpg)|
+|:--:|
+|**Sofle with 3D Printed Case & Trackball**|
 
+| Item | Description |
+|:-|:-|
+| Switch Plate | Acrylic; with 2 intermediate layers |
+| Keycaps | [DROP MT3 BOW](https://drop.com/buy/drop-mt3-black-on-white-keycap-set)  |
+| Extras  | [Pimoroni Trackball Breakout](https://shop.pimoroni.com/products/trackball-breakout)|
 #### Sofle Choc
 
 ### Avalanche
 
 ## 40% Keyboard
 ### Reviung41
-![r41](https://user-images.githubusercontent.com/79617315/150625272-b36cb9c8-112e-4c69-869e-a3b228535a62.jpg)
+Original layers available from github can only support pcb mounted stabs. Our acrylic layers add support to screw-in stabs (tested with Durock JWK V2 screw-in stabs). 
+|![r41](https://user-images.githubusercontent.com/79617315/150625272-b36cb9c8-112e-4c69-869e-a3b228535a62.jpg)|
+|:--:|
+|**Reviung41 Wireless**|
 
+| Item | Description |
+|:-|:-|
+| Switch Plate | Polycarbonate; with 3 intermediate acrylic layers |
+| Keycaps | [KBDFans NP Profile PBT](https://kbdfans.com/collections/np-profile/products/np-pbt-keycaps-set)  |
+| Extras  | [NiceNano V2 with 110 mah battery](https://nicekeyboards.com/nice-nano/) |
+
+We also design acrylic legs for about 7 degree angle. 
 ### Corne
 ### Treadstone 48
 
