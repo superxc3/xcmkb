@@ -4,13 +4,12 @@ Here shows the collection of keyboards XCMKB has made and some are available for
 
 ## 60% Keyboard 
 ### Sofle
-#### Sofle V1
-#### Sofle V2
+
 |![sofle case](https://user-images.githubusercontent.com/79617315/150625256-86398ed9-8d6b-4c29-bf9f-ccc324fad485.jpg)|
 |:--:|
-|**Sofle with 3D Printed Case & Trackball**|
 
-| Item | Description |
+
+| Keyboard |Sofle V2 with 3D Printed Case & Trackball| 
 |:-|:-|
 | Switch Plate | Acrylic; with 2 intermediate layers |
 | Keycaps | [DROP MT3 BOW](https://drop.com/buy/drop-mt3-black-on-white-keycap-set)  |
@@ -31,6 +30,9 @@ Original layers available from github can only support pcb mounted stabs. Our ac
 | Switch Plate | Polycarbonate; with 3 intermediate acrylic layers |
 | Keycaps | [KBDFans NP Profile PBT](https://kbdfans.com/collections/np-profile/products/np-pbt-keycaps-set)  |
 | Extras  | [NiceNano V2 with 110 mah battery](https://nicekeyboards.com/nice-nano/) |
+| Sound Test 1 | [Kailh Fried Egg Silent Linear](https://www.youtube.com/watch?v=NhWQsZSVb6k)|
+| Sound Test 2 |[Gateron Pro Red Linear](https://www.youtube.com/watch?v=iLArT9ShYa0)|
+
 
 We also design acrylic legs for about 7 degree angle. 
 ### Corne
