@@ -1,5 +1,3 @@
-# xcmkb
-
 ![FONT BANNER2](https://user-images.githubusercontent.com/79617315/150896025-84734927-8556-42e7-a86a-dfe9486511f7.png)
 
 ### **Shopee Store**:  [xcmkb](https://shopee.com.my/xchclow3)
