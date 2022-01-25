@@ -1,7 +1,7 @@
 # User Manual for Sofle
 
 This user manual is applicable for Sofle V1, V2, and Choc. 
-Before proceed to Part A, you can try with Part 0 to test out your sofle unit. We tested the board before shipping, this include TRS cable, key registration, oleds, knobs, and magnetic cable (if you purchase one from us). 
+Before proceed to assemble your board with switches and keycaps, you can try with [Part A](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/sofle/user%20manual.md#part-a-connect) to test out your sofle unit. We tested the board before shipping, this include TRS cable, key registration, oleds, knobs, and magnetic cable (if you purchase one from us). 
 
 ## Part A Connect 
 
