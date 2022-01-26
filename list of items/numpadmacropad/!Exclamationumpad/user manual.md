@@ -18,8 +18,10 @@ Polycarbonate is a strong yet soft material, you are required to unscrew and rem
 |![image](https://user-images.githubusercontent.com/79617315/151119140-9bac9489-718c-4ebc-b959-8f798a0d61c2.png)|
 |:--:|
 |1. Remove the top 4 screws partly, sufficient enough for you to lift the top plate|
+|![image](https://user-images.githubusercontent.com/79617315/151121008-015f4d1d-8b61-41cc-a13e-5170717473e2.png)|
 |2. Lift the top plate up, remove screws that lock the switch plate|
 |3. Lift the pcb up and insert your stabs|
+|![image](https://user-images.githubusercontent.com/79617315/151121109-dee2e466-bc64-4498-8ead-99605a0f2ec1.png)|
 |4. Insert switches one by one especially for polycarbonate switch plate|
 |5. Assemble everything back|
 
