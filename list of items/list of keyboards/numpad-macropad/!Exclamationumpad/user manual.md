@@ -28,4 +28,4 @@ Polycarbonate is a strong yet soft material, you are required to unscrew and rem
 
 ## Key Remap
 
-To remap the key, refers [this session](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/key%20remap.md#key-remap)
+To remap the key, refers [this session](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/key%20remap.md#key-remap); Firmware details check [here](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/numpad-macropad/!Exclamationumpad/firmware)
