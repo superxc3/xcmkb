@@ -1,4 +1,4 @@
-# 20211213 Exclamation Logo Added
+# 20211213 - Exclamation Logo Added
 
 [Json](https://drive.google.com/file/d/1nIkr1yTWvWySqZaXR8mvZJhkzTd3gzse/view?usp=sharing)
 
@@ -8,7 +8,7 @@
 
 
 
-# 20211110 Basic Configuration
+# 20211110 - Basic Configuration
 
 [Json](https://drive.google.com/file/d/1nIkr1yTWvWySqZaXR8mvZJhkzTd3gzse/view?usp=sharing)
 
