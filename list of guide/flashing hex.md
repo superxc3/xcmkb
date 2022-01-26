@@ -25,7 +25,9 @@ For split keyboard, kindly refer to another session below.
 5. Locate file by click Open in QMK Toolbox
 6. Select atmega32u4 for MCU
 7. Tick Auto-flash
+
 ![image](https://user-images.githubusercontent.com/79617315/151154592-66fd339c-c9e2-426d-813c-5745424c3f6c.png)
-8. Connect your left split to pc. Check the reset button (Sofle and corne near to oled; while some boards are at the bottom)
+
+8. Connect your LEFT split to pc. Check the reset button (Sofle and corne near to oled; while some boards are at the bottom)
 9. When everything is selected and ticked as Step 7, double press the reset button. 
-10. That should be considered done. 
+10. That should be considered done for left split. Continue the step above for right split, do note that some split requires different hex file to enable master on left and right.
