@@ -1,17 +1,10 @@
 # List of Firmwares
 
-1. 20211110 - Basic Configuration
-2. 20211213 - Exclamation Logo Added
+1. [20211110](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/numpad-macropad/!Exclamationumpad/firmware/readme.md#20211110---basic-configuration) - Basic Configuration
+2. [20211213](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/numpad-macropad/!Exclamationumpad/firmware/readme.md#20211213---exclamation-logo-added) - Exclamation Logo Added
 
 
 
-### 20211213 - Exclamation Logo Added
-
-[Json](https://drive.google.com/file/d/1nIkr1yTWvWySqZaXR8mvZJhkzTd3gzse/view?usp=sharing)
-
-[Hex](https://drive.google.com/file/d/1hd9a1ipNR5WQYbDBS2zggrJ1bt7BtQHI/view?usp=sharing)
-
-- Removed "keep going", replaced with exclamation mark
 
 
 
@@ -33,4 +26,11 @@
 
 
 
+### 20211213 - Exclamation Logo Added
+
+[Json](https://drive.google.com/file/d/1nIkr1yTWvWySqZaXR8mvZJhkzTd3gzse/view?usp=sharing)
+
+[Hex](https://drive.google.com/file/d/1hd9a1ipNR5WQYbDBS2zggrJ1bt7BtQHI/view?usp=sharing)
+
+- Removed "keep going", replaced with exclamation mark
 
