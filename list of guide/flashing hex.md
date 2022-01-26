@@ -1,7 +1,7 @@
 When you are given a new hex file to flash, kindly follow the steps below closely. 
 
-For single keyboard, you can just proceed with flashing. 
-For split keyboard, kindly refer to another session below. 
+For [single keyboard](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md#single-keyboard), you can just proceed with following session. 
+For [split keyboard](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md#split-keyboard), kindly refer to another session below. 
 
 ### Single Keyboard
 1. Download [QMK TOOLBOX](https://github.com/qmk/qmk_toolbox/releases); for Win platform download [here](https://github.com/qmk/qmk_toolbox/releases/download/0.1.1/qmk_toolbox.exe)
