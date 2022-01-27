@@ -28,4 +28,3 @@
 | Extras  | [Pimoroni Trackball Breakout](https://shop.pimoroni.com/products/trackball-breakout)|
 ## Sofle Choc
 
-# Avalanche
