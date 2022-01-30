@@ -1,5 +1,14 @@
 # User Manual for Sofle Choc version
 
+|![image](https://user-images.githubusercontent.com/79617315/151686143-a4a06e3f-44ec-421c-bcf1-bf22fa05fb73.png)|
+|:--:|
+|Sofle Choc with RGB per key Black Matte Edge Design|
+
+|![image](https://user-images.githubusercontent.com/79617315/151686145-17df9e7e-0006-426c-9091-2e212c9b033d.png)|
+|:--:|
+|Pinky Sofle Choc ZMK Wireless version Limited Run|
+
+
 This user manual is specially written for choc version due to minor changes from typical Sofle. 
 - For sofle choc without rgb, kindly refer to [user manual for Sofle](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md#user-manual-for-sofle). Basically choc without rgb is using the same firmware as sofle v1 and v2. 
 - For sofle choc with rgb, there is minor difference hence refer to the session below. 
