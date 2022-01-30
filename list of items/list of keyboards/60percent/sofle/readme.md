@@ -26,5 +26,4 @@
 | Switch Plate | Acrylic; with 2 intermediate layers |
 | Keycaps | [DROP MT3 BOW](https://drop.com/buy/drop-mt3-black-on-white-keycap-set)  |
 | Extras  | [Pimoroni Trackball Breakout](https://shop.pimoroni.com/products/trackball-breakout)|
-## Sofle Choc
 
