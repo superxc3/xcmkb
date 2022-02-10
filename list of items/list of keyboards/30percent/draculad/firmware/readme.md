@@ -14,10 +14,12 @@ The first revision done by XCMKB. Features as follow:-
 *pimoroni can be on right slave, firmware needs to be configured to rotate the TRACKBALL INVERT under config.h. You may check qmk doc for detailed rotation*
 
 ### OLED
+![image](https://user-images.githubusercontent.com/79617315/153377559-3bde97cc-35d4-4c95-a33e-b82d97092ae9.png)
+
 #### Master OLED
 - [x] Layers
 - [x] Capslock
-- [ ] WPM (disable due to oversized firmware when enable VIAL)
+- [ ] WPM (enabled by default; removed to squeeze in vial)
 
 #### Slave OLED
 - [x] LOGO (Default Draculad Logo)
