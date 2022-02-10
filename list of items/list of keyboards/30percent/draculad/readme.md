@@ -2,6 +2,8 @@
 
 Draculad is designed by MangoIV, you can find the PCB and case details ![here](https://github.com/MangoIV/dracuLad).
 
+Build guide by author ![here](https://github.com/MangoIV/dracuLad/blob/master/buildguide.md).
+
 Draculad is a 34-36-key-board. It has aggressive pinky stagger similar to the Kyria but with a slightly alternative thumb cluster to raise comfort for large hands. The thumb cluster is lower than on boards like the Corne keyboard.
 
 |![image](https://user-images.githubusercontent.com/79617315/153325641-f3bb7b15-8880-4eed-8460-2d3c1998672d.png)|
