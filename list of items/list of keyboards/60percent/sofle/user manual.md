@@ -78,12 +78,16 @@ After all switches are inserted, place it back to the board. Tighten the screws.
 2. VIAL download [here](https://get.vial.today/download/)
 
 
-### REMAP
+<s>
+  
+### REMAP Not recommend to use REMAP atm. 
 1. REMAP is a relatively simpler key remapping website. 
 2. REMAP link [here](https://remap-keys.app/)
 3. The HOLD and TAP remap interface is easier using REMAP compare to VIA. However, VIA has richer content and more tapping option compared to REMAP. 
 
 ![image](https://user-images.githubusercontent.com/79617315/150454359-ab1dcfd9-7e8e-475c-ab4a-ee005d808d9b.png)
+</s>
+
 
 #### Notes
 Do launch one application each time to avoid conflict. 
