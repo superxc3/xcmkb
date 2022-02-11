@@ -21,5 +21,13 @@ Features as follow:-
 
 The firmware size is approaching the maximum - 27874/28672 (97%, 798 bytes free)
 
+## Rev 2022-1A (2022-02-11)
+**Special request by buyer who wishes to disable the front led due to glare from transparent switch plate*
+
+All features same as Rev 2022-1 above except front led being disabled.
+  #define RGBLED_NUM 10 under config.h
+
+
+
 
 Kindly contact XCMKB for firmware.
