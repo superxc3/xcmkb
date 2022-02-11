@@ -30,6 +30,6 @@ Some examples of issues NOT covered by the warranty:
 - Promicro port ripped off
 - Board improperly flashed or connected by users led to short circuit or promicro faulty
 - Board connected by untrusted cable
-- Board faulty due to mod tape or any other customization 
+- Board faulty due to tape mod or any other customization 
 
 For additional questions, do dm us through Discord or Shopee.
