@@ -18,4 +18,4 @@ FR4, aluminium, brass and carbon fibre are categorised to stiff switch plate gro
 
 In terms of sound profile, polycarbonate and acrylic have deeper sound and I would recommend for linear switch. 
 
-All the switch plates above can be cast with proper thickness, except acrylic. Switches may popped out if you use it violently (eg. switches at the edge can pop out easier during gaming). When you remove keycaps, switches could be removed together with keycaps. Try to avoid gateron milky bottom housing. 
+All the switch plates above can be casted with proper thickness, except acrylic. Switches may popped out if you use it violently (eg. switches at the edge can pop out easier during gaming). When you remove keycaps, switches could be removed together with keycaps. Try to avoid gateron milky bottom housing. 
