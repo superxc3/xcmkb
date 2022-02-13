@@ -1,5 +1,10 @@
 # List of Firmwares
 
+![image](https://user-images.githubusercontent.com/79617315/153742715-388a9591-0f3b-4ef3-8a6c-a0fb046e51a8.png)
+
+![image](https://user-images.githubusercontent.com/79617315/153742722-065f5dab-bbe0-4678-bc78-a06fe7a7fe12.png)
+
+
 1. [20211110](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/numpad-macropad/!Exclamationumpad/firmware/readme.md#20211110---basic-configuration) - Basic Configuration
 2. [20211213](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/numpad-macropad/!Exclamationumpad/firmware/readme.md#20211213---exclamation-logo-added) - Exclamation Logo Added
 
