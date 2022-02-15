@@ -23,3 +23,11 @@ Step 4: Select your desired BT profile again
 |![image](https://user-images.githubusercontent.com/79617315/153982725-f4f2d95e-78e7-48dc-890a-00c911b7b563.png)|
 |:--:|
 |Step 6: !!! |
+
+
+### Issue 2 - Bluetooth disconnects very often
+Constant disconnect and bad syncing, credit to FaizMidy
+
+Increase the transmitting power from the nicenano.
+Add this to .conf
+> CONFIG_BT_CTLR_TX_PWR_PLUS_8=y
