@@ -40,7 +40,7 @@ Our acrylic layer case is modified according to gtips's with a few improvements 
 
 |![r41](https://user-images.githubusercontent.com/79617315/150625272-b36cb9c8-112e-4c69-869e-a3b228535a62.jpg)|
 |:--:|
-|**Reviung41 Wireless**|
+|**Reviung41 Wireless Frosted Transparent Polycarbonate with KBDFans NP Profile Keycaps**|
 
 | Item | Description |
 |:-|:-|
@@ -49,5 +49,12 @@ Our acrylic layer case is modified according to gtips's with a few improvements 
 | Extras  | [NiceNano V2 with 110 mah battery](https://nicekeyboards.com/nice-nano/) |
 | Sound Test 1 | [Kailh Fried Egg Silent Linear](https://www.youtube.com/watch?v=NhWQsZSVb6k)|
 | Sound Test 2 |[Gateron Pro Red Linear](https://www.youtube.com/watch?v=iLArT9ShYa0)|
+
+
+
+|![image](https://user-images.githubusercontent.com/79617315/154210970-27c4f8b1-b961-4965-9657-15d6c8f849c1.png)|
+|:--:|
+|**Reviung41 Wireless Carbon Fibre with Brass Color Screws**|
+
 
 
