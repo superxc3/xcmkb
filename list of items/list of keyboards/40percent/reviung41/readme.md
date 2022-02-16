@@ -2,6 +2,12 @@
 
 The REVIUNG41 is 41-key column staggered keyboard. It is designed by [gtips](https://github.com/gtips/reviung). 
 
+### What do you need to prepare?
+- 1 unit of 2u stab (either screw-in or pcb-mounted; warning!! plate-mounted stab is not supported)
+- 41 three or five pins mx style switches
+- 41 keycaps
+- Type c or micro usb data cable depends on batch
+
 Our acrylic layer case is modified according to gtips's with a few improvements as follow:
 - Now support screw-in stabs (tested with Durcok JWK V2 screw-in stabs)
 - Acrylic legs for about 7 degree angle
