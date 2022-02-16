@@ -1,6 +1,6 @@
 # Reviung41
 
-The REVIUNG41 is 41-key column staggered keyboard. It is designed by [gtips](https://github.com/gtips/reviung). 
+The REVIUNG41 is a 41-key column staggered keyboard. It is designed by [gtips](https://github.com/gtips/reviung). 
 
 ### What do you need?
 - 1 unit of 2u stab (either screw-in or pcb-mounted; warning!! plate-mounted stab is not supported)
@@ -13,6 +13,30 @@ The REVIUNG41 is 41-key column staggered keyboard. It is designed by [gtips](htt
 Our acrylic layer case is modified according to gtips's with a few improvements as follow:
 - Now support screw-in stabs (tested with Durcok JWK V2 screw-in stabs)
 - Acrylic legs for about 7 degree angle
+
+### Standard Build included
+- 1 pcs of Reviung41 PCB black or white depends on batch
+- Switch plate depends on [option](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/switch%20plate.md) (polycarbonate, FR4, aluminium, brass, carbon fibre)
+- 4 layers of acrylic
+- MCU acrylic cover
+- Screws, standsoff etc and assembled
+- Rubber feet bump
+- MCU Type C or promicro depends on batch
+
+### Basic Build included
+- acrylic switch plate
+- as Standard Build, except comes without 3 intermediate acrylic layers
+
+### Wireless ZMK Build included
+- as Standard Build, except the MCU
+- MCU with nicenano V2
+- 140 or 110mah battery
+- Assembled and pre-flashed with ZMK
+- users/buyers need to learn [ZMK environment setup](https://zmk.dev/docs/development/setup/) and we are not giving guidance on setting up. Any issues can discuss in our Discord server
+
+### Optional 
+- Lasered "REVIUNG" LOGO MCU acrylic cover
+- XCMKB Designed acrylic legs
 
 |![r41](https://user-images.githubusercontent.com/79617315/150625272-b36cb9c8-112e-4c69-869e-a3b228535a62.jpg)|
 |:--:|
