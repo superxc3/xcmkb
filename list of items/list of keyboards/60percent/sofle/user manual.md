@@ -92,4 +92,4 @@ For this kind of board with all 1u, there is dedicated keycap sets. You can try 
 It supports both 3/5pins mx style switches. Can look for smd type if you choose for acrylic, it can lock to the switch plate better. Milk bottom will be more loose for acrylic version. 
 
 
-## Other issues can refer to [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md) or contact us.
+## Other issues can refer to [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md) or consult us through Discord or Shopee.
