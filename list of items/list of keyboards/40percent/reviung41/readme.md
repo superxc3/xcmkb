@@ -2,6 +2,12 @@
 
 The REVIUNG41 is a 41-key column staggered keyboard. It is designed by [gtips](https://github.com/gtips/reviung). 
 
+- User manual for setting up Reviung41 click [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/40percent/reviung41/user%20manual.md).
+
+- Flashed firmware click [here](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/40percent/reviung41/firmware).
+
+- Common issues click [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md).
+
 ### What do you need?
 - 1 unit of 2u stab (either screw-in or pcb-mounted; warning!! plate-mounted stab is not supported)
 - 41 three or five pins mx style switches
