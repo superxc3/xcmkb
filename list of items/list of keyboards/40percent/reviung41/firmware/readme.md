@@ -3,7 +3,7 @@
 Sofle is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master). It is officially supported by VIA and can be detected in VIA.
 
 ## Rev 2022-1 (2022-02-11)
-**Board after this date is flashed with this firmware*
+Board after this date is flashed with this firmware. You can check which firmware being flashed in your Invoice.
 
 Features as follow:-
 - VIA (auto-detected)
