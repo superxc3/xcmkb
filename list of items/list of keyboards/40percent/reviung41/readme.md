@@ -8,6 +8,7 @@ The REVIUNG41 is 41-key column staggered keyboard. It is designed by [gtips](htt
 - 41 keycaps
 - Type c or micro usb data cable depends on batch
 
+### XCMKB Design
 Our acrylic layer case is modified according to gtips's with a few improvements as follow:
 - Now support screw-in stabs (tested with Durcok JWK V2 screw-in stabs)
 - Acrylic legs for about 7 degree angle
