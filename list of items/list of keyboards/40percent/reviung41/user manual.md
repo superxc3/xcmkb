@@ -27,3 +27,4 @@ All switch plates can insert without dissemble except for polycarbonate switch p
 
 
 
+## Other issues can refer to [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md) or consult us through Discord or Shopee.
