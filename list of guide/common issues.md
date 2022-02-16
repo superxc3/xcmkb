@@ -8,6 +8,9 @@ However do note that switches cannot be inserted properly for acrylic switch pla
 #### Rows or columns registered together
 - Check any bent pins on your switch.
 
+#### Keys not mapping
+- Launch one application each time (Via only or VIAL only), do not launch together to avoid conflict.
+- VIAL can be quite buggy. 
 
 ## Split Keyboards
 #### Oled is up but key cannot be registered
