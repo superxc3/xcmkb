@@ -64,12 +64,6 @@ Might be over power drawn from usb port. Lower the brightness to maximum 50%.
 
 ![image](https://user-images.githubusercontent.com/79617315/150453954-8d949cf6-fcf2-4673-8b22-b27a6101c779.png)
 
-### REMAP
-1. REMAP is a relatively simpler key remapping website. 
-2. REMAP link [here](https://remap-keys.app/)
-3. The HOLD and TAP remap interface is easier using REMAP compare to VIA. However, VIA has richer content and more tapping option compared to REMAP. 
-
-![image](https://user-images.githubusercontent.com/79617315/150454359-ab1dcfd9-7e8e-475c-ab4a-ee005d808d9b.png)
 
 #### Notes
 - Do launch one application each time to avoid conflict. 
