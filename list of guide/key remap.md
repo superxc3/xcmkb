@@ -46,5 +46,7 @@ Do note that always launch one application each time to avoid conflicts.
 
 ZMK is like a wireless version of QMK. However there is no real time keymapping for wireless version. It requires you to remap the key through coding (like QMK), compile and re-flash with new firmware with every single key you have remapped. Hence, ZMK wireless is recommended for advanced user who are familiar with own keymap on ergo board or user who determined to learn coding and remap the key through compilation. 
 
+ZMK environment setup [here](https://zmk.dev/docs/development/setup/)
+
 |![image](https://user-images.githubusercontent.com/79617315/154873335-a441ce0f-476c-4e77-8755-b2be604f6c53.png)|
 |:--:|
