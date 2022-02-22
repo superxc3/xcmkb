@@ -1,3 +1,5 @@
+# Flashing Hex
+
 When you are given a new hex file to flash, kindly follow the steps below closely. 
 
 For [single keyboard](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md#single-keyboard), you can just proceed with following session. 
