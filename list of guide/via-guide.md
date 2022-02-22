@@ -31,7 +31,7 @@ This is under SPECIAL > Any in VIA. However, it is quite tricky to use ANYKEY, h
 |:-|:-|
 |LT(1, KC_ESC) | Hold as FN1, Tap as Esc|
 |MT(mod_lctrl, kc_LGUI| Hold as Lctrl, Tap as Start Menu|
-|MT(mod_lctrl, kc_CAPS|
+|MT(mod_lctrl, kc_CAPS| Hold as Lctrl, Tap as Capslock|
 
 **other modifiers code such as lctrl+lshift refers to [Modifier keys](https://docs.qmk.fm/#/feature_advanced_keycodes?id=modifier-keys) and [mod-tap](https://docs.qmk.fm/#/mod_tap)
 
