@@ -26,6 +26,16 @@ Above are some straight forward layer switching, you also can assign other key t
 ## ANYKEY
 This is under SPECIAL > Any in VIA. However, it is quite tricky to use ANYKEY, hence you can refer this [video](https://www.youtube.com/watch?v=hnvtdAOY6kU).
 
+
+| Keycode |Output|
+|:-|:-|
+|LT(1, KC_ESC) | Hold as FN1, Tap as Esc|
+|MT(mod_lctrl, kc_LGUI| Hold as Lctrl, Tap as Start Menu|
+|MT(mod_lctrl, kc_CAPS|
+
+**other modifiers code such as lctrl+lshift refers to [Modifier keys](https://docs.qmk.fm/#/feature_advanced_keycodes?id=modifier-keys) and [mod-tap](https://docs.qmk.fm/#/mod_tap)
+
+
 ![image](https://user-images.githubusercontent.com/79617315/154783534-ef5e386f-d0e1-4516-93c6-51941ff750ee.png)
 
 ## Macro
