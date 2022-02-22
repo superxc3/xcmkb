@@ -65,8 +65,8 @@ Might be over power drawn from usb port. Lower the brightness to maximum 50%.
 ![image](https://user-images.githubusercontent.com/79617315/150453954-8d949cf6-fcf2-4673-8b22-b27a6101c779.png)
 
 
-VIA basic knowledge click [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/via-guide.md).
-Firmware click [here](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20choc/firmware), do note that it is pre-flashed hence flashing is not required when you receive your board.
+#### VIA basic knowledge click [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/via-guide.md).
+#### Firmware click [here](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20choc/firmware), do note that it is pre-flashed hence flashing is not required when you receive your board.
 
 #### Notes
 - Do launch one application each time to avoid conflict. 
