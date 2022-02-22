@@ -28,3 +28,18 @@ This is under SPECIAL > Any in VIA. However, it is quite tricky to use ANYKEY, h
 
 ![image](https://user-images.githubusercontent.com/79617315/154783534-ef5e386f-d0e1-4516-93c6-51941ff750ee.png)
 
+## Macro
+Each keyboard supports up to 15 macros in VIA. 
+
+
+| Function | Keycode |Output|
+|:-|:-|:-|
+|Single tap of A|{KC_A}|A|
+|Typing of a word|{KC_A,KC_P,KC_P,KC_L,KC_E}|APPLE|
+|Holding and single tap|{KC_LCTRL,KC_A}|LCTRL+A|
+|Example of Macro 1|{KC_LCTL,KC_LALT,KC_I}, {KC_5,KC_0,KC_0,KC_ENT}|LCTRL+LALT+I, 500, ENTER|
+
+
+
+
+
