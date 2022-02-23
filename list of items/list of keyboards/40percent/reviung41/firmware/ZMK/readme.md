@@ -18,3 +18,15 @@ To add a new layer, just copy one of the layer codes and duplicate, name it with
 ### First time user to check for connection:
 ![image](https://user-images.githubusercontent.com/79617315/154940017-8fe96cb9-26b3-485a-b428-b4df0cfedea2.png)
 
+### Common Issue
+
+|![image](https://user-images.githubusercontent.com/79617315/155276214-3465093a-1b6e-406c-a615-fb53a1eb372d.png)|
+|:--:|
+| Couldnt connect the board (screenshot credited to daijoubu)|
+1. You do not need to connect the board through cable during troubleshooting.
+2. If you are window user> Start> Bluetooth > Select your board > Remove device
+3. Select BT profile you last connected (hold fn3+bt1) > (hold fn3+bt clear)
+4. If you are not sure which profile you have selected, you may need to clear it one by one as step 3 above.
+5. Bt clear only clear one particular bt profile but not clear all.
+6. Now reconnect it by select a bt profile.
+7. Good luck!
