@@ -8,7 +8,7 @@ Corne designed by [foostan](https://github.com/foostan/crkbd).
 
 All our boards are pre-assembled and pre-flashed. No flashing is required. Launch the app to remap key.
 
-### What do you need?
+## What do you need?
 - Micro-usb cable or type c cable
 - 42 3/5 pins switches mx or low profile choc
 - 42 keycaps
