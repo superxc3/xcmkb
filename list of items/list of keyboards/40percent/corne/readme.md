@@ -10,7 +10,7 @@ All our boards are pre-assembled and pre-flashed. No flashing is required. Launc
 
 ### What do you need?
 - Micro-usb cable or type c cable
-- 42 switches mx or low profile choc
+- 42 3/5 pins switches mx or low profile choc
 - 42 keycaps
 
 
