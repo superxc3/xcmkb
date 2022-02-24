@@ -34,7 +34,7 @@ Malaysia buyer can purchase through [Shopee](https://shopee.com.my/42-Corne-Kail
 |:--:|
 | Corne-cherry; MX Hotswap with RGB per key; 3D Case |
 
-|![image](https://user-images.githubusercontent.com/79617315/155440196-2e5c9bf1-593c-4c3f-b45f-b673bef1487c.png)|
+|![corne solder](https://user-images.githubusercontent.com/79617315/155441590-2fb18d83-a528-4500-9977-3d85a9ed8a9c.jpg)|
 |:--:|
 | Corne-light; solder choc low profile ; 3D Case; Kailh Keycaps (Transparent/Milky/Black) |
 
