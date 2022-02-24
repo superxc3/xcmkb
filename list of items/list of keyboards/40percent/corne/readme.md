@@ -6,6 +6,13 @@ Corne designed by [foostan](https://github.com/foostan/crkbd).
 2. Corne-chocolate (hotswap lp choc)
 3. Corne-light (solder lp choc)
 
+All our boards are pre-assembled and pre-flashed. No flashing is required. Launch the app to remap key.
+
+### What do you need?
+- Micro-usb cable or type c cable
+- 42 switches mx or low profile choc
+
+
 ### User manual
 Connecting splits refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md#part-a-connect). You can utilise sofle manual.
 
