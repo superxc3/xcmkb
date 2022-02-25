@@ -11,7 +11,7 @@ The REVIUNG41 is a 41-key column staggered keyboard. It is designed by [gtips](h
 ### What do you need?
 - 1 unit of 2u stab (either screw-in or pcb-mounted; warning!! plate-mounted stab is not supported)
 - 41 three or five pins mx style switches
-- 41 keycaps (middle space bar 2u, left and right thumb support 1u, 1.25u (ctrl, alt etc), and to a max size of 1.5u (|\). 
+- 41 keycaps (middle space bar 2u, left and right thumb support 1u, 1.25u (ctrl, alt etc), and to a max size of 1.5u (|). 
 - Type c or micro usb data cable depends on batch
 - Our boards are plug and play, no flashing or soldering required
 
