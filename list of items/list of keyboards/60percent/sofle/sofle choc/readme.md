@@ -10,6 +10,7 @@ Open source board by author [josefadamcik](https://github.com/josefadamcik). Lin
 - 58 Low profile choc hotswaps
 - 2 Oleds
 - 2 Rotary Encoders
+- 2 Full Aluminium Knobs
 
 #### Optional features
 - RGB per key
@@ -44,4 +45,7 @@ The first proposal is designed and sent to acrylic factory. Pending for the firs
 |![image](https://user-images.githubusercontent.com/79617315/152263362-e942db4e-584e-4c95-8658-efc01b90e366.png)|
 |Launching of Sofle Choc Matte Black Design 1 with edge|
 
+|![image](https://user-images.githubusercontent.com/79617315/155660049-d4257da6-df8d-452a-a102-4e464743c78c.png)|
+|:--:|
+|Sofle Choc Design 2 without edge|
 
