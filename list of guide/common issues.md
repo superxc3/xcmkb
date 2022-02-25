@@ -19,3 +19,5 @@ However do note that switches cannot be inserted properly for acrylic switch pla
 #### Master split is working perfectly, slave side is not registering
 - Most of the time the problem would be USB cable. Recommend to find a more reliable data cable or just purchase the Ugreen magnetic cable as suggested above. 
 
+#### Boards disconnected after several seconds of connection
+- Might be overpower needed for usb. Try to lower the brightness (especially rgb per key) to 50% and lower.
