@@ -7,7 +7,7 @@ Open source board by author [josefadamcik](https://github.com/josefadamcik). Lin
 
 ## Features
 #### Basic features
-- 58 Low profile choc hotswaps
+- 58 Low profile choc hotswaps (only support v1; does not support v2)
 - 2 Oleds
 - 2 Rotary Encoders
 - 2 Full Aluminium Knobs
