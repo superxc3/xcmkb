@@ -51,7 +51,7 @@ All the builds below are soldered, pre-assembled, and pre-flashed.
 |△ Sofle Acrylic White|
 ||
 |![sofle acrylic diagonal](https://user-images.githubusercontent.com/79617315/150795342-8f4c850a-2ab9-4dc7-b5ef-0efb2ea58dcc.jpg)|
-|△ Sofle Acrylic White with Full Silver Aluminium Knobs upgraded|
+|△ Sofle Acrylic White with Silver Full Aluminium Knobs upgraded|
 ||
 |![sofle pc top](https://user-images.githubusercontent.com/79617315/150795645-335d8b2d-b8e9-4630-9102-336ef35f1541.jpg)|
 |△ Sofle Polycarbonate White|
