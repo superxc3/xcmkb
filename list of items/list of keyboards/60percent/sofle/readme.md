@@ -1,4 +1,35 @@
 # Sofle
+
+Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based on Lily58, Corne and Helix keyboards. It is designed by [josefadamcik](https://github.com/josefadamcik/SofleKeyboard). 
+
+## Sofle Variation
+- Sofle V1 MX & LP Choc Hotswaps
+- Sofle V2 MX Hotswaps only
+- Sofle LP Choc Hotswaps RGB per key
+
+## Link Gate
+- List of Builds selling by us refer [here](https://github.com/superxc3/xcmkb/edit/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/readme.md#list-of-builds).
+- [User manual](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md) for setting up Sofle
+- [Common issues](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md)
+
+
+## List of Builds
+All the builds below are soldered, pre-assembled, and pre-flashed. 
+
+### What do you need?
+- 58 three or five pins mx style or lp choc switches 
+- 2 thumb keys can be 1u or 1.5u
+- Type c or micro usb data cable depends on the build
+
+### Basic Build 
+
+
+### Standard Build
+
+
+
+
+
 ## Sofle V2
 
 |![sofle ac](https://user-images.githubusercontent.com/79617315/155830744-f10a3497-5c43-4f61-b2b8-6554c79795bf.jpg)|
