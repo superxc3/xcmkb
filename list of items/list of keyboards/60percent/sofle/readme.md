@@ -4,14 +4,14 @@ Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based
 
 ## Sofle Variation
 - Sofle V1 MX & LP Choc Hotswaps
-- Sofle V2 MX Hotswaps only
-- Sofle LP Choc Hotswaps RGB per key
+- [Sofle V2 MX Hotswaps only](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle)
+- [Sofle LP Choc Hotswaps RGB per key](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20choc)
 
 ## Link Gate
 - List of Builds selling by us refer [here](https://github.com/superxc3/xcmkb/edit/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/readme.md#list-of-builds).
 - [User manual](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md) for setting up Sofle
 - [Common issues](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md)
-
+- [Switch plate](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/switch%20plate.md) choices 
 
 ## List of Builds
 All the builds below are soldered, pre-assembled, and pre-flashed. 
@@ -21,12 +21,26 @@ All the builds below are soldered, pre-assembled, and pre-flashed.
 - 2 thumb keys can be 1u or 1.5u
 - Type c or micro usb data cable depends on the build
 
-### Basic Build 
+### Acrylic Build 
+- 2 White or Black PCBs depends on batch
+- Acrylic switch plate
+- Frosted clear or transparent clear acrylic bottom plate
+- Transparent or black translucent oled cover
+- 2 rotary encoders
+- 2 oleds
+- TRS cable included
+- Black or silver knobs included
 
-
-### Standard Build
-
-
+### Polycarbonate Build
+- 2 White or Black PCBs depends on batch
+- **Polycarbonate** switch plate (black glossy/clear transparent/frosted transparent)
+- Frosted clear or transparent clear acrylic bottom plate
+- Clear transparent or black translucent oled cover
+- 2 rotary encoders
+- 2 oleds
+- TRS cable included
+- **Full aluminium** black or silver knobs included
+- **2 layer of intermediate acrylics above PCB**
 
 
 
