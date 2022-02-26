@@ -19,12 +19,19 @@ All switch plates can insert without dissemble except for polycarbonate switch p
 5. Push gently to make sure no gap between switch plate and acrylic layers below.
 6. Tighten the screws.
 
-*may refer to this [link](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md#step-4) for photo guidance*
+**May refer to this [link](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md#step-4) for photo guidance*
+
+**It takes a bit effort and time to insert switches on polycarbonate switch plate for the first time usage*
 
 |![image](https://user-images.githubusercontent.com/79617315/154212535-da94bb73-08d6-4150-9cc9-4e69c88d317a.png)|
 |:--:|
 | remove the protective seal or sticker on top of polycarbonate switch plate before insert the switches |
 
+## Reset Button
+Do not touch this button if you are not familiar with firmware reflash / QMK / ZMK setup. 
+|![image](https://user-images.githubusercontent.com/79617315/155825287-28e161bf-d32a-438d-8798-aa9d2ac51198.png)|
+|:--:|
+| Reset button of Reviung41 |
 
 
 ## Other issues can refer to [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md) or consult us through Discord or Shopee.
