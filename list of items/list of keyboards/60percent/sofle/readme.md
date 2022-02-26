@@ -1,12 +1,12 @@
 # Sofle
 ## Sofle V2
 
-|![sofle ac](https://user-images.githubusercontent.com/79617315/150794859-ece497ba-f6fd-43f0-b743-7f51c7160f0a.jpg)|
+|![sofle ac](https://user-images.githubusercontent.com/79617315/155830744-f10a3497-5c43-4f61-b2b8-6554c79795bf.jpg)|
 |:--:|
 |△ Sofle Acrylic White|
 ||
 |![sofle acrylic diagonal](https://user-images.githubusercontent.com/79617315/150795342-8f4c850a-2ab9-4dc7-b5ef-0efb2ea58dcc.jpg)|
-|△ Sofle Acrylic White Detail|
+|△ Sofle Acrylic White with Full Silver Aluminium Knobs upgraded|
 ||
 |![sofle pc top](https://user-images.githubusercontent.com/79617315/150795645-335d8b2d-b8e9-4630-9102-336ef35f1541.jpg)|
 |△ Sofle Polycarbonate White|
