@@ -39,8 +39,10 @@ https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master
 > git add .
 > 
 > git commit -m "adding my keymap"
+
 ![image](https://user-images.githubusercontent.com/79617315/156268287-45eb39a9-5243-4c56-8974-9da376a96d0e.png)
 
 > git push
+
 ![image](https://user-images.githubusercontent.com/79617315/156268371-0da625ac-73a1-4f1b-a97b-1774786efec6.png)
 
