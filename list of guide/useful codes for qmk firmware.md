@@ -11,6 +11,8 @@
 |:--:|
 |qmk setup superxc3/qmk_firmware; successfully cloned from github to local|
 
+## Gitclone to local (vial-qmk eg)
+> git clone --recurse-submodules https://github.com/superxc3/vial-qmk.git
 
 ## Update Master Branch regularly
 https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master-branch
