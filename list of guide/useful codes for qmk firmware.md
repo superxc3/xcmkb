@@ -20,3 +20,11 @@ https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master
  > git remote -v
  
 ![image](https://user-images.githubusercontent.com/79617315/156263488-c43c2600-6abf-41ef-8c17-2968902f718f.png)
+
+
+## Personal token
+> https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+> 
+> log in with your username when prompt to key in
+> 
+> paste the token you generated earlier in qmk msys
