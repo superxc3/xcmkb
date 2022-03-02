@@ -14,6 +14,8 @@
 ## Gitclone to local (vial-qmk eg)
 > git clone --recurse-submodules https://github.com/superxc3/vial-qmk.git
 
+> git clone --recurse-submodules https://github.com/superxc3/zmk.git
+
 ## Update Master Branch regularly
 https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master-branch
 
