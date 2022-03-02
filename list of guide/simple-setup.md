@@ -48,3 +48,27 @@ https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master
 
 ![image](https://user-images.githubusercontent.com/79617315/156268371-0da625ac-73a1-4f1b-a97b-1774786efec6.png)
 
+
+## ZMK action github
+1. Create new zmk-config in github https://zmk.dev/docs/user-setup/#github-repo
+
+> git init
+> 
+> git add README.md
+> 
+> git commit -m "first commit"
+> 
+> git branch -M main
+> 
+> git remote add origin https://github.com/superxc3/zmk-config.git
+> 
+> git push -u origin main
+
+3. CMD > powershell
+4. iex ((New-Object System.Net.WebClient).DownloadString('https://zmk.dev/setup.ps1'))
+5. MCU and shield selection
+6. Insert your github username (to make sure it push to github for action)
+
+![image](https://user-images.githubusercontent.com/79617315/156279207-8d3812c1-6fde-43b2-a3d9-fc532feecd48.png)
+
+
