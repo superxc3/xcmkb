@@ -1,4 +1,4 @@
-# Useful Codes for QMK Firmware
+# simple-setup - do not refer here
 
 ## Setting up QMK Environment & push to github
 1. https://docs.qmk.fm/#/newbs_getting_started
