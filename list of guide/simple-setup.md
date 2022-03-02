@@ -48,6 +48,12 @@ https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master
 
 ![image](https://user-images.githubusercontent.com/79617315/156268371-0da625ac-73a1-4f1b-a97b-1774786efec6.png)
 
+> git push --set-upstream origin master
+
+> git push --set-upstream --force origin master
+
+> iex ((New-Object System.Net.WebClient).DownloadString('https://zmk.dev/setup.ps1'))
+
 
 ## ZMK action github
 1. Create new zmk-config in github https://zmk.dev/docs/user-setup/#github-repo
@@ -71,4 +77,14 @@ https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master
 
 ![image](https://user-images.githubusercontent.com/79617315/156279207-8d3812c1-6fde-43b2-a3d9-fc532feecd48.png)
 
+Hence;
+
+1. cmd
+2. powershell
+3. iex ((New-Object System.Net.WebClient).DownloadString('https://zmk.dev/setup.ps1'))
+4. skip github repo to push
+5. successfully created relevant files
+6. cd zmk-config
+7. git push --set-upstream --force origin master
+8. force push to github in step7
 
