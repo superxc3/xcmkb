@@ -16,6 +16,30 @@ Open source board by author [josefadamcik](https://github.com/josefadamcik). Lin
 - RGB per key
 - Pimoroni trackball
 
+## List of Builds 
+### Polycarbonate Build (Dark)
+- 2 Black PCBs 
+- **Polycarbonate** switch plate (black glossy)
+- Matte Black Opaque acrylic bottom plate
+- Black translucent oled cover
+- 2 rotary encoders
+- 2 oleds
+- TRS cable included
+- **Full aluminium** black knobs included
+- **1 layer of intermediate acrylic above PCB**
+
+### Polycarbonate Build (Light)
+- 2 White PCBs
+- **Polycarbonate** switch plate (clear transparent/frosted transparent)
+- Frosted clear acrylic bottom plate
+- Clear transparent oled cover
+- 2 rotary encoders
+- 2 oleds
+- TRS cable included
+- **Full aluminium** silver knobs included
+- **1 layer of intermediate acrylic above PCB**
+
+
 ## Switch Plate Option
 | No. | Item | Availability | Remarks |
 |:-|:-|:-|:-|
