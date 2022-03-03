@@ -19,7 +19,7 @@ Open source board by author [josefadamcik](https://github.com/josefadamcik). Lin
 ## List of Builds 
 ### Polycarbonate Build (Dark)
 - 2 Black PCBs 
-- **Polycarbonate** switch plate (black glossy)
+- 2 **Polycarbonate** switch plate (black glossy)
 - 2 Matte Black Opaque acrylic bottom plates
 - 2 black translucent oled covers
 - 2 rotary encoders
@@ -30,7 +30,7 @@ Open source board by author [josefadamcik](https://github.com/josefadamcik). Lin
 
 ### Polycarbonate Build (Light)
 - 2 White PCBs
-- **Polycarbonate** switch plate (clear transparent/frosted transparent)
+- 2 **Polycarbonate** switch plate (clear transparent/frosted transparent)
 - Frosted clear acrylic bottom plate
 - Clear transparent oled cover
 - 2 rotary encoders
