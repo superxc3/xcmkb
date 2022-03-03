@@ -20,8 +20,8 @@ Open source board by author [josefadamcik](https://github.com/josefadamcik). Lin
 ### Polycarbonate Build (Dark)
 - 2 Black PCBs 
 - **Polycarbonate** switch plate (black glossy)
-- Matte Black Opaque acrylic bottom plate
-- Black translucent oled cover
+- 2 Matte Black Opaque acrylic bottom plates
+- 2 black translucent oled covers
 - 2 rotary encoders
 - 2 oleds
 - TRS cable included
