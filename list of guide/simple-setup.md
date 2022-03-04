@@ -55,6 +55,14 @@ https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master
 > iex ((New-Object System.Net.WebClient).DownloadString('https://zmk.dev/setup.ps1'))
 
 
+## cygwin_exception::open_stackdumpfile: Dumping stack trace to make.exe.stackdump ERROR Invalid return_code: 35584
+Step 1 delete unnecessary keyboard folders, if does not work, go to Step 2 (recommend).
+
+Step 2 Issue can be referred here https://github.com/qmk/qmk_firmware/issues/13416
+
+Download edited make.exe to solve the problem. Here's an edited make.exe you can drop in C:\QMK_MSYS\usr\bin to fix this: https://cdn.discordapp.com/attachments/798171873951219754/861743181439172638/make.exe
+
+
 ## ZMK action github
 1. Create new zmk-config in github https://zmk.dev/docs/user-setup/#github-repo
 
