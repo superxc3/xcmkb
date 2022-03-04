@@ -1,8 +1,8 @@
 # Corne 
 
-Corne designed by [foostan](https://github.com/foostan/crkbd).
+Corne is designed by [foostan](https://github.com/foostan/crkbd).
 
-1. Corne-cherry (hotswap mx)
+1. Corne-cherry (hotswap mx) - you are here
 2. Corne-chocolate (hotswap lp choc)
 3. Corne-light (solder lp choc)
 
@@ -10,7 +10,7 @@ All our boards are pre-assembled and pre-flashed. No flashing is required. Launc
 
 ## What do you need?
 - Micro-usb cable or type c cable
-- 42 3/5 pins switches mx or low profile choc
+- 42 3/5 pins switches mx 
 - 42 keycaps
 
 
@@ -34,10 +34,5 @@ Malaysia buyer can purchase through [Shopee](https://shopee.com.my/42-Corne-Kail
 |:--:|
 | Corne-cherry; MX Hotswap with RGB per key; 3D Case |
 
-|![corne solder](https://user-images.githubusercontent.com/79617315/155441590-2fb18d83-a528-4500-9977-3d85a9ed8a9c.jpg)|
-|:--:|
-| Corne-light; solder choc low profile ; 3D Case; Kailh Keycaps (Transparent/Milky/Black) |
 
-### Updates/Progress
-We are working on low profile choc mx hotswap with acrylic case. 
 
