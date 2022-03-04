@@ -8,10 +8,35 @@ Corne is designed by [foostan](https://github.com/foostan/crkbd).
 
 All our boards are pre-assembled and pre-flashed. No flashing is required. Launch the app to remap key.
 
-## What do you need?
+## List of Builds
+
+### What do you need?
 - Micro-usb cable or type c cable depends on your purchase/batch
 - 42 3/5 pins switches low profile choc (v1 only, !!v2 cannot fit)
 - 42 keycaps
+
+### All the builds below comprise of
+- 2 White or Black PCBs depends on batch
+- 2 Oleds
+- 2 Oled covers
+- Type c / Micro usb MCU depends on buyer/batch
+- TRS cable
+- Fully assembled and pre-flashed.
+
+### Standard Build
+- FR4 Switch Plates
+- 3D PLA printed case
+- 3D PLA printed Oled covers
+
+### Standard Extra Build
+- FR4 / Polycarbonate Switch Plates
+- 1 layer of intermediate acrylic layer above PCB for each side
+- 1 layer of intermediate acrylic layer below PCB for each side
+- Frosted transparent bottom plates
+- Clear transparent OLED covers
+- Optional: 30cm Tenting Legs
+- Optional: Underglow LED strip (service not provided)
+- Optional: RGB per key (service not provided)
 
 ### User manual
 Connecting splits refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md#part-a-connect). You can utilise sofle manual.
