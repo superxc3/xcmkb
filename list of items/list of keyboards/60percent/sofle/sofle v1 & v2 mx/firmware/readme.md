@@ -2,6 +2,16 @@
 
 Sofle is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master).
 
+
+## Rev 2022-2 no oled (2022-03-04)
+**No oled version, reduced spaces are filled with tap dance and qmk settings in vial feature*
+
+This revision are same as Rev 2022-1, except OLED being disabled; and extra features:
+### VIAL
+- [ ] QMK Settings
+- [X] Combo Enable
+- [X] Tap Dance
+
 ## Rev 2022-1 (2022-02-10)
 **Some boards before this date and all boards after this date is flashed with this firmware*
 
