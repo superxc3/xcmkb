@@ -14,6 +14,6 @@ Can be enabled / disabled depends on the firmware size when compile.
 |![image](https://user-images.githubusercontent.com/79617315/156714455-f0e0038d-dac2-4103-9e9b-67507e3f845d.png)|
 |QMK Settigns|
 
-||
+|![image](https://user-images.githubusercontent.com/79617315/156716686-abf342a9-a578-4a1c-8885-0a52467128a0.png)|
 |:--:| 
-||
+|Tap Dance|
