@@ -16,6 +16,9 @@ Standalone and different branch from Sofle
 - The firmware size is fine - 27106/28672 (94%, 1566 bytes free)
 
 ### 20220306 - Size reduced due to update
+- 6 layers
+- Splitusbdetect
+- Forcenkro
 - Mousekey enabled
 - Tap dance enabled
 - RGB: Breathing, rainbow mood, swirl, static gradient, rgb test
