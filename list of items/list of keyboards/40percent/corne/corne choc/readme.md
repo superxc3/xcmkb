@@ -57,5 +57,9 @@ Malaysia buyer can purchase through [Shopee](https://shopee.com.my/42-Corne-Kail
 |:--:|
 | Corne-light; solder choc low profile ; 3D Case; Kailh Keycaps (Transparent/Milky/Black) |
 
-### Updates/Progress
-We are working on low profile choc mx hotswap with acrylic case. 
+|![corne lp](https://user-images.githubusercontent.com/79617315/158013671-fa99b765-5f61-45e7-9c79-14c82c257b2e.jpg)|
+|:--:|
+|![corne lp bottom](https://user-images.githubusercontent.com/79617315/158013693-c3ed81ee-24c3-4515-a711-d9a3e98346a8.jpg)|
+| Corne chocolate; tenting acrylic |
+
+
