@@ -6,6 +6,7 @@ Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based
 - Sofle V1 MX & LP Choc Hotswaps
 - [Sofle V2 MX Hotswaps only](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle)
 - [Sofle LP Choc Hotswaps RGB per key](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20choc)
+- Sofle V1 RGB per key (unofficial)
 
 ## Link Gate
 - List of Builds selling by us refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/readme.md#list-of-builds).
