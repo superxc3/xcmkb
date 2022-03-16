@@ -82,8 +82,13 @@ After you are happy with 60% boards, you will soon be interest in a smaller boar
 
 ### 60 Percent
 1. Avalanche 
-2. Sesame (unibody)
-3. Sofle 
+2. Sesame
+3. Sofle
+
+|![image](https://user-images.githubusercontent.com/79617315/158512401-1ebfc9e4-f754-4296-be63-a4e32ba28eaf.png)|
+|:--:|
+|Sesame (unibody/unsplit, alice-style); Keycaps EPBT WOB Cherry |
+
 
 ### 40 Percent
 1. Corne
@@ -92,6 +97,19 @@ After you are happy with 60% boards, you will soon be interest in a smaller boar
 4. Reviung41 (unibody)
 5. TBK Mini II - Corne Dactyl
 6. Treadstone40
+
+
+|![image](https://user-images.githubusercontent.com/79617315/158512756-08964723-da1a-402c-95d3-ca4b404758aa.png)|
+|:--:|
+|Reviung41 White PC with Wireless ZMK; Keycaps: KBDFans NP Profile |
+
+|![image](https://user-images.githubusercontent.com/79617315/158512687-1a0082e0-6d54-4739-a877-2c9a4624fe33.png)|
+|:--:|
+|Reviung41 Choc with rotary encoder (unofficial); Keycaps MBK White Blank |
+
+|![image](https://user-images.githubusercontent.com/79617315/158512617-5d3e9de6-7c67-4494-8cc5-a83287145fac.png)|
+|:--:|
+|TBK Mini II - Corne Dactyl; Keycaps MT3 BOW |
 
 ### 30 Percent
 1. Draculad
