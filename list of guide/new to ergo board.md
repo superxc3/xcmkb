@@ -64,6 +64,9 @@ After you are happy with 60% boards, you will soon be interest in a smaller boar
 ### The Numpad Power
 Yes. I need numpad. No matter what I need numpad for calculation etc. However, the alice-clone does not allowed me to play with numpad layer due to the normal staggered. The columnar staggered layout itself can mimic the design of numpad, which is one of the reason why I switch to columnar staggered. 
 
+|![image](https://user-images.githubusercontent.com/79617315/158506903-ffb8da25-c0ab-443b-90e1-0fdc696d40ba.png)|
+|:--:|
+| Example of Numpad layer toggle, left side can be register through single hand; right for muscle memory |
 
 
 ## Boards Owned
