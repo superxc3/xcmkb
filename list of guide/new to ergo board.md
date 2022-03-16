@@ -74,8 +74,7 @@ Since it is an open source board, you can customise the board yourself. You may 
 After you are happy with 60% boards, you will soon be interest in a smaller board to challenge yourself. 40% is so much cuter and smaller. It allows more space on your table. As long as you started play with layers on 60% board, it wont be hard for you to proceed with 40%. 
 
 ## 30% 
-30 percent is a even sweeter board, however it is very hard to adapt and requires many tapping and combo. I myself is not brave enough to step into it, although built one draculad with pimoroni trackball. There are users in Malaysia who love 30% and find it as the sweetest layout size especially it is very portable. 
-
+30 percent is an even sweeter board, however it is very hard to adapt and requires many tapping and combo. I myself is not brave enough to step into it, although built one draculad with pimoroni trackball. There are users in Malaysia who love 30% and find it as the sweetest layout size especially it is very portable. 
 
 ---
 
