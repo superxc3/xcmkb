@@ -64,13 +64,18 @@ All the builds below are soldered, pre-assembled, and pre-flashed.
 
 
 
-|![sofle case](https://user-images.githubusercontent.com/79617315/150625256-86398ed9-8d6b-4c29-bf9f-ccc324fad485.jpg)|
+
+---
+## Showcase
+|![image](https://user-images.githubusercontent.com/79617315/158513771-bdaacd93-2ed8-43ad-9487-138a2844bc50.png)|
 |:--:|
+|Sofle V2 frameless + Pimoroni trackball; Keycaps MT3 Susuwatari|
 
+|![image](https://user-images.githubusercontent.com/79617315/158513843-eaea3817-c09c-46bc-a7b7-cbb505b76633.png)|
+|:--:|
+|Sofle V2 frameless + Pimoroni trackball; Keycaps GMK Laser Cherry |
 
-| Keyboard |Sofle V2 with 3D Printed Case & Trackball| 
-|:-|:-|
-| Switch Plate | Acrylic; with 2 intermediate layers |
-| Keycaps | [DROP MT3 BOW](https://drop.com/buy/drop-mt3-black-on-white-keycap-set)  |
-| Extras  | [Pimoroni Trackball Breakout](https://shop.pimoroni.com/products/trackball-breakout)|
+|![image](https://user-images.githubusercontent.com/79617315/158512971-417c05b6-50f4-4ac1-b339-d81ff050f716.png)|
+|:--:|
+|Sofle V2 with tenting 3D case + Pimoroni trackball; Keycaps MT3 BOW |
 
