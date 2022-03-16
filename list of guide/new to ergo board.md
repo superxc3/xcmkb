@@ -89,6 +89,9 @@ After you are happy with 60% boards, you will soon be interest in a smaller boar
 |:--:|
 |Sesame (unibody/unsplit, alice-style); Keycaps EPBT WOB Cherry |
 
+|![image](https://user-images.githubusercontent.com/79617315/158512971-417c05b6-50f4-4ac1-b339-d81ff050f716.png)|
+|:--:|
+|Sofle V2 with tenting 3D case + Pimoroni trackball; Keycaps MT3 BOW |
 
 ### 40 Percent
 1. Corne
@@ -101,7 +104,7 @@ After you are happy with 60% boards, you will soon be interest in a smaller boar
 
 |![image](https://user-images.githubusercontent.com/79617315/158512756-08964723-da1a-402c-95d3-ca4b404758aa.png)|
 |:--:|
-|Reviung41 White PC with Wireless ZMK; Keycaps: KBDFans NP Profile |
+|Reviung41 White PC with Wireless ZMK; Keycaps KBDFans NP Profile |
 
 |![image](https://user-images.githubusercontent.com/79617315/158512687-1a0082e0-6d54-4739-a877-2c9a4624fe33.png)|
 |:--:|
@@ -115,3 +118,6 @@ After you are happy with 60% boards, you will soon be interest in a smaller boar
 1. Draculad
 2. Stonehenge30
 
+|![drac](https://user-images.githubusercontent.com/79617315/150625252-49b91670-e43a-40aa-9a17-efebccc50e19.jpg) |
+|:--:|
+| Draculad; Keycaps MBK White Blank |
