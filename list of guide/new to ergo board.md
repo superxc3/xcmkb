@@ -36,9 +36,13 @@ Some might ask, why skip 75% split? For ergo users, we are looking for "practica
 
 ### Remap and Layers
 
-|![image](https://user-images.githubusercontent.com/79617315/158501928-2ee7aaa9-47f9-4205-86c7-1dee82ea5ef8.png)|
+|![image](https://user-images.githubusercontent.com/79617315/158510903-39d9afd8-0e56-487c-8898-d6ba21c6156a.png)|
 |:--:|
-| Thumb to hold and access another layer ([source](https://ergodox-ez.com/pages/getting-started))|
+| Thumb to hold and access another layer for F row or number |
+
+|![image](https://user-images.githubusercontent.com/79617315/158510952-0fa7a6d8-cac9-4625-8411-a8153f349c42.png)|
+|:--:|
+| Thumb to hold and access arrow key |
 
 ### Oleds
 Some people prefer boards to be as simple as no oleds and rotary encoders, but they are fancy to play with for beginners though. Oleds can be customised to something else, for example layer indicator, logo, capslock, as well as animated pet. However, that requires you to explore QMK and edit the codes accordingly. An animated pet occupies a large portion of space, which at the end some practical users wave the oled and adding it more functions like tap dance, combo etc to the boards. 
