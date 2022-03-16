@@ -76,6 +76,13 @@ After you are happy with 60% boards, you will soon be interest in a smaller boar
 ## 30% 
 30 percent is an even sweeter board, however it is very hard to adapt and requires many tapping and combo. I myself is not brave enough to step into it, although built one draculad with pimoroni trackball. There are users in Malaysia who love 30% and find it as the sweetest layout size especially it is very portable. 
 
+## The Rising Low Profile / Choc Switch
+
+Low profile or choc switch has been less populated among the community. The switch and keycap choices are very limited. Many prefer LP due to the short travel distance. Most of the linear choc switch requires self lubed to make it sound sweeter and more silent. The clicky LP has lesser actuation force compared to the normal mx switch, however the clicky sound is still very annoying. We do not recocommend tactile for low profile as it works like scractchy linear and the tactile bump is very minimal. Again, preference though. 
+
+The socket of lp is different from the commonly found mx board. Hence, when you buy the LP board most likely it is not supporting mx switch. Do take note. 
+
+
 ---
 
 ## Boards Owned
@@ -92,6 +99,16 @@ After you are happy with 60% boards, you will soon be interest in a smaller boar
 |![image](https://user-images.githubusercontent.com/79617315/158512971-417c05b6-50f4-4ac1-b339-d81ff050f716.png)|
 |:--:|
 |Sofle V2 with tenting 3D case + Pimoroni trackball; Keycaps MT3 BOW |
+
+|![image](https://user-images.githubusercontent.com/79617315/158513771-bdaacd93-2ed8-43ad-9487-138a2844bc50.png)|
+|:--:|
+|Sofle V2 frameless + Pimoroni trackball; Keycaps MT3 Susuwatari|
+
+|![image](https://user-images.githubusercontent.com/79617315/158513843-eaea3817-c09c-46bc-a7b7-cbb505b76633.png)|
+|:--:|
+|Sofle V2 frameless + Pimoroni trackball; Keycaps GMK Laser Cherry |
+
+
 
 ### 40 Percent
 1. Corne
