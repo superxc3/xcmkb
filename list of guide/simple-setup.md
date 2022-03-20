@@ -106,4 +106,9 @@ To proper place it in the correct keyboard folder name
 instead of 
 >> C:\Users\chino\qmk_firmware\keyboards\solartempest\
 
+---
+## Laggy on certain keys when flash with new firmware
+
+Clear eeprom. Under QMK Toolbox, untick autoflash, double press physical reset button; click clear EEPROM when it does not greyed out. FIXED.
+
 
