@@ -11,11 +11,13 @@
 |:--:|
 |qmk setup superxc3/qmk_firmware; successfully cloned from github to local|
 
+---
 ## Gitclone to local (vial-qmk eg)
 > git clone --recurse-submodules https://github.com/superxc3/vial-qmk.git
 
 > git clone --recurse-submodules https://github.com/superxc3/zmk.git
 
+---
 ## Update Master Branch regularly
 https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master-branch
 
@@ -25,14 +27,14 @@ https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master
  
 ![image](https://user-images.githubusercontent.com/79617315/156263488-c43c2600-6abf-41ef-8c17-2968902f718f.png)
 
-
+---
 ## Personal token
 > https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 > 
 > log in with your username when prompt to key in
 > 
 > paste the token you generated earlier in qmk msys
-
+---
 ## ⚠ Git has unstashed/uncommitted changes.
 > cd qmk_firmware
 > 
@@ -54,7 +56,7 @@ https://docs.qmk.fm/#/newbs_git_using_your_master_branch?id=updating-your-master
 
 > iex ((New-Object System.Net.WebClient).DownloadString('https://zmk.dev/setup.ps1'))
 
-
+---
 ## cygwin_exception::open_stackdumpfile: Dumping stack trace to make.exe.stackdump ERROR Invalid return_code: 35584
 Step 1 delete unnecessary keyboard folders, if does not work, go to Step 2 (recommend).
 
@@ -62,7 +64,7 @@ Step 2 Issue can be referred here https://github.com/qmk/qmk_firmware/issues/134
 
 Download edited make.exe to solve the problem. Here's an edited make.exe you can drop in C:\QMK_MSYS\usr\bin to fix this: https://cdn.discordapp.com/attachments/798171873951219754/861743181439172638/make.exe
 
-
+---
 ## ZMK action github
 1. Create new zmk-config in github https://zmk.dev/docs/user-setup/#github-repo
 
