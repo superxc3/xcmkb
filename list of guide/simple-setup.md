@@ -96,15 +96,15 @@ Hence;
 7. git push --set-upstream --force origin master
 8. force push to github in step7
 
-
+---
 ## Could not compile (keyboard.h error)
 
 To proper place it in the correct keyboard folder name
 
->> C:\Users\chino\qmk_firmware\keyboards\solartempest\sofle
+> C:\Users\chino\qmk_firmware\keyboards\solartempest\sofle
 
 instead of 
->> C:\Users\chino\qmk_firmware\keyboards\solartempest\
+> C:\Users\chino\qmk_firmware\keyboards\solartempest\
 
 ---
 ## Laggy on certain keys when flash with new firmware
@@ -112,3 +112,12 @@ instead of
 Clear eeprom. Under QMK Toolbox, untick autoflash, double press physical reset button; click clear EEPROM when it does not greyed out. FIXED.
 
 
+---
+
+## Pimoroni Trackball Rotation
+Main from qmk documentation: https://docs.qmk.fm/#/feature_pointing_device?id=pimoroni-trackball
+
+/* XCMKB following if pimoroni on left */
+> #define POINTING_DEVICE_ROTATION_90
+
+---
