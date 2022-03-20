@@ -3,6 +3,19 @@
 Sofle is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master).
 
 
+## Rev 2022-3 Pimoroni trackball (2022-03-20)
+**Pimoroni Trackball version, left and right can be master*
+- Inspired by Solartempest
+- VIA only, no VIAL. Manual load json
+- Programmable knob rotation through VIA
+- Left and right can be pimoroni as long as it is hotswap
+- OLED on both sides (and must), one side OLED installed might cause OLED not show up properly
+- Layer 0 and other as scroll; Layer 4 as precision
+
+|![image](https://user-images.githubusercontent.com/79617315/159146852-50b50896-7e8e-4c4f-9c12-b39d5a747f82.png)|
+|:--:|
+| VIA only, however programmable knob ||
+
 ## Rev 2022-2 no oled (2022-03-04)
 **No oled version, reduced spaces are filled with tap dance and qmk settings in vial feature*
 
