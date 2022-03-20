@@ -96,3 +96,14 @@ Hence;
 7. git push --set-upstream --force origin master
 8. force push to github in step7
 
+
+## Could not compile (keyboard.h error)
+
+To proper place it in the correct keyboard folder name
+
+>> C:\Users\chino\qmk_firmware\keyboards\solartempest\sofle
+
+instead of 
+>> C:\Users\chino\qmk_firmware\keyboards\solartempest\
+
+
