@@ -19,14 +19,20 @@ Sofle originally designed by author [josefadamcik](https://github.com/josefadamc
 ## List of Builds 
 - 2 Black or white PCBs 
 - 2 FR4 switch plates
-- 1 set of PLA printed 3D case
-- 2 black translucent or clear transparent acrylic oled covers
+- 1 set of PLA+ printed 3D case
+- 2 black translucent or clear transparent acrylic or 3D printed PLA+ oled covers
 - TRS cable included
-- Type c or promicro depends on batch
+- Promicros (upgrade to Type C RM15.00 per side, total RM30.00) *fluctuation of type c promicros, current rate dated 2022-03-21
 
 ## What do you need?
 - 58 mx style 3/5pins switches
-- 58 1u keycaps, thumb with 1.5u 
+- 58 1u keycaps, thumb with 1.5u (1u is working as well)
 - Type c or micro usb data cable 
 
+## Possible upgrades
+- Type C promicro (RM30)
+- Full aluminium knobs (RM16)
+
 User manual check [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md).
+
+Key remap method: manual load json or through VIAL
