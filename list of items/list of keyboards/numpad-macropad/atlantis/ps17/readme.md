@@ -1,5 +1,11 @@
 # Atlantis PS17 Numpad
 
+|![17](https://user-images.githubusercontent.com/79617315/160035509-e0b78bb7-905b-467f-859e-1d801f10e7f6.jpg)|
+|:--:|
+| PS17: Black Top Acrylic; Frosted Clear Acrylic; Black Top Brass; Black Top FR4 |
+
+
+
 This board is designed by Atlantis and we XCMKB are their vendor in Malaysia. We do have stock of top plate (black matte black or frosted transparent) if you wish to change for new look on your numpad. We also can customise for brass plate, dm us for details!
 
 ## What do you need?
@@ -24,5 +30,10 @@ Using Via. Downloads and manual refer [here](https://github.com/superxc3/xcmkb/b
 
 # Firmware flashed
 Default set by Atlantis, however we do added layer indicator light on the top row of numpad. (Layer 1-6)
+
+
+|![Layer indicator](https://user-images.githubusercontent.com/79617315/160035412-fad2bddd-acc2-49f5-89b5-dfbcb5a44acd.jpg)|
+|:--:|
+|Layer indicator light set by XCMKB |
 
 
