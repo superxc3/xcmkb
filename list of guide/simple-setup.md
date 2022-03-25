@@ -1,4 +1,4 @@
-# simple-setup - do not refer here
+# simple-setup - do not refer here - xcmkb reference only
 
 ## Setting up QMK Environment & push to github
 1. https://docs.qmk.fm/#/newbs_getting_started
@@ -123,3 +123,20 @@ Main from qmk documentation: https://docs.qmk.fm/#/feature_pointing_device?id=pi
 > #define POINTING_DEVICE_ROTATION_90
 
 ---
+
+## OLED not appeared 
+~~~
+bool oled_task_user(void) {
+/*    if (is_keyboard_master()) {
+        print_status_narrow();
+    } else {
+        render_logo();
+		}*/
+	print_status_narrow();
+    return true; 
+}
+
+#endif
+~~~
+
+* change to bool and add return true (as encoder)
