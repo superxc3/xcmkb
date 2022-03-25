@@ -20,7 +20,7 @@ This board is designed by Atlantis and we XCMKB are their vendor in Malaysia. We
 2. Other design aluminium knobs, with 6mm diameter shaft. 
 
 # Key Remap
-Using Via. Downloads and manual refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/key%20remap.md#1-via). Basic knowledge on using via refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/via-guide.md). 
+Using Via. Downloads and manual refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/key%20remap.md#1-via), json file [here](https://drive.google.com/file/d/1a7J1gHCxJdgyzfK0JylTgI1jKATKNYiH/view?usp=sharing). Basic knowledge on using via refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/via-guide.md). 
 
 # Firmware flashed
 Default set by Atlantis, however we do added layer indicator light on the top row of numpad. (Layer 1-6)
