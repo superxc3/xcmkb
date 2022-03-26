@@ -15,7 +15,7 @@ Standalone and different branch from Sofle
 - Firmware request from XCMKB
 - The firmware size is fine - 27106/28672 (94%, 1566 bytes free)
 
-### 20220306 - Size reduced due to update
+### 20220306 - OLED removed to accommodate for tap dance and mousekey
 - 6 layers
 - Splitusbdetect
 - Forcenkro
