@@ -7,6 +7,10 @@ There is certain glitches need to be fixed for Sofle RGB as listed in official r
 
 Sofle originally designed by author [josefadamcik](https://github.com/josefadamcik). 
 
+|![image](https://user-images.githubusercontent.com/79617315/160727938-ac75542d-cf71-43a1-9c5b-83dee7c3b74b.png)|
+|:--:|
+| Sofle V1.1 RGB per key with transparent PLA+ 3D case |
+
 ## Features
 #### Basic features
 - 58 MX style hotswap socket
