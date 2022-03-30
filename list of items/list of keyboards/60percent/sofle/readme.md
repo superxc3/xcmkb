@@ -79,3 +79,6 @@ All the builds below are soldered, pre-assembled, and pre-flashed.
 |:--:|
 |Sofle V2 with tenting 3D case + Pimoroni trackball; Keycaps MT3 BOW |
 
+|![image](https://user-images.githubusercontent.com/79617315/160728223-b2fcba74-08fb-4504-8ee6-83e5dbcc14e1.png)|
+|:--:|
+|Sofle V2 carbon fibre switch plate|
