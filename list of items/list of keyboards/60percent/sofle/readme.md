@@ -52,24 +52,26 @@ All the builds below are soldered, pre-assembled, and pre-flashed.
 |:--:|
 |△ Sofle Acrylic White|
 ||
-|![sofle acrylic diagonal](https://user-images.githubusercontent.com/79617315/150795342-8f4c850a-2ab9-4dc7-b5ef-0efb2ea58dcc.jpg)|
-|△ Sofle Acrylic White with Silver Full Aluminium Knobs upgraded|
-||
+
 |![sofle pc top](https://user-images.githubusercontent.com/79617315/150795645-335d8b2d-b8e9-4630-9102-336ef35f1541.jpg)|
+|:--:|
 |△ Sofle Polycarbonate White|
-||
-|![sofle pc diagonal](https://user-images.githubusercontent.com/79617315/150795889-0fb46f0d-a638-4c58-acb2-ec3bf7e63096.jpg)|
-|△ Sofle Polycarbonate White Detail|
-||
 
 
+|![soflechoccatzlean](https://user-images.githubusercontent.com/79617315/160728724-0c4f08ff-d0ea-4630-b50b-bb1991c63f93.jpg)|
+|:--:|
+| △ [Sofle Choc](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20choc) with RGB per key; Keycap MBK Glow |
 
+
+|![soflergb](https://user-images.githubusercontent.com/79617315/160728817-f9e957b5-0942-49c8-bdd0-9213f0545047.jpg)|
+|:--:|
+| △ [Sofle V1 RGB](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/soflev1rgb) |
 
 ---
 ## Showcase
-|![image](https://user-images.githubusercontent.com/79617315/158513771-bdaacd93-2ed8-43ad-9487-138a2844bc50.png)|
+|![image](https://user-images.githubusercontent.com/79617315/160729006-51849881-6af1-41ab-8eec-f71ced299eb5.png)|
 |:--:|
-|Sofle V2 frameless + Pimoroni trackball; Keycaps MT3 Susuwatari|
+|Sofle V2 frameless + Pimoroni trackball; Keycaps MT3 WOB|
 
 |![image](https://user-images.githubusercontent.com/79617315/158513843-eaea3817-c09c-46bc-a7b7-cbb505b76633.png)|
 |:--:|
