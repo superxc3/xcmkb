@@ -6,7 +6,7 @@ Key remap through QMK VIA. Downloads and basic use refer [here](https://github.c
 ## 2022-1 (2022-03-01) 
 *Basic Via support and configuration*
 
-- Manual load json 
+- Manual load [json](https://drive.google.com/file/d/1AYjldM6BTlOvo6rmUBkauUZ2ew_Y5Mvw/view?usp=sharing)
 - Programmable knob rotation through VIA
 - 4 layers
 - Mouse disabled
