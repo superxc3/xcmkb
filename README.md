@@ -20,6 +20,9 @@ Kindly refer to this [page](https://github.com/superxc3/xcmkb/blob/main/list%20o
 4. Sofle 3d case - lulu inspired
 5. Redox study (2.4g connection)
 
+|![image](https://user-images.githubusercontent.com/79617315/160728186-9fea4366-bdd7-4c6a-b4c2-7f2f31c19fb4.png)|
+|:--:|
+
 
 
 ## Warranty 
