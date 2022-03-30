@@ -35,4 +35,12 @@ Sofle originally designed by author [josefadamcik](https://github.com/josefadamc
 
 User manual check [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md).
 
-Key remap method: manual load json or through VIAL
+Rotary encoders are ported in VIA. Do note that this version of Sofle does not comes from sofle original repo, hence it will not be auto-detected in VIA. You will need to manual load json. Key remap does not required re-flashing, simply remap the key through VIA. 
+
+Via download and tutorial [check here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/key%20remap.md).
+
+json download [here](https://drive.google.com/file/d/1AYjldM6BTlOvo6rmUBkauUZ2ew_Y5Mvw/view?usp=sharing). 
+
+|![image](https://user-images.githubusercontent.com/79617315/160727440-7c823cbe-a746-4696-b724-7b56dac6a504.png)|
+|:--:|
+| Firmware of 2022-1 (2022-03-01) , rotary encoder ported through VIA |
