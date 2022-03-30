@@ -8,10 +8,19 @@
 
 
 # Introduction to Ergo Boards
-*session in construction*
+Kindly refer to this [page](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/new%20to%20ergo%20board.md).
 
-# Recommended Journey 
-*session in construction*
+# Design / Keeb Schedule
+1. Reviung41 variation
+   - Reviung41 mx based with rotary encoder, oled optional; whether zmk compatible
+   - Reviung41 choc hotswap with rgb per key; based on r41 repo
+   - Reviung41 choc and mx hotswap, no rgb per key; add rotary encoder; based on r41 repo
+2. Hashpad
+3. Corne acrylic case framed design
+4. Sofle 3d case - lulu inspired
+5. Redox study (2.4g connection)
+
+
 
 ## Warranty 
 Unless otherwise explicitly stated in connection with the purchase, the warranty period is 1 (one) month. The warranty period starts when the product(s) is delivered to the first end-user.
