@@ -12,7 +12,7 @@ Kindly refer to this [page](https://github.com/superxc3/xcmkb/blob/main/list%20o
 
 # Design / Keeb Schedule
 1. Reviung41 variation
-   - Reviung41 mx based with rotary encoder, oled optional; whether zmk compatible
+   - Reviung41x mx based with rotary encoder, oled optional; whether zmk compatible
    - Reviung41 choc hotswap with rgb per key; based on r41 repo
    - Reviung41 choc and mx hotswap, no rgb per key; add rotary encoder; based on r41 repo
 2. Hashpad
