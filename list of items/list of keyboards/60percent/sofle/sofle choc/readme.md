@@ -1,9 +1,13 @@
-# Sofle Choc V2
+# Sofle Choc 
 
 Sofle is a 6x4+5 keys 60% liked columnar staggered split keyboard. It is recommended as the beginner board for new split users. Sofle choc is one of the variations from sofle, which design for low profile choc switch. 
 
 
 Open source board by author [josefadamcik](https://github.com/josefadamcik). Link to [PCB & Case](https://github.com/josefadamcik/SofleKeyboard/tree/master/Sofle_Choc). 
+
+|![soflechoccatzlean](https://user-images.githubusercontent.com/79617315/160729359-11ed828c-5e97-42b0-b6de-c3f555013d9e.jpg)|
+|:--:|
+| Sofle Choc RGB with MBK Glow (catzlean) |
 
 ## Features
 #### Basic features
