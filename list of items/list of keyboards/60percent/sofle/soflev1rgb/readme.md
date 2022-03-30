@@ -35,7 +35,7 @@ Sofle originally designed by author [josefadamcik](https://github.com/josefadamc
 
 User manual check [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md).
 
-Rotary encoders are ported in VIA. Do note that this version of Sofle does not comes from sofle original repo, hence it will not be auto-detected in VIA. You will need to manual load json. Key remap does not required re-flashing, simply remap the key through VIA. 
+Rotary encoders are ported in VIA hence this version does not support VIAL. Do note that this version of Sofle does not comes from sofle original repo, hence it will not be auto-detected in VIA. You will need to manual load json. Key remap does not required re-flashing, simply remap the key through VIA. 
 
 Via download and tutorial [check here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/key%20remap.md).
 
