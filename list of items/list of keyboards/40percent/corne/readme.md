@@ -38,6 +38,7 @@ All the builds below include:
 
 ## 3D case 
 - 3D case with tenting and 3D printed oled cover
+
 |![cor22ne](https://user-images.githubusercontent.com/79617315/155439971-86c976f9-0ff5-4ece-a23a-1a7bd38a91a8.jpg)|
 |:--:|
 | Corne-cherry; MX Hotswap with RGB per key; 3D Case |
@@ -45,6 +46,8 @@ All the builds below include:
 ## Frameless stacked acrylic 
 - bottom acrylic plate
 - oled acrylic cover
+
+
 | ![image](https://user-images.githubusercontent.com/79617315/161381040-701fb2c6-cd84-4aa1-acac-c404ead944f6.png)|
 |:--:|
 | Corne-cherry; MX Hotswap with underglow only; frameless stacked acrylic design |
