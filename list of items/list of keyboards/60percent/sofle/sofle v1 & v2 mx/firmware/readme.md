@@ -2,6 +2,13 @@
 
 Sofle is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master).
 
+## Rev 2022-4 Pimoroni trackball (left) (2022-04-02)
+- A revision from rev 2022-3 as trackball moved to left
+- Fixed buggy col 0 and row 0; keymap enable in VIA, no more random codes
+- Fixed keymap reversed issue
+- Fixed rgb led strip (original was rgb per key from keyhive)
+- Disable heptic bzzz
+- [ ] Pending changing oled logo and appearance
 
 ## Rev 2022-3 Pimoroni trackball (2022-03-20)
 **Pimoroni Trackball version, left and right can be master*
