@@ -62,4 +62,18 @@ Malaysia buyer can purchase through [Shopee](https://shopee.com.my/42-Corne-Kail
 |![corne lp bottom](https://user-images.githubusercontent.com/79617315/158013693-c3ed81ee-24c3-4515-a711-d9a3e98346a8.jpg)|
 | Corne chocolate; tenting acrylic |
 
+|![image](https://user-images.githubusercontent.com/79617315/161380902-a7124fa5-77d2-4968-ab98-32ee716fc703.png)|
+|:--:|
+| Corne Low Profile Choc with Heavy Yellow Switches; Frameless stacked acrylic case with tenting legs designed by XCMKB |
+
+| ![image](https://user-images.githubusercontent.com/79617315/161380937-b903a878-11f4-4e19-a02b-52c2ee44b9e3.png) |
+|:--:|
+| Corne Low Profile Choc (hotswap) with Heavy Yellow Switches; Frameless stacked acrylic case with tenting legs designed by XCMKB |
+
+|![image](https://user-images.githubusercontent.com/79617315/161380956-68ee5ef2-896f-4a9e-a1bf-f767eea44f8b.png)|
+|:--:|
+| Corne Low Profile Choc (hotswap) with flat 3D case |
+
+
+
 
