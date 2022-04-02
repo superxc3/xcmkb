@@ -29,10 +29,31 @@ List of firmware flashed refer [here](https://github.com/superxc3/xcmkb/tree/mai
 ## List of Products from XCMKB
 Malaysia buyer can purchase through [Shopee](https://shopee.com.my/42-Corne-Kailh-Mx-Hotswap-Cornr-LP-Choc-Low-Profile-Ergo-Split-Mechanical-Keyboard-OLED-Screen-Open-Source-QMK-i.147025799.3041699833?sp_atk=df65d657-d90d-47c1-92f0-8485a15fe1c6), others please email us @[xchclow@gmail.com](mailto:xchclow@gmail.com) or contact us through [Instagram](https://www.instagram.com/_xcmkb_/?hl=en). 
 
+# List of Builds
 
+All the builds below include:
+- 2 OLED screens (oled color depends on batches)
+- FR4 switch plates
+- PCB (white or black)
+
+## 3D case 
+- 3D case with tenting and 3D printed oled cover
 |![cor22ne](https://user-images.githubusercontent.com/79617315/155439971-86c976f9-0ff5-4ece-a23a-1a7bd38a91a8.jpg)|
 |:--:|
 | Corne-cherry; MX Hotswap with RGB per key; 3D Case |
+
+## Frameless stacked acrylic 
+- bottom acrylic plate
+- oled acrylic cover
+| ![image](https://user-images.githubusercontent.com/79617315/161381040-701fb2c6-cd84-4aa1-acac-c404ead944f6.png)|
+|:--:|
+| Corne-cherry; MX Hotswap with underglow only; frameless stacked acrylic design |
+
+Both design above can go for this upgrade:
+- 3 layers of intermediate acrylic layers to fill the gap of board
+
+
+
 
 
 
