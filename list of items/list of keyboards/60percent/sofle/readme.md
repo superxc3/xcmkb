@@ -44,6 +44,15 @@ All the builds below are soldered, pre-assembled, and pre-flashed.
 - **Full aluminium** black or silver knobs included
 - **2 layer of intermediate acrylics above PCB**
 
+### Available upgrades
+- Nicenano v2 wireless +RM300 subject to Group Buy stocks (please refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/key%20remap.md) for keyremap. Wireless keyremap recommended for advanced user only.
+- Underglow with manual LED strip 3 leds per side RGB available for sofle V2 + RM25
+- Switch plates option subject to stock and pre-order: Aluminium (+RM120), carbon fibre (+RM85), and brass (+RM150) 
+
+
+| ![combination](https://user-images.githubusercontent.com/79617315/161410505-1d261d47-2922-468c-a2a3-dfb9c18d3d5f.jpg)|
+|:--:|
+| RGB underglow LED strip for Sofle V2 +RM25 a set |
 
 
 ## Sofle V2
