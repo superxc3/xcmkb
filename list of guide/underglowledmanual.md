@@ -39,6 +39,6 @@ Hence, only certain RGB lighting effect is workable in VIA for ## Rev 2022-5 RGB
 - [x] RGBLIGHT_EFFECT_BREATHING
 - [x] RGBLIGHT_EFFECT_STATIC_GRADIENT
 
-Manual and tutorial on flashing new firmware refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20&%20v2%20mx/firmware/readme.md#rev-2022-5-rgb-underglow)
+Manual and tutorial on flashing new firmware refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20&%20v2%20mx/firmware/readme.md#rev-2022-5-rgb-underglow).
 
 
