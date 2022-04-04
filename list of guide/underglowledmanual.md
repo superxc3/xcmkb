@@ -31,10 +31,14 @@
 | Remove the sticker and paste it at the bottom of pcb. REMEMBER! Avoid the exposed wire contact/touching any silver color pad |
 
 ## Firmware
-If your board is flashed with ## Rev 2022-1 (2022-02-10); you can only choose single RGB lighting in VIA. If you wish to accommodate for more RGB lighting effect, you will need to flash with new firmware ## Rev 2022-5 RGB Underglow for extra RGB lighting effect. Note that we are unable to include all RGB lighting effect in VIA as we have enabled programmable rotary encoder in VIAL; and at the same time mousekey is disabled, meaning scroll wheel etc. will not be able to register.
+If your board is flashed with ## Rev 2022-1 (2022-02-10); you can only choose single RGB lighting in VIA. If you wish to accommodate for more RGB lighting effect, you will need to flash with new firmware ## Rev 2022-5 RGB Underglow for extra RGB lighting effect. Note that we are unable to include all RGB lighting effect in VIA as we have enabled programmable rotary encoder in VIAL; and at the same time mousekey is disabled, meaning scroll wheel etc. will not registered even remapped in VIA. 
 
-Hence, only certain RGB lighting effect is workable in VIA:
+Hence, only certain RGB lighting effect is workable in VIA for ## Rev 2022-5 RGB Underglow
 - [x] RGBLIGHT_EFFECT_RAINBOW_SWIRL
 - [x] RGBLIGHT_EFFECT_RAINBOW_MOOD
 - [x] RGBLIGHT_EFFECT_BREATHING
 - [x] RGBLIGHT_EFFECT_STATIC_GRADIENT
+
+Manual and tutorial on flashing new firmware refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20&%20v2%20mx/firmware/readme.md#rev-2022-5-rgb-underglow)
+
+
