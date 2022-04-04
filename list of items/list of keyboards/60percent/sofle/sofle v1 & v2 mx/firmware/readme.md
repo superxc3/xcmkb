@@ -17,6 +17,7 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
 - [x] RGBLIGHT_EFFECT_BREATHING
 - [x] RGBLIGHT_EFFECT_STATIC_GRADIENT
 
+ * The firmware size is approaching the maximum - 28510/28672 (99%, 162 bytes free)
 
 
 ## Rev 2022-4 Pimoroni trackball (left) (2022-04-02)
