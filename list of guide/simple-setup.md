@@ -139,4 +139,31 @@ bool oled_task_user(void) {
 #endif
 ~~~
 
+or for Sofle
+
+~~~
+bool oled_task_user(void) {
+    if (is_keyboard_master()) {
+        print_status_narrow();
+    } else {
+        render_logo();
+    }
+    return true; 
+}
+~~~
+
+then, 
+~~~
+// #ifdef OLED_DRIVER_ENABLE
+#ifdef OLED_ENABLE
+~~~
+
+and rules.mk; suspect OLED_DRIVER_ENABLE = yes not working
+~~~
+OLED_DRIVER = SSD1306
+OLED_ENABLE = yes
+~~~
+
+
+
 * change to bool and add return true (as encoder)
