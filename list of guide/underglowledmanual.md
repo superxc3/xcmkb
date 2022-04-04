@@ -26,7 +26,7 @@
 | Step 3: Right slave: VCC connects to +5v, LED to Di, last one to G |
 
 
-|![image](https://user-images.githubusercontent.com/79617315/161471099-16cf90a9-53c6-45bb-bfeb-d5a2ab3f20c0.png)|
+|![e](https://user-images.githubusercontent.com/79617315/161472226-e7951249-2772-4feb-98be-31d9a95adc5b.jpg)|
 |:--:|
 | Remove the sticker and paste it at the bottom of pcb. REMEMBER! Avoid the exposed wire contact/touching any silver color pad |
 
