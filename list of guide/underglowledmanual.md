@@ -31,7 +31,7 @@
 | Remove the sticker and paste it at the bottom of pcb. REMEMBER! Avoid the exposed wire contact/touching any silver color pad |
 
 ## Firmware
-If your board is flashed with ## Rev 2022-1 (2022-02-10); you can only choose single RGB lighting in VIA. If you wish to accommodate for more RGB lighting effect, you will need to flash with new firmware ## Rev 2022-5 RGB Underglow for extra RGB lighting effect. Note that we are unable to include all RGB lighting effect in VIA as we have enabled programmable rotary encoder in VIAL. 
+If your board is flashed with ## Rev 2022-1 (2022-02-10); you can only choose single RGB lighting in VIA. If you wish to accommodate for more RGB lighting effect, you will need to flash with new firmware ## Rev 2022-5 RGB Underglow for extra RGB lighting effect. Note that we are unable to include all RGB lighting effect in VIA as we have enabled programmable rotary encoder in VIAL; and at the same time mousekey is disabled, meaning scroll wheel etc. will not be able to register.
 
 Hence, only certain RGB lighting effect is workable in VIA:
 - [x] RGBLIGHT_EFFECT_RAINBOW_SWIRL
