@@ -4,7 +4,7 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
 
 ## Rev 2022-5 RGB Underglow
 - Modified based on ## Rev 2022-1 (2022-02-10)
-- [x] Mousekey 
+- [ ] Mousekey 
 - [x] Extrakey (to control media)
 - [x] NKRO
 - [ ] Disabled tap dance to accommodate extra rgb lighting effect
@@ -13,11 +13,11 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
 - [x] Enabled
 - [ ] RGB matrix 
 - [x] RGBLIGHT_EFFECT_RAINBOW_SWIRL
-- [ ] RGBLIGHT_EFFECT_RAINBOW_MOOD
-- [ ] RGBLIGHT_EFFECT_BREATHING
-- [ ] RGBLIGHT_EFFECT_STATIC_GRADIENT
+- [x] RGBLIGHT_EFFECT_RAINBOW_MOOD
+- [x] RGBLIGHT_EFFECT_BREATHING
+- [x] RGBLIGHT_EFFECT_STATIC_GRADIENT
 
- * The firmware is too large! 29192/28672 (520 bytes over)
+
 
 ## Rev 2022-4 Pimoroni trackball (left) (2022-04-02)
 - A revision from rev 2022-3 as trackball moved to left
