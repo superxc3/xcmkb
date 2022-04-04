@@ -18,7 +18,7 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
 - [x] RGBLIGHT_EFFECT_STATIC_GRADIENT
 
  * The firmware size is approaching the maximum - 28510/28672 (99%, 162 bytes free)
- * 
+
  Hex file download [here](https://drive.google.com/drive/u/0/folders/1g7OomsH3gYjbrHQGPnhhqWuzIPQ4A_Np).
  
  Tutorial of flashing hex refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md)
