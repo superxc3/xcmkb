@@ -33,6 +33,11 @@ RGB lighting
 |:--:|
 | Tap Dance in VIAL |
 
+## Rev 2022-0 
+- Layers 4 (0,1,2,3)
+- RGB lighting effect all
+- Mousekey disabled
+
 
 
 
