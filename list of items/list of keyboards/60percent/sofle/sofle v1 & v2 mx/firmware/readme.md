@@ -24,14 +24,22 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
  Tutorial of flashing hex refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md)
  
 
-
-## Rev 2022-4 Pimoroni trackball (left) (2022-04-02)
+## Rev 2022-4 Pimoroni trackball (left) (2022-04-12)
 - A revision from rev 2022-3 as trackball moved to left
 - Fixed buggy col 0 and row 0; keymap enable in VIA, no more random codes
 - Fixed keymap reversed issue
 - Fixed rgb led strip (original was rgb per key from keyhive)
 - Disable heptic bzzz
-- [ ] Pending changing oled logo and appearance
+- OLED on slave as QMK logo, master as "SOFLE PMRN" and layers
+- Total of 6 layers: 012345
+
+### RGB LIGHTING (manual led strip)
+- [x] Enabled
+- [ ] RGB matrix 
+- [x] RGBLIGHT_EFFECT_RAINBOW_SWIRL
+- [ ] RGBLIGHT_EFFECT_RAINBOW_MOOD
+- [x] RGBLIGHT_EFFECT_BREATHING
+- [x] RGBLIGHT_EFFECT_STATIC_GRADIENT
 
 ## Rev 2022-3 Pimoroni trackball (2022-03-20)
 **Pimoroni Trackball version, left and right can be master*
