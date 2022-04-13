@@ -13,6 +13,28 @@ All our boards are pre-assembled and pre-flashed. No flashing is required. Launc
 - 42 3/5 pins switches mx 
 - 42 keycaps
 
+## List of Builds
+### All the builds below comprise of
+- 2 White or Black PCBs depends on batch
+- 2 Oleds color depends on batch (white/blue/yellow)
+- 2 Oled covers
+- Type c / Micro usb MCU depends on buyer/batch
+- TRS cable
+- Fully assembled and pre-flashed.
+
+### Standard 3D Build
+- FR4 Switch Plates
+- 3D PLA printed case
+- 3D PLA printed Oled covers
+
+### Standard Acrylic Extra Build
+- FR4 Switch Plates
+- 2 layers of intermediate acrylic above PCB for each side
+- 1 layer of intermediate acrylic layer below PCB for each side
+- Frosted transparent bottom plates
+- Clear transparent OLED covers
+- RGB underglow
+- Optional: RGB per key
 
 ### User manual
 Connecting splits refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md#part-a-connect). You can utilise sofle manual.
