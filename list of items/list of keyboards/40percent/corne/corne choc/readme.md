@@ -28,7 +28,7 @@ All our boards are pre-assembled and pre-flashed. No flashing is required. Launc
 - 3D PLA printed case
 - 3D PLA printed Oled covers
 
-### Standard Extra Build
+### Standard Acrylic Extra Build
 - FR4 / Polycarbonate Switch Plates
 - 1 layer of intermediate acrylic layer above PCB for each side
 - 1 layer of intermediate acrylic layer below PCB for each side
