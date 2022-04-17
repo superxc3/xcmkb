@@ -159,6 +159,13 @@ then,
 ~~~
 
 and rules.mk; suspect OLED_DRIVER_ENABLE = yes not working
+
+OLED_DRIVER_ENABLE is not working, change to #ifdef OLED_ENABLE in keymap
+
+~~~
+#ifdef OLED_ENABLE
+~~~
+
 ~~~
 OLED_DRIVER = SSD1306
 OLED_ENABLE = yes
