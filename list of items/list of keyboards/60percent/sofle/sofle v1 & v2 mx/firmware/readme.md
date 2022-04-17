@@ -2,8 +2,17 @@
 
 Sofle is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master).
 
+## Rev 2022-5 RGB Underglow Backup
+- A backup of RGB underglow if [Rev 2022-5 RGB Underglow](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20%26%20v2%20mx/firmware#rev-2022-5-rgb-underglow) is not working.
+- This is an old version of RGB underglow hex, the details or features are unknown; but it supports vial and programmable encoder through vial.
+
+Hex file download [here left](https://drive.google.com/file/d/1jKl9Fi0LPyQU0BImzz2hgnSC7xnRrUby/view?usp=sharing); [here right](https://drive.google.com/file/d/1CWC9zTRC3DdU_ad5FRjD7YQFDK1K_ROS/view?usp=sharing)
+
+ Tutorial of flashing hex refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md)
+
+
 ## Rev 2022-5 RGB Underglow
-- Modified based on ## Rev 2022-1 (2022-02-10)
+- Modified based on [Rev 2022-1 (2022-02-10)](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20%26%20v2%20mx/firmware#rev-2022-1-2022-02-10)
 - [ ] Mousekey 
 - [x] Extrakey (to control media)
 - [x] NKRO
@@ -25,7 +34,7 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
  
 
 ## Rev 2022-4 Pimoroni trackball (left) (2022-04-12)
-- A revision from rev 2022-3 as trackball moved to left
+- A revision from [rev 2022-3](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20%26%20v2%20mx/firmware#rev-2022-3-pimoroni-trackball-2022-03-20) as trackball moved to left
 - Fixed buggy col 0 and row 0; keymap enable in VIA, no more random codes
 - Fixed keymap reversed issue
 - Fixed rgb led strip (original was rgb per key from keyhive)
