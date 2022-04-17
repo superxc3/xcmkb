@@ -19,7 +19,7 @@ Sofle is 6×4+5 keys column-staggered split keyboard with encoder support. Based
 All the builds below are soldered, pre-assembled, and pre-flashed. 
 
 ### What do you need?
-- 58 three or five pins mx style or lp choc switches 
+- 58 three or five pins mx style or lp choc switches. mx keycap guide check [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/keycap.md)
 - 2 thumb keys can be 1u or 1.5u
 - Type c or micro usb data cable depends on the build
 
