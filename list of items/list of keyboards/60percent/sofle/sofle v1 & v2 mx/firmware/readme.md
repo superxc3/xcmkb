@@ -1,6 +1,6 @@
 # Sofle QMK Firmware
 
-Sofle is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master).
+Sofle is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master). The firmware here are highly customised and modified by us, they are used to flash your boards before we ship to you. Hence, list of firmwares here are totally different from the default QMK VIA firmware found at the [official repo](https://qmk.fm/keyboards/). 
 
 ## Rev 2022-5 RGB Underglow Backup
 - A backup of RGB underglow if [Rev 2022-5 RGB Underglow](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20%26%20v2%20mx/firmware#rev-2022-5-rgb-underglow) is not working.
