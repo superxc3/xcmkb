@@ -176,6 +176,7 @@ OLED_ENABLE = yes
 * change to bool and add return true (as encoder)
 
 ---
+## RGB Sleep
 ~~~
 #define RGBLIGHT_LIMIT_VAL 160 //Power draw may still exceed the USB limitations of 0.6A at max brightness with white colour with this setting.
 ~~~
