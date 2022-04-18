@@ -174,3 +174,17 @@ OLED_ENABLE = yes
 
 
 * change to bool and add return true (as encoder)
+
+---
+~~~
+#define RGBLIGHT_LIMIT_VAL 160 //Power draw may still exceed the USB limitations of 0.6A at max brightness with white colour with this setting.
+~~~
+
+~~~
+//#define RGBLIGHT_LAYERS //Enable layer light indicators. Not required as updates are done in layer_state_set_user and led_update_user (+588).
+~~~
+
+~~~
+#define RGBLIGHT_SLEEP //Turn off LEDs when computer sleeping (+72)
+~~~
+
