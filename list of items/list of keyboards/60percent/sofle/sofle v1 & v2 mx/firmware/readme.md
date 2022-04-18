@@ -10,6 +10,10 @@ Hex file download [here left](https://drive.google.com/file/d/1jKl9Fi0LPyQU0BImz
 
  Tutorial of flashing hex refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md)
 
+## Rev 2022-5-1 RGB Sleep
+- Modified based on Rev 2022-5 RGB underglow
+- Turn off LEDs when computer sleeping
+- Utilise power draw USB limitations
 
 ## Rev 2022-5 RGB Underglow
 - Modified based on [Rev 2022-1 (2022-02-10)](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20%26%20v2%20mx/firmware#rev-2022-1-2022-02-10)
