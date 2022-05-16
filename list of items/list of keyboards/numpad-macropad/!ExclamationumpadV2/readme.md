@@ -3,6 +3,12 @@
 Due to shortage of Panasonic scroll wheel, we decided to change the scroll wheel to knob. Now you can own dual knobs on one numpad!
 We do still offering scroll wheel product as V2, however it will be an increase of RM25 for scroll wheel version (V1). 
 
+
+
+![image](https://user-images.githubusercontent.com/79617315/168531339-17a9aa11-ffa0-46db-89d3-9117755c05a3.png)
+![image](https://user-images.githubusercontent.com/79617315/168531314-4f490d1f-ed50-4629-86ad-65b09de83026.png)
+![image](https://user-images.githubusercontent.com/79617315/168531281-13cf0913-ec71-45b4-80dd-3d8a091d6635.png)
+
 ## Additional features / changes for V2
 - Added the more budget acrylic switch plate design 
 - Added extra acrylic layers for a more sturdy stacked acrylic case
@@ -37,3 +43,5 @@ All the builds below are soldered, pre-assembled, and pre-flashed.
 - 4 rubber feet
 - Underglow
 - 17 LED per key and 2 under the knobs (optional), +RM20
+
+Note that acrylic feet has been removed for v2. 
