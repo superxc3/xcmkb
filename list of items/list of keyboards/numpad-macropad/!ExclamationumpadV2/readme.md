@@ -15,3 +15,25 @@ We do still offering scroll wheel product as V2, however it will be an increase 
 - Aluminium 
 - Brass
 - Pom
+
+## List of Builds
+All the builds below are soldered, pre-assembled, and pre-flashed. 
+
+### What do you need?
+- 17 three or five pins mx style switches
+- Standard Numpad keycaps
+- Type C or micro usb data cable depends on the build
+- PCB mounted or screw in stabilisers
+
+### Acrylic Build
+- 1 white or black pcb
+- Hotswap south facing
+- 1 oled, color depends on batch: blue / white / yellow
+- 2 programmable encoders
+- 2 full aluminium knobs, color depends on batch: black / silver
+- 3 layers of frosted transparent / black matte acrylic
+- 3 layers of frosted transparent acrylic for underglow performance
+- 1 clear / black translucent oled acrylic cover
+- 4 rubber feet
+- Underglow
+- 17 LED per key and 2 under the knobs (optional), +RM20
