@@ -4,9 +4,8 @@ Due to shortage of Panasonic scroll wheel, we decided to change the scroll wheel
 We do still offering scroll wheel product as V2, however it will be an increase of RM25 for scroll wheel version (V1). 
 
 
-
-![image](https://user-images.githubusercontent.com/79617315/168531339-17a9aa11-ffa0-46db-89d3-9117755c05a3.png)
 ![image](https://user-images.githubusercontent.com/79617315/168531314-4f490d1f-ed50-4629-86ad-65b09de83026.png)
+![image](https://user-images.githubusercontent.com/79617315/168531339-17a9aa11-ffa0-46db-89d3-9117755c05a3.png)
 ![image](https://user-images.githubusercontent.com/79617315/168531281-13cf0913-ec71-45b4-80dd-3d8a091d6635.png)
 
 ## Additional features / changes for V2
@@ -23,7 +22,7 @@ We do still offering scroll wheel product as V2, however it will be an increase 
 - Pom
 
 ## List of Builds
-All the builds below are soldered, pre-assembled, and pre-flashed. 
+All the builds below are soldered, pre-assembled, and pre-flashed. There are crystal clear, frosted, and black matte version.
 
 ### What do you need?
 - 17 three or five pins mx style switches
