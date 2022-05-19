@@ -50,6 +50,34 @@ All the builds below are soldered, pre-assembled, and pre-flashed.
 - Underglow with manual LED strip 3 leds per side RGB available for sofle V2 + RM25
 - Switch plates option subject to stock and pre-order: Aluminium (+RM120), carbon fibre (+RM85), and brass (+RM150) 
 
+#### Framed Stacked Acrylic Case (Magnetic version)
+Available in Black Matte, Frosted Transparent, and Top Black Matte Bottom Underglow version. 
+- 8 layers of stacked acrylic
+- Sufficient number of brass standsoff, screws, and hex screws.
+- Optional of magnetic tenting A (7 degree); and B (Middle Tent)
+- Magnet size 30x10x2mm rectangular block magnet
+
+#### Framed Stacked Acrylic Case (Tenting screw version)
+Available in Black Matte, Frosted Transparent, and Top Black Matte Bottom Underglow version. This version has adjustable height / tenting angle. 
+- 4 layers of stacked acrylic; another 4 with tenting screw holes.
+- M5 screws and nuts
+
+### Example of a Pre-assembled White Polycarbonate Sofle with Framed Stacked Acrylic Case (Tenting screw version)
+Boards will be soldered, assembled, and flashed. Users just insert switches and keycaps. 
+- 2 White PCBs 
+- Frosted transparent switch plate
+- 2 White/Blue/Yellow Oleds depends on batch
+- 2 Rotary Encoders
+- 2 Full aluminium silver knobs (worth RM20)
+- TRS Cable
+- Socketed mcu easy for replacement, type c or micro usb port depends on batch; cable not included
+- 2 layers of intermediate acrylic layers, in between switch plate and pcb
+- 2 Clear Transparent Oled acrylic cover
+- 1 layer of frosted transparent bottom acrylic plate
+- Rubber feet for bottom plate, in case favor of flat typing
+- Framed stacked acrylic case (tenting screw version): 4 layers of frosted transparent stacked acrylic; another 4 with tenting screw holes
+- 2 Long and short M5 screws with nuts, rubber feet for screws included (worth RM10)
+- Sufficient number of brass standsoff, silver screw, and hex screws
 
 | ![combination](https://user-images.githubusercontent.com/79617315/161410505-1d261d47-2922-468c-a2a3-dfb9c18d3d5f.jpg)|
 |:--:|
