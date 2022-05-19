@@ -73,7 +73,7 @@ Boards will be soldered, assembled, and flashed. Users just insert switches and 
 - 2 Rotary Encoders
 - 2 Full aluminium silver knobs included (worth RM20)
 - TRS Cable
-- Socketed mcu easy for replacement, type c or micro usb port depends on batch; cable not included
+- Socketed mcu for easy replacement or nicenano upgrade, type c or micro usb port depends on batch; cable not included
 - 2 layers of intermediate acrylic layers, in between switch plate and pcb
 - 2 Clear Transparent Oled acrylic cover
 - 1 layer of frosted transparent bottom acrylic plate
