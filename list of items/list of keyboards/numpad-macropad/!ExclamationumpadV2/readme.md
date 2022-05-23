@@ -43,7 +43,7 @@ All the builds below are soldered, pre-assembled, and pre-flashed. There are cry
 - Underglow
 - 17 LED per key and 2 under the knobs (optional), +RM20
 
-Note that acrylic feet has been removed for v2. 
+Note that acrylic feet has been removed for v2. Additional RM15 for ! acrylic feet.
 
 ## Key Remap
 Only launch one application each time to avoid conflict.
