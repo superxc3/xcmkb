@@ -30,7 +30,7 @@ Other platforms [check here](https://github.com/the-via/releases/releases/tag/v1
 |Reviung5|[json](https://drive.google.com/file/d/1JrSSA8Qib7lLGcd4dTRIU_LEoJuPl7SZ/view?usp=sharing)|
 |Treadstone48 only|[json](https://drive.google.com/file/d/1txMdJA8-L_YZK245hUbvFW9iSHybxjIP/view?usp=sharing)|
 |SofleV1RGB|[json](https://drive.google.com/file/d/1AYjldM6BTlOvo6rmUBkauUZ2ew_Y5Mvw/view?usp=sharing)|
-
+|!Exclamationumpad v2 |[json](https://drive.google.com/file/d/1i-LqWeV5yd9deO6sw9LQNkpQB03KDCdH/view?usp=sharing)|
 
 ## 2. VIAL
 VIAL software download [here](https://get.vial.today/download/)
