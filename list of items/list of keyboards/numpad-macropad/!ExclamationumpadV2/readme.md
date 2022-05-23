@@ -44,3 +44,12 @@ All the builds below are soldered, pre-assembled, and pre-flashed. There are cry
 - 17 LED per key and 2 under the knobs (optional), +RM20
 
 Note that acrylic feet has been removed for v2. 
+
+## Key Remap
+Only launch one application each time to avoid conflict.
+
+![image](https://user-images.githubusercontent.com/79617315/169776236-e94b789d-68c0-4daa-aa04-16519455c014.png)
+
+![image](https://user-images.githubusercontent.com/79617315/169776297-45035f62-cf3c-4402-b229-bef688cee852.png)
+
+
