@@ -52,4 +52,6 @@ Only launch one application each time to avoid conflict.
 
 ![image](https://user-images.githubusercontent.com/79617315/169776297-45035f62-cf3c-4402-b229-bef688cee852.png)
 
+User manual on key remap refers [here] (https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/numpad-macropad/!ExclamationumpadV2/firmware.md)
+
 
