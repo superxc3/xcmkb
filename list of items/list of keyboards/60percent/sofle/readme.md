@@ -101,12 +101,12 @@ Boards will be soldered, assembled, and flashed. Users just insert switches and 
 
 |![sofle ac](https://user-images.githubusercontent.com/79617315/155830744-f10a3497-5c43-4f61-b2b8-6554c79795bf.jpg)|
 |:--:|
-|△ Sofle Acrylic White|
+|△ Sofle Acrylic White - RM 415 Shopee Price; RM 399 Discord Price|
 ||
 
 |![sofle pc top](https://user-images.githubusercontent.com/79617315/150795645-335d8b2d-b8e9-4630-9102-336ef35f1541.jpg)|
 |:--:|
-|△ Sofle Polycarbonate White|
+|△ Sofle Polycarbonate White - RM470 Shopee Price; RM450 Discord Price |
 
 
 |![soflechoccatzlean](https://user-images.githubusercontent.com/79617315/160728724-0c4f08ff-d0ea-4630-b50b-bb1991c63f93.jpg)|
