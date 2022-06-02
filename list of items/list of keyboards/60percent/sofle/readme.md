@@ -106,7 +106,7 @@ Boards will be soldered, assembled, and flashed. Users just insert switches and 
 
 |![sofle pc top](https://user-images.githubusercontent.com/79617315/150795645-335d8b2d-b8e9-4630-9102-336ef35f1541.jpg)|
 |:--:|
-|△ Sofle Polycarbonate White - RM470 Shopee Price; RM450 Discord Price |
+|△ Sofle Polycarbonate White - RM449 Shopee Price; RM430 Discord Price |
 
 
 |![soflechoccatzlean](https://user-images.githubusercontent.com/79617315/160728724-0c4f08ff-d0ea-4630-b50b-bb1991c63f93.jpg)|
