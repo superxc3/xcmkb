@@ -189,3 +189,7 @@ OLED_ENABLE = yes
 #define RGBLIGHT_SLEEP //Turn off LEDs when computer sleeping (+72)
 ~~~
 
+## Polling rate
+/*follow for gaming*/
+#define USB_POLLING_INTERVAL_MS 1
+#define QMK_KEYS_PER_SCAN 12
