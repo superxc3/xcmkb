@@ -2,6 +2,20 @@
 
 Sofle is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master). It is officially supported by VIA and can be detected in VIA.
 
+## Rev 2022-2 (2022-06-17)
+Features as follow:-
+- VIA and VIAL enabled
+- 7 layers (0123456)
+- 1000hz polling rate for gaming purpose
+- Mousekey enabled
+- RGB lighting limited to breathing, rainbow swirl, static gradient only
+- QMK setting enabled in VIAL (tapping term, osm etc can be configured through vial)
+- Hex file ![here](https://drive.google.com/file/d/1VmdizF7vqNpGr--XcyHPtwOJQ__5qCoA/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/79617315/174203625-f9460959-7fc5-43fc-aae0-adfd2c6f3eb6.png)
+
+
+
+
 ## Rev 2022-1 (2022-02-11)
 Board after this date is flashed with this firmware. You can check which firmware being flashed in your Invoice.
 
