@@ -11,6 +11,8 @@ Features as follow:-
 - RGB lighting limited to breathing, rainbow swirl, static gradient only
 - QMK setting enabled in VIAL (tapping term, osm etc can be configured through vial)
 - Hex file [here](https://drive.google.com/file/d/1VmdizF7vqNpGr--XcyHPtwOJQ__5qCoA/view?usp=sharing)
+
+
 ![image](https://user-images.githubusercontent.com/79617315/174203625-f9460959-7fc5-43fc-aae0-adfd2c6f3eb6.png)
 
 
