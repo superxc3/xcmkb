@@ -1,5 +1,16 @@
 # Corne Firmware
 
+## Rev 2022-1 (2022-06-19)
+- split usb detect
+- no rgb
+- oled enabled
+- IGNORE_MOD_TAP_INTERRUPT
+- tapping term 230
+- layers add up to 7
+- rgb sleep enable
+- QMK settings in vial
+- mousekey disabled
+
 ## Rev 2021-1 (2021-11-22)
 - Layers added up to 6
 - Media key enabled
