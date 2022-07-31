@@ -37,6 +37,7 @@ Hex file download [here left](https://drive.google.com/file/d/1jKl9Fi0LPyQU0BImz
  Tutorial of flashing hex refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md)
  
 
+
 ## Rev 2022-4 Pimoroni trackball (left) (2022-04-12)
 - A revision from [rev 2022-3](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20%26%20v2%20mx/firmware#rev-2022-3-pimoroni-trackball-2022-03-20) as trackball moved to left
 - Fixed buggy col 0 and row 0; keymap enable in VIA, no more random codes
@@ -45,6 +46,7 @@ Hex file download [here left](https://drive.google.com/file/d/1jKl9Fi0LPyQU0BImz
 - Disable heptic bzzz
 - OLED on slave as QMK logo, master as "SOFLE PMRN" and layers
 - Total of 6 layers: 012345
+-  Link [here](https://drive.google.com/drive/u/0/folders/1w-SaXB190X9ZZumO4TqyWgcI9mFePxybxc)
 
 ### RGB LIGHTING (manual led strip)
 - [x] Enabled
