@@ -27,7 +27,7 @@ Hex file download [here left](https://drive.google.com/file/d/1jKl9Fi0LPyQU0BImz
 - 6 layers
 - mo(4) change to precision and trackball color 
 - do note that trackball color is not stable
-- grave esc space cadet disable
+- grave esc space cadet enable
 - extrakey yes
 - mousekey no
 
