@@ -10,6 +10,30 @@ Hex file download [here left](https://drive.google.com/file/d/1jKl9Fi0LPyQU0BImz
 
  Tutorial of flashing hex refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md)
 
+
+## Rev 2022-7 Pimoroni trackball (right) 
+- Pimoroni trackball on right
+- Oled screen must be two: master shows: SOFLE PMRNI; Layer; Lock, Caps, Num, Scr
+- VIA only, knobs programmable through VIA.
+- Underglow with led strip
+- Trackball inverted accordingly in common config
+- Ignore mod tap interrupt
+- USB polling ms1
+- QMK keys per scan 12
+- NKRO enable
+- RGB Breathing, Rainbow Swirl, and Static Gradient only
+- RGB limit val 160
+- RGB sleep
+- 6 layers
+- mo(4) change to precision and trackball color 
+- do note that trackball color is not stable
+- grave esc space cadet disable
+- extrakey yes
+- mousekey no
+
+![image](https://user-images.githubusercontent.com/79617315/182025550-35115ca8-1a52-4d86-81e1-1e9b72da503d.png)
+Link [here](https://drive.google.com/drive/u/0/folders/1sxq4S5OrDOqtABkj5xniupb6zXo-uXHVxc)
+
 ## Rev 2022-5-1 RGB Sleep
 - Modified based on Rev 2022-5 RGB underglow
 - Turn off LEDs when computer sleeping
