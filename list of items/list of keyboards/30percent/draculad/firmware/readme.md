@@ -3,6 +3,12 @@
 Draculad is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master). 
 The official firmware does not support VIA or VIAL.
 
+## Rev 2 (2022-09-16)
+- No oled
+- Mouse enable
+- Qmk setting enable
+- No pimoroni trackball
+
 ## Rev 1 (2022-02-10)
 The first revision done by XCMKB. Features as follow:-
 - Left and right can be master
