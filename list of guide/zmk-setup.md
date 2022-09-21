@@ -40,4 +40,4 @@ b. extract zip file to here
 
 ## Sensor binder for encoder
 https://github.com/nickconway/zmk/blob/configurable-sensor-bindings/docs/docs/behaviors/sensor-rotate.md
-
+Note: zmk encoder mouse scroll wheel cant work; cant find the keycode for scrollwheel
