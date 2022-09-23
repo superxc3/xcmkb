@@ -14,6 +14,7 @@ if go through pristine (compile before, encountered problem for second compilati
 |![image](https://user-images.githubusercontent.com/79617315/191435581-e7bad449-d2b1-49eb-9561-64283ad06680.png)|
 |:--:|
 |uf2 here C:\Users\yourname\zmk\app\build\zephyr|
+
 ```C:\Users\chino\zmk-ftc\app\build\zephyr```
 
 ## ZMK new repo
