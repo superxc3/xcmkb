@@ -1,7 +1,8 @@
 # ZMK-Setup
 
-1. Link refers to https://zmk.dev/docs/development/setup
+1. Link refers to https://zmk.dev/docs/development/setup.
 2. Basic github format refer [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links).
+3. Full keycode check [here](https://zmk.dev/docs/codes).
 
 
 ## ZMK flashing
@@ -13,7 +14,7 @@ if go through pristine (compile before, encountered problem for second compilati
 |![image](https://user-images.githubusercontent.com/79617315/191435581-e7bad449-d2b1-49eb-9561-64283ad06680.png)|
 |:--:|
 |uf2 here C:\Users\yourname\zmk\app\build\zephyr|
-
+```C:\Users\chino\zmk-ftc\app\build\zephyr```
 
 ## ZMK new repo
 
@@ -41,3 +42,10 @@ b. extract zip file to here
 ## Sensor binder for encoder
 https://github.com/nickconway/zmk/blob/configurable-sensor-bindings/docs/docs/behaviors/sensor-rotate.md
 Note: zmk encoder mouse scroll wheel cant work; cant find the keycode for scrollwheel
+
+## Mouse enable for zmk-ftc (not applicable for encoder)
+Mouse repo [here](https://github.com/ftc/zmk/tree/mouse-ftc); mouse codes refer [here](https://github.com/ftc/zmk/blob/mouse-ftc/docs/docs/behaviors/mouse-emulation.md)
+
+```
+&mkp LCLK
+```
