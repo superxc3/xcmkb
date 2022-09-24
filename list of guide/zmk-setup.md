@@ -9,6 +9,13 @@
 Launch cmd. `cd zmk`, `cd app`; then flash with `west build -b nice_nano_v2 -- -DSHIELD=reviung41`;
 if go through pristine (compile before, encountered problem for second compilation, go with this method): `west build -p -b nice_nano_v2 -- -DSHIELD=reviung41`
 
+```
+cd zmk-ftc/app
+```
+
+```
+west build -p -b nice_nano_v2 -- -DSHIELD=reviung41
+```
 
 ![image](https://user-images.githubusercontent.com/79617315/191435275-5c62c490-85c5-4b49-9dfe-d00b917d0c29.png)
 |![image](https://user-images.githubusercontent.com/79617315/191435581-e7bad449-d2b1-49eb-9561-64283ad06680.png)|
