@@ -51,7 +51,9 @@ b. extract zip file to here
 
 ## Sensor binder for encoder
 https://github.com/nickconway/zmk/blob/configurable-sensor-bindings/docs/docs/behaviors/sensor-rotate.md
+
 Note: zmk encoder mouse scroll wheel cant work; cant find the keycode for scrollwheel.
+
 Next step: try to merge both zmk-ftc and sensor binder for encoder
 
 ## Mouse enable for zmk-ftc (not applicable for encoder)
