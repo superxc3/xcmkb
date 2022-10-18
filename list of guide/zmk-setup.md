@@ -82,7 +82,7 @@ Example of macro in `.keymap`, if you are using only single tap without any capi
 };
 ```
 
-Else, you may need to define each shift up and down as follow. The following macro is the example of `Xc89$'.
+Else, you may need to define each shift up and down as follow. The following macro is the example of `Xc89$`.
 ```
 / {
     macros {
