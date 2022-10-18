@@ -66,7 +66,7 @@ Mouse repo [here](https://github.com/ftc/zmk/tree/mouse-ftc); mouse codes refer 
 # ZMK Macro
 
 Original macro guide in zmk refer [Macro Behavior](https://zmk.dev/docs/behaviors/macros)
-Example of macro in `.keymap`
+Example of macro in `.keymap`, if you are using only single tap without any capital or shift, can just directly place `&kp`. The following macro is the example of `c89$`.
 ```
 / {
     macros {
@@ -76,8 +76,26 @@ Example of macro in `.keymap`
         #binding-cells = <0>;
         wait-ms = <10>;
         tap-ms = <10>;
-        bindings = <&macro_press &kp LSHFT &kp X &macro_release &kp LSHFT &kp C &kp N8 &kp N9 &kp N1 &kp N1 &kp N0 &kp N3 &kp DOLLAR>;
+        bindings = <&kp C &kp N8 &kp N9 &kp DOLLAR>;
         };
     };
 };
 ```
+
+Else, you may need to define each shift up and down as follow. The following macro is the example of `Xc89$'.
+```
+/ {
+    macros {
+		spswrd: spswrd {
+        compatible = "zmk,behavior-macro";
+        label = "ZM_spswrd";
+        #binding-cells = <0>;
+        wait-ms = <10>;
+        tap-ms = <10>;
+        bindings = <&macro_press &kp LSHFT &macro_tap &kp x &macro_release &kp LSHFT &macro_tap &kp C &kp N8 &kp N9 &kp DOLLAR>;
+        };
+    };
+};
+```
+
+After define macro in your keymap, simply put in `&spswrd` as defined above.
