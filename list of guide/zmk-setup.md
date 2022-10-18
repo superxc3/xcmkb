@@ -62,3 +62,21 @@ Mouse repo [here](https://github.com/ftc/zmk/tree/mouse-ftc); mouse codes refer 
 ```
 &mkp LCLK
 ```
+
+# ZMK Macro
+
+Example of macro in `.keymap`
+```
+/ {
+    macros {
+		spswrd: spswrd {
+        compatible = "zmk,behavior-macro";
+        label = "ZM_spswrd";
+        #binding-cells = <0>;
+        wait-ms = <10>;
+        tap-ms = <10>;
+        bindings = <&macro_press &kp LSHFT &kp X &macro_release &kp LSHFT &kp C &kp N8 &kp N9 &kp N1 &kp N1 &kp N0 &kp N3 &kp DOLLAR>;
+        };
+    };
+};
+```
