@@ -66,7 +66,8 @@ Mouse repo [here](https://github.com/ftc/zmk/tree/mouse-ftc); mouse codes refer 
 # ZMK Macro
 
 Original macro guide in zmk refer [Macro Behavior](https://zmk.dev/docs/behaviors/macros)
-Example of macro in `.keymap`, if you are using only single tap without any capital or shift, can just directly place `&kp`. The following macro is the example of `c89$`.
+Example of macro in `.keymap`, if you are using only single tap without any capital or shift, can just directly place `&kp`. The following macro is the example of `c89$`. But if you have other macro that requires press and release, then every macro key shall define `&macro_tap &kp C`.
+
 ```
 / {
     macros {
