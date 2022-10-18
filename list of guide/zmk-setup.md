@@ -100,3 +100,40 @@ Else, you may need to define each shift up and down as follow. The following mac
 ```
 
 After define macro in your keymap, simply put in `&spswrd` as defined above.
+
+## Mod-tap interrupt in ZMK
+The tap-preferred flavor is similar to IGNORE_MOD_TAP_INTERRUPT. Full list on the tap behaviour see [Hold-Tap Behavior](https://zmk.dev/docs/behaviors/hold-tap#tapping-term-ms)
+
+```
+#include <behaviors.dtsi>
+#include <dt-bindings/zmk/keys.h>
+
+/ {
+    behaviors {
+        hm: homerow_mods {
+            compatible = "zmk,behavior-hold-tap";
+            label = "HOMEROW_MODS";
+            #binding-cells = <2>;
+            tapping-term-ms = <150>;
+            quick-tap-ms = <0>;
+            flavor = "tap-preferred";
+            bindings = <&kp>, <&kp>;
+        };
+    };
+
+    keymap {
+        compatible = "zmk,keymap";
+        default_layer {
+            bindings = <
+                &hm LCTRL A &hm LGUI S &hm LALT D &hm LSHIFT F
+            >;
+        };
+    };
+};
+```
+
+and for the keycode use this `&mt LALT A` 
+
+
+
+
