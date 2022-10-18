@@ -65,6 +65,7 @@ Mouse repo [here](https://github.com/ftc/zmk/tree/mouse-ftc); mouse codes refer 
 
 # ZMK Macro
 
+Original macro guide in zmk refer [Macro Behavior](https://zmk.dev/docs/behaviors/macros)
 Example of macro in `.keymap`
 ```
 / {
