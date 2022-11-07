@@ -15,6 +15,10 @@ cd zmk-ftc/app
 
 ```
 west build -p -b nice_nano_v2 -- -DSHIELD=reviung41
+``` 
+
+``` 
+west build -p -b nice_nano_v2 -- -DSHIELD=oceanwave
 ```
 
 ![image](https://user-images.githubusercontent.com/79617315/191435275-5c62c490-85c5-4b49-9dfe-d00b917d0c29.png)
