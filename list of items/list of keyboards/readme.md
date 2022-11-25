@@ -29,3 +29,4 @@ Here shows the collection of keyboards XCMKB has made and some are available for
 1. [Draculad](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/30percent/draculad)
 2. Reviung34
 3. [Rhymestone](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/30percent/rhymestone)
+4. [Adux](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/30percent/adux)
