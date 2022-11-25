@@ -26,3 +26,7 @@ Supported Via and Vial, knobs to be remapped through Vial.
 - all rgb lighting effects
 - mouse key enabled
 - no qmk settings, tap dance, combo in vial
+
+## Rev 2022/2
+Client requested to change the name of layers on oled. Layer0 is now changed to BSE; Layer1-4 as N01-04. 
+Hex file refer to [Google Drive Rev 2022/2](https://drive.google.com/drive/folders/1MD5L45TsmFOsOgOOINoJytD65Gs0wyUY?usp=share_link)
