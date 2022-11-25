@@ -17,3 +17,14 @@ Under `rules.mk`, there is a session here called `bootloader`. Default was `atme
 # BOOTLOADER 	= atmel-dfu # This is for Elite-C
 BOOTLOADER 		= caterina	# This is for Promicro
 ```
+
+## Notes
+:triangular_flag_on_post: Only workable with TRRS cable (4 poles aux cable with 3 lines)
+
+:triangular_flag_on_post: Proved to support MBK and CFX keycaps. Default Kailh blank might interfere. 
+
+:triangular_flag_on_post: No physical reset button designed on the PCB, reset by remap RESET in VIA. 
+
+|![reset](https://user-images.githubusercontent.com/79617315/203957633-1c76beb6-51eb-4acb-ad08-e2a197d9ed7d.jpg)|
+|:--:|
+|Our board is soldered with new MCU with dedicated reset button, you can press this button twice to reset in QMK Toolbox. However, left side is flipped, you have to use something long and narrow to access it|
