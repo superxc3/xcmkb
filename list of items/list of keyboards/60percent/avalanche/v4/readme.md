@@ -35,3 +35,7 @@ The board is not officially supported by VIA. Customisation for VIAL has been do
 The default oled was "Avalanche V4.2". Re-configured as follow with new logo and indicators. 
 ![WeChat Image_20221126212229](https://user-images.githubusercontent.com/79617315/204091127-62cf6cbc-6d90-425d-82d8-cc8b118d7553.jpg)
 
+### Future alternatives
+:construction: Pom switch plate for proper 1.4mm thickness. Carbon fibre option remains in pre-order form.
+:construction: Provide simple acrylic bottom and exclude 3D printed case for price markdown. 
+:construction: 3D printed case remains available and with tenting legs included.
