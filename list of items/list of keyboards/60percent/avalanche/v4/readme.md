@@ -37,5 +37,7 @@ The default oled was "Avalanche V4.2". Re-configured as follow with new logo and
 
 ### Future alternatives
 :construction: Pom switch plate for proper 1.4mm thickness. Carbon fibre option remains in pre-order form.
+
 :construction: Provide simple acrylic bottom and exclude 3D printed case for price markdown. 
+
 :construction: 3D printed case remains available and with tenting legs included.
