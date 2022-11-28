@@ -28,10 +28,14 @@
 2. :warning: This step is very important to avoid mcu bricked. Properly connect split keyboard refer to [Video](https://www.instagram.com/tv/CdpYrWBJuD9/?igshid=YmMyMTA2M2Y=). 
 3. Common issues refer to [Common Issues](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md).
 
-## Firmware (Wired)
+### Firmware (Wired)
 The board is not officially supported by VIA. Customisation for VIAL has been done by XCMKB. The qmk github provided by author refer to [here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/avalanche/v4).
 
-## Firmware (Wireless)
+#### OLED
+The default oled was "Avalanche V4.2". Re-configured as follow with new logo and indicators. 
+![WeChat Image_20221126212229](https://user-images.githubusercontent.com/79617315/204091127-62cf6cbc-6d90-425d-82d8-cc8b118d7553.jpg)
+
+### Firmware (Wireless)
 This is only working for bluetooth avalanche with nicenano v2 mcu. Oled and rgb per key are not supported. The board you received is already flashed with zmk uf2. To connect the board, please refer to the step below:
 
 :construction: This part is still in construction.
@@ -47,9 +51,6 @@ To avoid conflict, you may compile zmk for left and right. The command is `west 
 2. Using two bluetooth devices at the same time may interrupted typing experience. 
 
 
-### OLED
-The default oled was "Avalanche V4.2". Re-configured as follow with new logo and indicators. 
-![WeChat Image_20221126212229](https://user-images.githubusercontent.com/79617315/204091127-62cf6cbc-6d90-425d-82d8-cc8b118d7553.jpg)
 
 ### Future alternatives
 :construction: Pom switch plate for proper 1.6mm thickness. Carbon fibre option remains in pre-order form.
