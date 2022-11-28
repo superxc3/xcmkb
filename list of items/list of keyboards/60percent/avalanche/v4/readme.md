@@ -28,8 +28,24 @@
 2. :warning: This step is very important to avoid mcu bricked. Properly connect split keyboard refer to [Video](https://www.instagram.com/tv/CdpYrWBJuD9/?igshid=YmMyMTA2M2Y=). 
 3. Common issues refer to [Common Issues](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md).
 
-## Firmware
+## Firmware (Wired)
 The board is not officially supported by VIA. Customisation for VIAL has been done by XCMKB. The qmk github provided by author refer to [here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/avalanche/v4).
+
+## Firmware (Wireless)
+This is only working for bluetooth avalanche with nicenano v2 mcu. Oled and rgb per key are not supported. The board you received is already flashed with zmk uf2. To connect the board, please refer to the step below:
+
+:construction: This part is still in construction.
+
+If you wish to remap the key, kindly refer to [Zmk Setup](https://zmk.dev/docs/development/setup). The zmk environment of avalanche has been setup by [Roman Florea](https://github.com/romones/zmk-config). Everything is working except the avalanche_right.overlay as one of his nicenano mcu pin fired. It is clearly stated in the document.
+
+Replace	`//, <&pro_micro 18 GPIO_ACTIVE_HIGH>` with `, <&pro_micro 18 GPIO_ACTIVE_HIGH>`, and delete the next line `, <&gpio1     07 GPIO_ACTIVE_HIGH>`.
+
+To avoid conflict, you may compile zmk for left and right. The command is `west build -p -b nice_nano_v2 -- -DSHIELD=avalanche_left` and right for the slave. It is quite tricky in re-flashing nicenano, refer to [Flash Zmk](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20zmk#part-b-flash-zmk) for the steps suggested. 
+
+### Common issues of Zmk
+1. Refer to [Bluetooth cannot be paired and disconnect very often](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/useful%20codes%20for%20zmk%20firmware.md). 
+2. Using two bluetooth devices at the same time may interrupted typing experience. 
+
 
 ### OLED
 The default oled was "Avalanche V4.2". Re-configured as follow with new logo and indicators. 
