@@ -29,7 +29,7 @@
 3. Common issues refer to [Common Issues](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md).
 
 ### Firmware (Wired)
-The board is not officially supported by VIA. Customisation for VIAL has been done by XCMKB. The qmk github provided by author refer to [here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/avalanche/v4).
+The board is not officially supported by VIA. Customisation for VIAL has been done by XCMKB. The qmk github provided by author refer to [here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/avalanche/v4). The list of firmware revision please refer to [Avalanche Firmware Revision](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/avalanche/v4/firmware.md). 
 
 #### OLED
 The default oled was "Avalanche V4.2". Re-configured as follow with new logo and indicators. 
