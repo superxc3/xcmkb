@@ -1,5 +1,22 @@
 # Corne Firmware
 
+1. With vial enabled, qmk settings, rgb (limit to 3) and oled enabled, mousekey disabled: firmware oversize (3372 bytes over)
+2. Refer setting above, oled disabled, firmware 93%. 
+3. Refer setting 1, oled disabled, mousekey enabled, rgb limit to 2, firmware 99%, 192 bytes free.
+
+
+## Rev 2022-2 (2022-12-15)
+- split usb detect
+- layers up to 7
+- tapping term 180
+- ignore mod tap interrupt
+- usb pooling interval ms1
+- qmk keys per scan 12
+- rgb: rainbow mood, static gradient, rainbow swirl, breathing
+- enabled mousekey
+- enabled oled
+
+
 ## Rev 2022-1 (2022-06-19)
 - split usb detect
 - no rgb
