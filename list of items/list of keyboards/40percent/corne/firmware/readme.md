@@ -6,6 +6,7 @@
 
 ## Rev 2022-3 (2022-12-21)
 - modified based on Rev 2
+- layers up to 8 (0-7)
 - tapping term changes to 200
 - add mousekey modification in config.h based on request
 - the rest are same
