@@ -15,6 +15,14 @@
 ### Key Remap
 Key remap download [Vial](https://get.vial.today/download/). 
 
+You also can use VIAL, download [here](https://get.vial.today/download/). The key remap part is more straight forward in VIAL through Quantum tab. 
+
+The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explains how it works.
+![image](https://user-images.githubusercontent.com/79617315/208881636-7c6481e0-e320-4ad1-b727-bb4b7e0616f4.png)
+
+Also layer cycle through Layer tab:
+![image](https://user-images.githubusercontent.com/79617315/208881348-fc678b95-c729-4dff-94a2-946d5032845c.png)
+
 ### Notes
 1. :warning: This step is very important to avoid mcu bricked. Properly connect split keyboard refer to [Video](https://www.instagram.com/tv/CdpYrWBJuD9/?igshid=YmMyMTA2M2Y=). 
 ![image](https://user-images.githubusercontent.com/79617315/204213627-3c877043-aae7-45f9-804b-e50d5ad57624.png)
