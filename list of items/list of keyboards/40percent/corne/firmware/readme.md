@@ -4,6 +4,12 @@
 2. Refer setting above, oled disabled, firmware 93%. 
 3. Refer setting 1, oled disabled, mousekey enabled, rgb limit to 2, firmware 99%, 192 bytes free.
 
+## Rev 2022-3 (2022-12-21)
+- modified based on Rev 2
+- tapping term changes to 200
+- add mousekey modification in config.h based on request
+- the rest are same
+
 
 ## Rev 2022-2 (2022-12-15)
 - split usb detect
