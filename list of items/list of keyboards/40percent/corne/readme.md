@@ -45,7 +45,7 @@ Using QMK [VIA](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/ke
 You also can use VIAL, download [here](https://get.vial.today/download/). The key remap part is more straight forward in VIAL through Quantum tab. 
 
 The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explains how it works.
-![image](https://user-images.githubusercontent.com/79617315/208881071-bfec6e45-8730-43d4-99ee-2fcdc63aab42.png)
+![image](https://user-images.githubusercontent.com/79617315/208881636-7c6481e0-e320-4ad1-b727-bb4b7e0616f4.png)
 
 Also layer cycle through Layer tab:
 ![image](https://user-images.githubusercontent.com/79617315/208881348-fc678b95-c729-4dff-94a2-946d5032845c.png)
