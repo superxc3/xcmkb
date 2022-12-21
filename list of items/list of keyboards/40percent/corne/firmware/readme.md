@@ -10,6 +10,7 @@
 - tapping term changes to 200
 - add mousekey modification in config.h based on request
 - the rest are same
+- vial is not enabled but you can remap in vial/via. vial will read it as via config.
 
 
 ## Rev 2022-2 (2022-12-15)
