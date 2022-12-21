@@ -11,6 +11,7 @@
 - add mousekey modification in config.h based on request
 - the rest are same
 - vial is not enabled but you can remap in vial/via. vial will read it as via config.
+- rgb underglow lighting effect cant be edit in vial, only in via. 
 
 
 ## Rev 2022-2 (2022-12-15)
