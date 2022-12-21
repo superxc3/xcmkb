@@ -42,6 +42,18 @@ Connecting splits refer [here](https://github.com/superxc3/xcmkb/blob/main/list%
 ### Key Remap
 Using QMK [VIA](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/key%20remap.md). Corne is officially supported by VIA, hence auto-detected when you launch VIA. Common usage of VIA can refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/via-guide.md). 
 
+You also can use VIAL, download [here](https://get.vial.today/download/). The key remap part is more straight forward in VIAL through Quantum tab. 
+
+The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explains how it works.
+![image](https://user-images.githubusercontent.com/79617315/208881071-bfec6e45-8730-43d4-99ee-2fcdc63aab42.png)
+
+Also layer cycle through Layer tab:
+![image](https://user-images.githubusercontent.com/79617315/208881348-fc678b95-c729-4dff-94a2-946d5032845c.png)
+
+
+
+
+
 ### Common Issue
 Any problems you face can refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md), else can contact us through Discord etc.
 
