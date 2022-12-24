@@ -1,5 +1,15 @@
 # IF17 Numpad
 
+![if17](https://user-images.githubusercontent.com/79617315/209417051-e1870918-284d-42f4-ab7d-f05a64b4220d.jpg)
+
+## Key remap software VIAL
+Key remap download [Vial](https://get.vial.today/download/). 
+
+The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explain how it works.
+![image](https://user-images.githubusercontent.com/79617315/208881636-7c6481e0-e320-4ad1-b727-bb4b7e0616f4.png)
+
+Also layer cycle through Layer tab:
+![image](https://user-images.githubusercontent.com/79617315/208881348-fc678b95-c729-4dff-94a2-946d5032845c.png)
 
 ## Connection
 The following explains bluetooth connection.
@@ -46,5 +56,5 @@ Recommended to turn off.
 
 ## Firmware
 :warning: This is not an open source numpad, hence no qmk codes will be shared. All settings and configuration already enabled.
-![image](https://user-images.githubusercontent.com/79617315/209416330-7f92b7d6-d237-486b-8960-7f2d111514d0.png
+![image](https://user-images.githubusercontent.com/79617315/209416330-7f92b7d6-d237-486b-8960-7f2d111514d0.png)
 
