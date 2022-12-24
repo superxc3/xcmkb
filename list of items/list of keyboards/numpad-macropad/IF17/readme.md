@@ -3,7 +3,11 @@
 ![if17](https://user-images.githubusercontent.com/79617315/209417051-e1870918-284d-42f4-ab7d-f05a64b4220d.jpg)
 
 ## Key remap software VIAL
-Key remap download [Vial](https://get.vial.today/download/). 
+Key remap download [Vial](https://get.vial.today/download/). Always hover on the key if you are not sure the function is.
+
+Switch between layers:
+![image](https://user-images.githubusercontent.com/79617315/209417128-f588cad0-53f9-4feb-8a3a-33714a95e0e5.png)
+
 
 The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explain how it works.
 ![image](https://user-images.githubusercontent.com/79617315/208881636-7c6481e0-e320-4ad1-b727-bb4b7e0616f4.png)
