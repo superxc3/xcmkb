@@ -12,7 +12,7 @@ Key remap download [Vial](https://get.vial.today/download/). Always hover on the
 4. Assemble and fasten another 4 screws on the acrylic frame. 
 
 ## Connection
-The following explains bluetooth connection.
+For 2.4g just install the dongle. Try to toggle the power button near to usb port if it is not responding. The following explains bluetooth connection.
 |![image](https://user-images.githubusercontent.com/79617315/209416348-095caa94-79d7-4305-984d-e028b7825a1e.png)|
 |:--:|
 |You can remap the connection under `User`. |
