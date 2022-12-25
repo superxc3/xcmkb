@@ -5,15 +5,11 @@
 ## Key remap software VIAL
 Key remap download [Vial](https://get.vial.today/download/). Always hover on the key if you are not sure the function is.
 
-Switch between layers:
-![image](https://user-images.githubusercontent.com/79617315/209417128-f588cad0-53f9-4feb-8a3a-33714a95e0e5.png)
-
-
-The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explain how it works.
-![image](https://user-images.githubusercontent.com/79617315/208881636-7c6481e0-e320-4ad1-b727-bb4b7e0616f4.png)
-
-Also layer cycle through Layer tab:
-![image](https://user-images.githubusercontent.com/79617315/208881348-fc678b95-c729-4dff-94a2-946d5032845c.png)
+## Installation guide
+1. It is not recommended to install switches directly to the switch plate without dissembling it, especially for the first time user. Two key reasons: pc switch plate flex and soft; it is gasket！
+2. Unscrew the top 4 screws from the frame, and 4 screws from switch plate
+3. Take out the switch plate and insert all the 17 switches one by one, place it back to pcb and install the 4 screws of the switch plate. 
+4. Assemble and fasten another 4 screws on the acrylic frame. 
 
 ## Connection
 The following explains bluetooth connection.
@@ -57,6 +53,16 @@ Capslock and numlock indicator only reflected when it is connected. MAC will not
 ## NKRO
 Recommended to turn off. 
 
+## Commonly used vial keymap
+Switch between layers:
+![image](https://user-images.githubusercontent.com/79617315/209417128-f588cad0-53f9-4feb-8a3a-33714a95e0e5.png)
+
+
+The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explain how it works.
+![image](https://user-images.githubusercontent.com/79617315/208881636-7c6481e0-e320-4ad1-b727-bb4b7e0616f4.png)
+
+Also layer cycle through Layer tab:
+![image](https://user-images.githubusercontent.com/79617315/208881348-fc678b95-c729-4dff-94a2-946d5032845c.png)
 
 ## Firmware
 :warning: This is not an open source numpad, hence no qmk codes will be shared. All settings and configuration already enabled.
