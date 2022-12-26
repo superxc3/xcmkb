@@ -17,8 +17,10 @@ For 2.4g just install the dongle. Try to toggle the power button near to usb por
 |:--:|
 |You can remap the connection under `User`. |
 
-1. BT1 > BT_RST > Add bluetooth device from your pc
-2. If you want to clear bluetooth pairing, you have to clear on both sides (your keyboard and pc), to do this repeat step 1. 
+1. BT_GB1 > Add bluetooth device from your pc
+2. If you want to clear bluetooth pairing, you have to clear on both sides (your keyboard and pc). BT_1 > BT_RST clears your keyboard pairing; go to bluetooth device on your pc, `remove device`. Repeat step 1 to connect your device for the very first time.
+3. BT1 / BT2 / BT 3 allows you to switch between different devices. 
+4. It is recommended to pair only one profile to a device. For instance, do not pair BT1 and BT2 to your single pc to avoid conflict. 
 
 |![image](https://user-images.githubusercontent.com/79617315/209416741-42fb4e94-c4e4-4314-b77b-af706cad4adc.png)|
 |:--:|
@@ -30,6 +32,7 @@ For 2.4g just install the dongle. Try to toggle the power button near to usb por
 |BT1  |  Bluetooth profile 1|
 |BT2  |  Bluetooth profile 2|
 |BT3  |  Bluetooth profile 3|
+| BT_GB1 | Bluetooth profile 1 discoverable |
 |BTRF | 2.4g connection |
 | SEL_OUTPUT | Connected through certain mode, default by wired |
 |SYS_SLEEPTIME| Sleep time for connection, the shorter the time the lesser battery usage |
