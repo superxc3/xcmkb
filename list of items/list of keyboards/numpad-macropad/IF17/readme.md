@@ -11,8 +11,10 @@ Key remap download [Vial](https://get.vial.today/download/). Always hover on the
 3. Take out the switch plate and insert all the 17 switches one by one, place it back to pcb and install the 4 screws of the switch plate. 
 4. Assemble and fasten another 4 screws on the acrylic frame. 
 
+
 ## Connection
-For 2.4g just install the dongle. Try to toggle the power button near to usb port if it is not responding. The following explains bluetooth connection.
+For 2.4g just install the dongle. Try to toggle the power button near to usb port if it is not responding. The following explains bluetooth connection. PLEASE READ FINISH THIS SESSION BEFORE YOU CONNECT YOUR BOARD. 
+
 |![image](https://user-images.githubusercontent.com/79617315/209416348-095caa94-79d7-4305-984d-e028b7825a1e.png)|
 |:--:|
 |You can remap the connection under `User`. |
@@ -40,6 +42,19 @@ For 2.4g just install the dongle. Try to toggle the power button near to usb por
 | :name_badge: BT_FLASH | DO NOT PRESS THIS, IT CLEARS EVERYTHING AND FLASHING THE DEVICE IS LENGTHY |
 | :name_badge: RF_FLASH | DO NOT PRESS THIS, IT CLEARS EVERYTHING AND FLASHING THE DEVICE IS LENGTHY |
 
+### Default Keymap for Connection
+
+|![combination](https://user-images.githubusercontent.com/79617315/210479982-64f73384-72d9-4751-a322-15e64861a065.jpg)|
+|:--:|
+| Click the knob to access layer 10 > then click . to access layer 11 > and you can find the keymap of layer 11 as follow |
+
+|![Layer 11](https://user-images.githubusercontent.com/79617315/210478936-216e5085-4bd6-4d4e-b4d0-d12a90fbacad.JPG)|
+|:--:|
+| Layer 11 default keymap. Click the knob to go back Layer 10, click again to go back to Layer 0 |
+
+|![Layer 10](https://user-images.githubusercontent.com/79617315/210478930-32dea193-86f8-4964-ba17-b83343fae24c.JPG)|
+|:--:|
+| Layer 10 default keymap for your reference |
 
 ## Layer
 A total of 12 but please utilise the top 10th only (Layer 0 to 9). Layer 10 and 11 have set with default keymap.
