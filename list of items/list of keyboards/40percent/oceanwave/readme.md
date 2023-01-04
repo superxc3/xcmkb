@@ -31,9 +31,10 @@ Due to limitation of IOs, not all features can be included (4. to 7.). Below sho
 Below shows possible combination by jump wire certain spots for additional IOs.
 
 #### 2 Encoders + OLED or BZZZ
-1. Join the ENCC and D on top of mcu (bridge wire between IO and both points)
+1. Handwire extra IO points from promicro mcu to the ENCC and D on the side of mcu 
 2. Do not join split paste above the flat wheel
 3. Join split paste of OLED or BZZZ depends on your choice, do not join both.
+4. OLED on top; BZZZ at the bottom with the feedback metal facing up, check the GND marking on pcb
 
 :warning: Below will lead to conflict if
 1. Join OLED or BZZZ and join split paste above the flat wheel
