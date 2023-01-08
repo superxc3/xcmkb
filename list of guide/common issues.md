@@ -17,12 +17,14 @@
 
 ## Split Keyboards
 #### Oled is up but key cannot be registered
-- Most of the time the problem would be USB cable. Recommend to find a more reliable data cable or just purchase the Ugreen magnetic cable as suggested above. 
+- Make sure you push trs cable fully. 
 
 #### Master split is working perfectly, slave side is not registering
-- Most of the time the problem would be USB cable. Recommend to find a more reliable data cable or just purchase the Ugreen magnetic cable as suggested above. 
+- Make sure you push trs cable fully. 
 
 #### Boards disconnected after several seconds of connection
 - Might be overpower needed for usb. Try to lower the brightness (especially rgb per key) to 50% and lower.
+
+Anything just dm us, we dont bite.
 
 
