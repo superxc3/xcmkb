@@ -25,6 +25,6 @@
 #### Boards disconnected after several seconds of connection
 - Might be overpower needed for usb. Try to lower the brightness (especially rgb per key) to 50% and lower.
 
-Anything just dm us, we dont bite.
+`Anything just dm us, we dont bite.`
 
 
