@@ -12,6 +12,9 @@ However do note that switches cannot be inserted properly for acrylic switch pla
 - Launch one application each time (Via only or VIAL only), do not launch together to avoid conflict.
 - VIAL can be quite buggy. 
 
+#### Weird keyremap / some keys not function accordingly
+- Try to remove oled cover and push the mcu tight. The mcu might be loose during shipping (sometimes we have violent courier). Rarely happened case but this simple trick helps to avoid shipping fee to return refund etc.
+
 ## Split Keyboards
 #### Oled is up but key cannot be registered
 - Most of the time the problem would be USB cable. Recommend to find a more reliable data cable or just purchase the Ugreen magnetic cable as suggested above. 
@@ -21,3 +24,5 @@ However do note that switches cannot be inserted properly for acrylic switch pla
 
 #### Boards disconnected after several seconds of connection
 - Might be overpower needed for usb. Try to lower the brightness (especially rgb per key) to 50% and lower.
+
+
