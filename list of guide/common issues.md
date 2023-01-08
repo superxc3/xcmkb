@@ -1,9 +1,9 @@
 # Common Issues
 
 #### Certain keys are not registered
-- Check any bent pins on your switch. It is recommended to insert the switch properly by following [this method](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md#step-4), it is a proper way of inserting switches. 
-However do note that switches cannot be inserted properly for acrylic switch plate due to the thickness of acrylic.
+- Check any bent pins on your switch. 
 - Your cable might be not a data cable which can transmit data. This happens very often on micro usb cable. Try with another cable or buy a usb data cable.
+- For mac book type c to c cable is not working. You have to do it for type c to type a. Heard you can flash the board with typec to c cable and it might able to make it work, yet to test.
 
 #### Rows or columns registered together
 - Check any bent pins on your switch.
