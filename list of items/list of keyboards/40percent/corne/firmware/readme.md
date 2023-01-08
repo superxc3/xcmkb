@@ -5,12 +5,26 @@
 3. Refer setting 1, oled disabled, mousekey enabled, rgb limit to 2, firmware 99%, 192 bytes free.
 4. The board you bought is already pre-flashed, we do not recommend you to flash it unless you are aware what you are doing. 
 5. Refer [Flashing Hex](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md) for steps to flash hex. 
+6. All corne firmware rev download from [here](https://share.multcloud.link/share/c831cb3e-590b-4b11-b883-bfa68798e0cf).
+
+## Rev 2023-2 (2023-01-08)
+Built based on rev1. Disable rgb, enable qmk settings and mousekey. The firmware size is approaching the maximum - 27928/28672 (97%, 744 bytes free)
+### Features
+- a total of 8 layers (Layer 0 - 7)
+- oled yes
+- vial and via yes
+- qmk settings yes, combo, tap dance no
+- mousekey yes
+- rgb disabled
+- tapping term 200
+- ignore mod tap interrupt
+- split usb detect 
+- usb polling 1000
 
 ## Rev 2023-1 (2023-01-06)
 Suitable for user who looking for vial-enabled firmware. This is created to allow keyboard to be mapped with vial as recent via firmware is incompatible in vial. 
 - enable vial 
 - due to increasing size, mousekey is disabled
-- download [here](https://share.multcloud.link/share/c831cb3e-590b-4b11-b883-bfa68798e0cf) for hex file
 
 ### Features
 - a total of 8 layers (Layer 0 - 7)
