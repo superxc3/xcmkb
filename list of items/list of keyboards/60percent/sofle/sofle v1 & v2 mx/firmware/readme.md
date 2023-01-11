@@ -6,6 +6,38 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
 
 1. For Sofle without underglow, flashed with [Rev 2022-1 (2022-02-10)](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20%26%20v2%20mx/firmware#rev-2022-1-2022-02-10) by default.
 2. For Sofle with underglow RGB strip, flashed with [Rev 2022-5-1 RGB Sleep](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20%26%20v2%20mx/firmware#rev-2022-5-1-rgb-sleep) by default. 
+3. Firmware download from [here](https://share.multcloud.link/share/c831cb3e-590b-4b11-b883-bfa68798e0cf), password gets from discord `welcome-note`.
+
+## Rev 2023-2 Animated luna without RGB
+Built based on Rev 2023-1, added animated luna due to 10% size available.
+
+### Features
+- Vial enabled
+- RGB underglow no
+- Mousekey yes
+- QMK settings, combo, tap dance disabled
+- Layer 6 (Layer 0 to 5) 
+- Animated luna oled, fix flicker oled from waking up
+
+## Rev 2023-1 Vial update
+This is a new update on vial repo. The firmware size is fine - 25930/28672 (90%, 2742 bytes free). QMK settings cannot be enabled. The firmware is too large! 29390/28672 (718 bytes over).
+
+### Features
+- Vial enabled
+- RGB underglow no
+- Mousekey yes
+- QMK settings, combo, tap dance disabled
+- Layer 6 (Layer 0 to 5)
+
+## Rev 2023-1u Vial update
+This is a new update on vial repo with rgb underglow enabled for board with rgb strip. 
+
+### Features
+- Vial enabled
+- RGB underglow yes
+- Mousekey yes
+- QMK settings, combo, tap dance disabled
+- Layer 6 (Layer 0 to 5)
 
 ## Rev 2022-5 RGB Underglow Backup
 - A backup of RGB underglow if [Rev 2022-5 RGB Underglow](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20%26%20v2%20mx/firmware#rev-2022-5-rgb-underglow) is not working.
