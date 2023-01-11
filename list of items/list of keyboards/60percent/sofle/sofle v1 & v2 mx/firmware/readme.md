@@ -9,15 +9,14 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
 3. Firmware download from [here](https://share.multcloud.link/share/c831cb3e-590b-4b11-b883-bfa68798e0cf), password gets from discord `welcome-note`.
 
 ## Rev 2023-2 Animated luna without RGB
-Built based on Rev 2023-1, added animated luna due to 10% size available.
-
+Built based on Rev 2023-1, added animated luna due to 10% size available. `Debugging and cannot be released, flicker oled due to animated luna`
 ### Features
 - Vial enabled
 - RGB underglow no
 - Mousekey yes
 - QMK settings, combo, tap dance disabled
 - Layer 6 (Layer 0 to 5) 
-- Animated luna oled, fix flicker oled from waking up
+- Animated luna oled
 
 ## Rev 2023-1 Vial update
 This is a new update on vial repo. The firmware size is fine - 25930/28672 (90%, 2742 bytes free). QMK settings cannot be enabled. The firmware is too large! 29390/28672 (718 bytes over).
@@ -30,12 +29,12 @@ This is a new update on vial repo. The firmware size is fine - 25930/28672 (90%,
 - Layer 6 (Layer 0 to 5)
 
 ## Rev 2023-1u Vial update
-This is a new update on vial repo with rgb underglow enabled for board with rgb strip. 
+This is a new update on vial repo with rgb underglow enabled for board with rgb strip, mousekey has to be disabled (720 over). * The firmware size is approaching the maximum - 28374/28672 (98%, 298 bytes free)
 
 ### Features
 - Vial enabled
-- RGB underglow yes
-- Mousekey yes
+- RGB underglow yes, limit to RGB breathing, rainbow mood, rainbow swirl, static gradient only
+- Mousekey no
 - QMK settings, combo, tap dance disabled
 - Layer 6 (Layer 0 to 5)
 
