@@ -6,10 +6,11 @@
 Key remap download [Vial](https://get.vial.today/download/). Always hover on the key if you are not sure the function is.
 
 ## Installation guide
-1. It is not recommended to install switches directly to the switch plate without dissembling it, especially for the first time user. Two key reasons: pc switch plate flex and soft; it is gasket！
+1. Paste your poron. It is not recommended to install switches directly to the switch plate without dissembling it, especially for the first time user. Two key reasons: pc switch plate flex and soft; it is gasket！
 2. Unscrew the top 4 screws from the frame, and 4 screws from switch plate
 3. Take out the switch plate and insert all the 17 switches one by one, place it back to pcb and install the 4 screws of the switch plate. 
 4. Assemble and fasten another 4 screws on the acrylic frame. 
+
 
 
 ## Connection
