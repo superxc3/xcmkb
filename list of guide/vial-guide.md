@@ -2,6 +2,14 @@
 
 Vial is more straight forward compare to VIA. However, sometimes can be very buggy (forced close). 
 
+## Basic Tapping and Layering 
+The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explain how it works.
+![image](https://user-images.githubusercontent.com/79617315/208881636-7c6481e0-e320-4ad1-b727-bb4b7e0616f4.png)
+
+Also layer cycle through Layer tab:
+![image](https://user-images.githubusercontent.com/79617315/208881348-fc678b95-c729-4dff-94a2-946d5032845c.png)
+
+
 ## Extra Features
 Can be enabled / disabled depends on the firmware size when compile.
 
