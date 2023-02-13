@@ -11,7 +11,7 @@ All our boards are pre-assembled and pre-flashed. No flashing is required. Launc
 ## What do you need?
 - Micro-usb cable or type c cable depends on your purchase/batch
 - 42 3/5 pins switches mx 
-- 42 keycaps
+- 42 keycaps (thumb key supports up to 1.5u)
 
 ## List of Builds
 ### All the builds below comprise of
