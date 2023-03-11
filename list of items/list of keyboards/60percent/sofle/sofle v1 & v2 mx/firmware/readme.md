@@ -8,6 +8,25 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
 2. For Sofle with underglow RGB strip, flashed with [Rev 2022-5-1 RGB Sleep](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20%26%20v2%20mx/firmware#rev-2022-5-1-rgb-sleep) by default. 
 3. Firmware download from [here](https://share.multcloud.link/share/c831cb3e-590b-4b11-b883-bfa68798e0cf), password gets from discord `welcome-note`.
 
+## Rev 2023-3 Vial update for all kinds of Sofle (RGB)
+Due to QMK Firmware and vial update, new firmware is written to avoid conflict. Do download `xcmkb_sofle_vial-superalttab-left` and right and flash using QMK Toolbox, refer [Tutorial to flash split keyboard](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md). 
+
+This firmware supports all kinds of Sofle including v2 and lp choc with RGB lighting. In order to enable RGB lighting, mousekey is disabled. 
+
+### Features
+- Vial enabled
+- Total of 6 layers (012345)
+- RGB underglow and rgb per key
+- RGB lighting effects limited to Rainbow Mood, Rainbow Swirl, and Static Gradient only
+- Super alt tab enable to cycle between different windows (check User in Vial)
+- QMK settings, combo and tap dance in vial are disabled
+- Mousekey disabled
+- Permissive hold, ignore mod tap interrupt, tapping force hold are enabled
+- USB polling interval ms1
+- Split usb detect for some batches of promicro
+- vial update for Encoder map enabled
+
+
 ## Rev 2023-2 Animated luna without RGB
 Built based on Rev 2023-1, added animated luna due to 10% size available. `Debugging and cannot be released, flicker oled due to animated luna`
 ### Features
