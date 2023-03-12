@@ -12,7 +12,7 @@ Additionally, the hotswap socket accommodates both MX and Choc switches, allowin
 
 ## Wireless Seeed Low Profile Choc version
 - Socketed Seeed XIAO BLE Wireless MCU
-- 800fmah lithium battery
+- 800mah lithium battery
 - Hotswap LP Choc v1
 - Original 3D printed case designed by author
 - TRS cable included
