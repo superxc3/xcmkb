@@ -16,7 +16,7 @@ Additionally, the hotswap socket accommodates both MX and Choc switches, allowin
 - Hotswap LP Choc v1
 - Original 3D printed case designed by author
 - TRS cable included
-- EC12 encoder with 3D printed knob (only working on master side, default at right)
+- EC12 encoder with 3D printed knob (working on both sides)
 - No switch plate (does not required due to pcb design)
 
 ### What is not included and you need to prepare
@@ -28,7 +28,7 @@ Do let us know if you need help to bundle with switches and keycaps (MBK/CFX/Kai
 ### Firmware
 - Default ZMK supports for Seeed XIAO BLE, fork [shield](https://github.com/snsten/Klein-zmk) written by author. Edit the keymap according to your needs, click action to download firmware.
 - If your Seeed XIAO BLE was flashed, you may drop reset.settings file from firmware and drop left and right uf2 accordingly. 
-- The default master is set on right side, rotary encoder only working on the right as vol up and down. Other layers please refer to keymap. 
+- The default master is set on right side, do aware when you connect bluetooth device. 
 
 :rotating_light: Since ZMK is designed for advanced users, we assume that you are already an expert in using it. Feel free to DM us if you encounter any problems, but please note that we may not always be able to reply.
 
