@@ -5,7 +5,7 @@ TBK Mini is a Dactyl Manuform designed by Bastard. It has compact and silent des
 You always can support [Bastard](https://bastardkb.com/product/tbk-mini-diy-kit-with-case-and-electronics/) here.
 
 ## What is included
-- 3d printed case
+- 3d printed PLA+
 - USB c promicro
 - TRS cable
 - rubber feet included
@@ -27,11 +27,11 @@ Also layer cycle through Layer tab:
 
 ## Notes
 1. :warning: This step is very important to avoid mcu bricked. Properly connect split keyboard refer to [Video](https://www.instagram.com/tv/CdpYrWBJuD9/?igshid=YmMyMTA2M2Y=). 
-![image](https://user-images.githubusercontent.com/79617315/204213627-3c877043-aae7-45f9-804b-e50d5ad57624.png)
+![image](https://user-images.githubusercontent.com/79617315/224519543-47cb7a1e-d4b6-4d15-9bd7-b2c141f7ebe1.png)
 2. Common issues refer to [Common Issues](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md).
 
 ## Firmware
-The board is flashed with Vial and firmware revision can refer to [Firmware](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/40percent/tbkmini/firmware). Do note that the board is pre-flashed so flashing is no required. If you need to compile new firmware in the future, it is in the qmk firmware under directory of `bastardkb/tbkmini/v2`, please take note of the following:
+The board is flashed with Vial and firmware revision can refer to [Firmware](). Do note that the board is pre-flashed so flashing is no required. If you need to compile new firmware in the future, it is in the qmk firmware under directory of `bastardkb/tbkmini/v2`, please take note of the following:
 
 ### Change the diode direction
 In `config.h`, default comes with `#define DIODE_DIRECTION ROW2COL`, pleaase replace with `#define DIODE_DIRECTION COL2ROW`,
