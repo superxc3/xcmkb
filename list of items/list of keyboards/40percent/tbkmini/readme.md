@@ -2,6 +2,8 @@
 
 TBK Mini is a Dactyl Manuform designed by Bastard. It has compact and silent design with a 3-key thumb cluster. We modified a lil bit in reducing the cost by handwiring almost everything instead of using flexible pcb from Bastard. 
 
+You always can support [Bastard](https://bastardkb.com/product/tbk-mini-diy-kit-with-case-and-electronics/) here.
+
 ## What is included
 - 3d printed case
 - USB c promicro
