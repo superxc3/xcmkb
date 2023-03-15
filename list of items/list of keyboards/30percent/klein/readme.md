@@ -33,7 +33,8 @@ The Wireless Seeed Choc is the most cost efficient setup for Klein, if you are l
 - No switch plate for Choc option
 - Polycarbonate switch plate for mx version, extra standsoff and screw will be provided
 - Higher profile EC11 rotary encoder with knob
-- Optional 0.96 larger oled screen, default comes with Klein logo only
+- Optional sound buzzer, implemented in QMK code, can be configured by user by QMK compilation, refer [Audio](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_audio.md#songs)
+- Optional 0.96 larger oled screen, default comes with Klein logo only. Not recommended, might as well utilise the size for qmk settings / tap dance / combo in vial since this is a 36 keys small keyboard.
 
 
 ### What is not included and you need to prepare
@@ -48,4 +49,6 @@ Do let us know if you need help to bundle with switches and keycaps.
 - The default master is set on right side, do aware when you connect bluetooth device. 
 
 :rotating_light: Since ZMK is designed for advanced users, we assume that you are already an expert in using it. Feel free to DM us if you encounter any problems, but please note that we may not always be able to reply.
+
+Wired firmware refer to [Firmware](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/30percent/klein/firmware). 
 
