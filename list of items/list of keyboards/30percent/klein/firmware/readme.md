@@ -2,7 +2,7 @@
 1. Wired typical promicro
 2. Wired RP2040 promicro 
 3. Wired RP2040 SEEED
-4. Wireless SEEED ble
+4. [Wireless SEEED ble](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/30percent/klein/readme.md#firmware)
 
 ## 1. Wired Typical Promicro
 Firmware approaching 99% maximum as OLED enabled.
