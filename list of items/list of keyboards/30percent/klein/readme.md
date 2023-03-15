@@ -19,10 +19,27 @@ Additionally, the hotswap socket accommodates both MX and Choc switches, allowin
 - EC12 encoder with 3D printed knob (working on both sides)
 - No switch plate (does not required due to pcb design)
 
+## Wireless Seeed Low Profile MX version
+- ditto
+- EC12 encoders replace with higher profile EC11 with knob
+- Polycarbonate switch plate for mx with standsoff
+- Higher profile 3D printed case modified by XCMKB
+
+## Wired USB C Promicro MX or Choc version
+The Wireless Seeed Choc is the most cost efficient setup for Klein, if you are looking for wired version:
+- Socketed USB C Promicro MCU
+- Hotswap MX Socket or Choc socket or both
+- Acrylic bottom plate
+- No switch plate for Choc option
+- Polycarbonate switch plate for mx version, extra standsoff and screw will be provided
+- Higher profile EC11 rotary encoder with knob
+- Optional 0.96 larger oled screen, default comes with Klein logo only
+
+
 ### What is not included and you need to prepare
-Do let us know if you need help to bundle with switches and keycaps (MBK/CFX/Kailh).
-- 36 low profile choc v1 switches
-- 36 low profile keycaps
+Do let us know if you need help to bundle with switches and keycaps.
+- 36 low profile choc v1 switches (linear: 15g pink /25g purple /35g red choc; clicky: 50g white /52g tiffany)
+- 36 low profile keycaps (MBK/CFX/Kailh)
 - USB C to USB A cable
 
 ### Firmware
