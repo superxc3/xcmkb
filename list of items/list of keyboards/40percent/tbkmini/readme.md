@@ -17,7 +17,9 @@ You always can support [Bastard](https://bastardkb.com/product/tbk-mini-diy-kit-
 - usb c to usb a cable (usb c to c might not working)
 
 ## Key Remap
-Key remap download [Vial](https://get.vial.today/download/). 
+Key remap download [Vial](https://get.vial.today/download/). The board is flashed with vial compatible firmware with 6 layers, QMK settings, tap dance, combo and mousekey enabled. 
+
+![image](https://user-images.githubusercontent.com/79617315/225521440-ee9efd8e-60b9-493e-be35-010b42f41ac2.png)
 
 The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explain how it works.
 ![image](https://user-images.githubusercontent.com/79617315/208881636-7c6481e0-e320-4ad1-b727-bb4b7e0616f4.png)
