@@ -2,24 +2,16 @@
 
 This user manual is applicable for Sofle V1, V2, and Choc version. They are basically using the same firmware. 
 
-The board is already preflashed with ZMK. However to remap the keys, users must learn how to setup zmk environment. Kindly refer to [this link](https://zmk.dev/docs/development/setup) for zmk setup. 
+For boards after 2023.04.04, it is flashed with `infused-kim` repo which supports both sides rotary encoders. Please fork [this link](https://github.com/superxc3/zmk-config-sofle) and follow the instruction for key remap.
+
+
+
+~The board is already preflashed with ZMK. However to remap the keys, users must learn how to setup zmk environment. Kindly refer to [this link](https://zmk.dev/docs/development/setup) for zmk setup.~
 
 The board can be tricky when connecting it to your PC. Do proceed with Part A when you receive your wireless unit. 
 
 ## Part A Connect to your PC
-1. Clear Bluetooth profile
-
-|![image](https://user-images.githubusercontent.com/79617315/151686442-9965558d-bbb1-497a-a1aa-7a2406a442d9.png)|
-|:--:|
-|For Sofle ZMK, clear your bluetooth profile by clicking the left knob (means BTCLR)|
-
-|![image](https://user-images.githubusercontent.com/79617315/151686605-3673bf43-e9b2-4f76-9c8a-d4a996859393.png)|
-|:--:|
-|For Corne ZMK, LWR+BTCLR as keymap above|
-
-2. For Win platform, START> Bluetooth & other devices
-3. Add Bluetooth or other device > Bluetooth > Corne should be appeared in the list
-4. Connect and done. Test if left and right are responding. If not proceed with Part B
+![sofle connection](https://user-images.githubusercontent.com/79617315/229803261-facdd50c-475b-4ff5-9293-e3c17da099f0.jpg)
 
 ## Part B Flash zmk
 1. Connect left and right splits to your pc (both connect together using type c cable)
