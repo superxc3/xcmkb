@@ -7,6 +7,20 @@
 5. Refer [Flashing Hex](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md) for steps to flash hex. 
 6. All corne firmware rev download from [here](https://share.multcloud.link/share/c831cb3e-590b-4b11-b883-bfa68798e0cf).
 
+## Standard Firmware (2023.04.05)
+1. For RGB, the board is flashed with Rev 2023-3u.
+2. For non-rgb, the board is flashed with Rev 2023-3.
+
+## Rev 2023-3u
+- RGB enabled, qmk settings disabled
+- the rest similar to Rev 2023-3
+
+## Rev 2023-3
+- fix board does not wake up after restart
+- RGB disabled, mousekey enabled, qmk settings enabled
+- 6 layers
+
+
 ## Rev 2023-2 (2023-01-08)
 Built based on rev1. Disable rgb, enable qmk settings and mousekey. The firmware size is approaching the maximum - 27928/28672 (97%, 744 bytes free)
 ### Features
