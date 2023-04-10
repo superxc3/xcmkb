@@ -7,6 +7,10 @@
 5. Refer [Flashing Hex](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md) for steps to flash hex. 
 6. All corne firmware rev download from [here](https://share.multcloud.link/share/c831cb3e-590b-4b11-b883-bfa68798e0cf).
 
+## ZMK Wireless 
+Please check [zmk-config-crkbd](https://github.com/superxc3/zmk-config-crkbd).
+
+
 ## Standard Firmware (2023.04.05)
 1. For RGB, the board is flashed with Rev 2023-3u.
 2. For non-rgb, the board is flashed with Rev 2023-3.
