@@ -17,8 +17,7 @@ The board can be tricky when connecting it to your PC. Do proceed with Part A wh
 1. Connect left and right splits to your pc (both connect together using type c cable)
 2. Put right into bootloader mode (press the reset button), one window is popped out showing "nicenano" folder. Dont do anything yet, remember this folder as right split. 
 3. Now press reset button on your left split, one window will be popped out as previous step.
-4. Drag [Sofle right_u2f](https://drive.google.com/file/d/1vG_Vt5kh-t4oU3vA74P0v6XJFsQKFMX0/view?usp=sharing) for Sofle and [Corne right u2f](https://drive.google.com/file/d/1mlszON0ekp84vhrinADzJo_43td5rVRl/view?usp=sharing) for Corne to right split nicenano folder, the window will be closed once you dragged the u2f file in.
+4. Drag Sofle left.u2f and right.u2f to respective folder.
 5. Do not disconnect right split yet. 
-6. Now drag [Sofle left u2f](https://drive.google.com/file/d/1aMdDRVfslyowl-SOPlrPt2pp_X3KuXlv/view?usp=sharing) for Sofle and [Corne left u2f](https://drive.google.com/file/d/1EGCXd9WICUCVBMP7et7vqlWj9Ho8sg_N/view?usp=sharing) for Corne to the remaining nicenano folder. 
-7. Remove left split from type c cable. Proceed with Part A to connect your board to pc. If successfully connected, you shall able to type without cable now. 
-8. If so, remove the right split from type c cable. Both should be working good now!
+6. Remove left split from type c cable. Proceed with Part A to connect your board to pc. If successfully connected, you shall able to type without cable now. 
+7. If so, remove the right split from type c cable. Both should be working good now!
