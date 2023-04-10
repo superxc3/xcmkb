@@ -1,23 +1,7 @@
 # User Manual for Sofle ZMK Wireless
 
-This user manual is applicable for Sofle V1, V2, and Choc version. They are basically using the same firmware. 
+This user manual is applicable for Sofle V1, V2, and Choc version. 
 
-For boards after 2023.04.04, it is flashed with `infused-kim` repo which supports both sides rotary encoders. Please fork [zmk-config-sofle](https://github.com/superxc3/zmk-config-sofle) and follow the instruction for key remap.
+Please fork [zmk-config-sofle](https://github.com/superxc3/zmk-config-sofle) and follow the instruction for key remap. 
 
 
-
-~The board is already preflashed with ZMK. However to remap the keys, users must learn how to setup zmk environment. Kindly refer to [this link](https://zmk.dev/docs/development/setup) for zmk setup.~
-
-The board can be tricky when connecting it to your PC. Do proceed with Part A when you receive your wireless unit. 
-
-## Part A Connect to your PC
-![sofle connection](https://user-images.githubusercontent.com/79617315/229803261-facdd50c-475b-4ff5-9293-e3c17da099f0.jpg)
-
-## Part B Flash zmk
-1. Connect left and right splits to your pc (both connect together using type c cable)
-2. Put right into bootloader mode (press the reset button), one window is popped out showing "nicenano" folder. Dont do anything yet, remember this folder as right split. 
-3. Now press reset button on your left split, one window will be popped out as previous step.
-4. Drag Sofle left.u2f and right.u2f to respective folder.
-5. Do not disconnect right split yet. 
-6. Remove left split from type c cable. Proceed with Part A to connect your board to pc. If successfully connected, you shall able to type without cable now. 
-7. If so, remove the right split from type c cable. Both should be working good now!
