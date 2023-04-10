@@ -2,7 +2,7 @@
 
 This user manual is applicable for Sofle V1, V2, and Choc version. They are basically using the same firmware. 
 
-For boards after 2023.04.04, it is flashed with `infused-kim` repo which supports both sides rotary encoders. Please fork [this link](https://github.com/superxc3/zmk-config-sofle) and follow the instruction for key remap.
+For boards after 2023.04.04, it is flashed with `infused-kim` repo which supports both sides rotary encoders. Please fork [zmk-config-sofle](https://github.com/superxc3/zmk-config-sofle) and follow the instruction for key remap.
 
 
 
