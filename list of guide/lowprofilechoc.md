@@ -20,7 +20,8 @@ There is many different variant of low profile choc switch though. We will not i
 - MBK - more flat, lower profile, wider surface, ridge homing key
 - CFX - more budget, higher profile, smaller size led to extra gap between keys
 
-
+![image](https://user-images.githubusercontent.com/79617315/233551612-ae271674-7f3c-4df3-b100-b46d20f5d52d.png)
+Product image please browse through [MBK](https://fkcaps.com/). 
 
 
 ## V2
