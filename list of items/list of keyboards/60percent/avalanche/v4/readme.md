@@ -21,7 +21,7 @@
 ### What is not included and you need to prepare:
 1. 62 mx switches (3/5pins)
 2. 62 x 1u keycaps
-3. type c cable
+3. usb c to usb a cable
 
 ### User Manual
 1. :warning: This step is very important to avoid mcu bricked. Properly connect split keyboard refer to [Video](https://www.instagram.com/tv/CdpYrWBJuD9/?igshid=YmMyMTA2M2Y=). 
@@ -45,7 +45,8 @@ The board is not officially supported by VIA. Customisation for VIAL has been do
 
 #### OLED
 The default oled was "Avalanche V4.2". Re-configured as follow with new logo and indicators. 
-![WeChat Image_20221126212229](https://user-images.githubusercontent.com/79617315/204091127-62cf6cbc-6d90-425d-82d8-cc8b118d7553.jpg)
+![image](https://user-images.githubusercontent.com/79617315/233784036-48ebecc5-75de-4528-9a7e-ba190e830fb4.png)
+
 
 ### Firmware (Wireless)
 This is only working for bluetooth avalanche with nicenano v2 mcu. Oled and rgb per key are not supported. The board you received is already flashed with zmk uf2. To connect the board, please refer to the step below:
@@ -62,11 +63,3 @@ To avoid conflict, you may compile zmk for left and right. The command is `west 
 1. Refer to [Bluetooth cannot be paired and disconnect very often](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/useful%20codes%20for%20zmk%20firmware.md). 
 2. Using two bluetooth devices at the same time may interrupted typing experience. 
 
-
-
-### Future alternatives
-:construction: Pom switch plate for proper 1.6mm thickness. Carbon fibre option remains in pre-order form.
-
-:construction: Provide simple acrylic bottom and exclude 3D printed case for price markdown. 
-
-:construction: 3D printed case remains available and with tenting legs included.
