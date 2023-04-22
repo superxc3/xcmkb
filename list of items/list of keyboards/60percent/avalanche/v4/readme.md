@@ -29,7 +29,10 @@
 
 ### Key Remap
 
-Use VIAL, download [here](https://get.vial.today/download/). The key remap part is more straight forward in VIAL through Quantum tab. 
+Use VIAL, download [here](https://get.vial.today/download/). Board is pre-flashed and ported to Vial. Both sides can be master and will not lead to mirror error. 
+![image](https://user-images.githubusercontent.com/79617315/233782793-ed9e6c6f-b836-4f29-8d29-f292aa9be4fa.png)
+
+The key remap part is more straight forward in VIAL through Quantum tab. 
 
 The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explain how it works.
 ![image](https://user-images.githubusercontent.com/79617315/208881636-7c6481e0-e320-4ad1-b727-bb4b7e0616f4.png)
