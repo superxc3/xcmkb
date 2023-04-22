@@ -1,5 +1,9 @@
 # Common Issues
 
+#### Need to re-plug usb when pc restart
+- remove `split-usb-detect` in config.h
+- please download relevant hex files for the update above: [Avalanche v4](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/avalanche/v4/firmware.md#rev3-vial-rev3), [Sofle variation](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20%26%20v2%20mx/firmware#standard-firmware-flashed-for-sofle-v2-20230405), [Corne](https://drive.google.com/drive/u/0/folders/1O1TQ90idPsqGZOqgcTjGs8TE27zHC5nr). 
+
 #### Certain keys are not registered
 - Check any bent pins on your switch. 
 - Your cable might be not a data cable which can transmit data. This happens very often on micro usb cable. Try with another cable or buy a usb data cable.
