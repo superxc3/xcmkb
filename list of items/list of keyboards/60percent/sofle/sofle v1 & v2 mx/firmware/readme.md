@@ -7,7 +7,8 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
 2. For Sofle with underglow RGB strip and RGB per key, flashed with [Rev 2023-4 Sofle RGB usb detect](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20&%20v2%20mx/firmware/readme.md#rev-2023-4-sofle-rgb-usb-detect) by default. 
 3. Firmware download from [here](https://share.multcloud.link/share/c831cb3e-590b-4b11-b883-bfa68798e0cf), password gets from discord `welcome-note`.
 
-## Rev 2023-4-28 Oled bug
+## Rev 2023-4-3 Oled bug 
+- Date: 2023.04.28
 - Similar to previous update, fix bug on MO(2) and above misaligned. 
 - Sofle RGB/Underglow: vial-udrgb
 - Sofle without RGB/Underglow: vial-ud
