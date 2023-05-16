@@ -7,8 +7,6 @@ Designed by [beekeeb](https://github.com/beekeeb/piantor).
 ## User manual
 Connecting splits refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/user%20manual.md#part-a-connect). You can utilise sofle manual.
 
-:warning: For rgb per key user, it is recommended to set the brightness to maximum of 50% only. Higher than that may experience unstable power supply to usb and keyboard will be disconnected from your pc.
-
 ## Key Remap
 Using QMK [VIA](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/key%20remap.md). Corne is officially supported by VIA, hence auto-detected when you launch VIA. Common usage of VIA can refer [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/via-guide.md). 
 
