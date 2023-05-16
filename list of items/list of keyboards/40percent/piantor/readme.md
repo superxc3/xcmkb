@@ -1,5 +1,8 @@
 # Piantor
-![image](https://github.com/superxc3/xcmkb/assets/79617315/912fea89-989d-4bb3-846e-93d09bff44c5)
+|![image](https://github.com/superxc3/xcmkb/assets/79617315/912fea89-989d-4bb3-846e-93d09bff44c5)|
+|:--:|
+| 42 keys Piantor with 35g red pro and MBK keycaps (40x1u, 2xhoming keys) |
+
 
 Designed by [beekeeb](https://github.com/beekeeb/piantor). 
 
