@@ -38,8 +38,16 @@ west build -p -b nice_nano_v2 -- -DSHIELD=corne_left
 C:\Users\chino\zmk-ftc\app\build\zephyr
 ```
 
-## ZMK new repo
+## NICEView
+1. ZMK Firmware did not write anything about display or oled, refer to [Displays](https://zmk.dev/docs/features/displays). 
+2. Or further configuration refer to [Display Configuration](https://zmk.dev/docs/config/displays). 
+3. [Typeractive](https://docs.typeractive.xyz/build-guides/corne-wireless/firmware) firmware for Corne, test file downloadable, build guide firmware. Refer to [Niceview Repository](https://github.com/typeractivexyz/corne-wireless-view-zmk-config). 
+4. For [custom widget](https://github.com/zmkfirmware/zmk/pull/1768/) made by Nicell.
 
+
+## ZMK new repo
+1. [Beta testing](https://zmk.dev/docs/features/beta-testing) through Github Actions.
+2. 
 |![image](https://user-images.githubusercontent.com/79617315/191433668-b6eb7da9-b04f-488d-8d3e-25307a5003f0.png)|
 |:--:|
 |a. download Code| 
