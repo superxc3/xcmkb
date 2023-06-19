@@ -1,5 +1,12 @@
 # Firmware revision of Avalanche
 
+## Rev3 RGB (vial-rev3-rgb)
+- As Rev3 but with RGB enabled
+- RGB lighting limits to Rainbow mood, Static gradient, Rainbow swirl
+- Mousekey disabled
+- `KEY_OVERRIDE_ENABLE = no` in `rules.mk` to reduce 1500 bytes memory.
+- Please download hex [xcmkb_avalanche_v4_vial-rev3-rgb](https://drive.google.com/drive/folders/1diydoEG7hFadaGKZdStQmrYzxvltp0B7?usp=sharing), flash left and right respectively. Refer to [How to flash split](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md).
+
 ## Rev3 (vial-rev3)
 - Ported to VIAL
 - 4 layers (Layer 0,1,2,3)
