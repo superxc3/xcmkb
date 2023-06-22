@@ -1,32 +1,32 @@
 # Corne Firmware
 
+## ZMK Wireless 
+Please check [zmk-config-crkbd](https://github.com/superxc3/zmk-config-crkbd).
+
+## Standard Firmware (2023.04.05)
+1. For RGB, the board is flashed with Rev 2023-3u, named `crkbd_rev1_xcvial-u-left`.
+2. For non-rgb, the board is flashed with Rev 2023-3, named `crkbd_rev1_xcvial-2`.
+
+### Rev 2023-3 (non-RGB)
+- fix board does not wake up after restart
+- RGB disabled, mousekey enabled, qmk settings enabled
+- 6 layers
+  
+### Rev 2023-3u (RGB)
+- RGB enabled, qmk settings disabled
+- the rest similar to Rev 2023-3
+
 1. With vial enabled, qmk settings, rgb (limit to 3) and oled enabled, mousekey disabled: firmware oversize (3372 bytes over)
 2. Refer setting above, oled disabled, firmware 93%. 
 3. Refer setting 1, oled disabled, mousekey enabled, rgb limit to 2, firmware 99%, 192 bytes free.
 4. The board you bought is already pre-flashed, we do not recommend you to flash it unless you are aware what you are doing. 
 5. Refer [Flashing Hex](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md) for steps to flash hex. 
-6. All corne firmware rev download from [here](https://share.multcloud.link/share/c831cb3e-590b-4b11-b883-bfa68798e0cf).
-
-## ZMK Wireless 
-Please check [zmk-config-crkbd](https://github.com/superxc3/zmk-config-crkbd).
-
-
-## Standard Firmware (2023.04.05)
-1. For RGB, the board is flashed with Rev 2023-3u.
-2. For non-rgb, the board is flashed with Rev 2023-3.
-
-### Rev 2023-3u
-- RGB enabled, qmk settings disabled
-- the rest similar to Rev 2023-3
-
-### Rev 2023-3
-- fix board does not wake up after restart
-- RGB disabled, mousekey enabled, qmk settings enabled
-- 6 layers
+6. All corne firmware rev download from [here](https://drive.google.com/drive/folders/1Fzg_2ExMRd2aj1tImBqirBF1Uh8W3mVz?usp=drive_link).
 
 
 ## Rev 2023-2 (2023-01-08)
 Built based on rev1. Disable rgb, enable qmk settings and mousekey. The firmware size is approaching the maximum - 27928/28672 (97%, 744 bytes free)
+
 ### Features
 - a total of 8 layers (Layer 0 - 7)
 - oled yes
