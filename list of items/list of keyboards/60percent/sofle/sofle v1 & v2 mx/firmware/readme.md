@@ -2,10 +2,11 @@
 
 Sofle is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master). The firmware here are highly customised and modified by us, they are used to flash your boards before we ship to you. Hence, list of firmwares here are totally different from the default QMK VIA firmware found at the [official repo](https://qmk.fm/keyboards/). 
 
-# Standard Firmware Flashed for Sofle V2 (2023.04.05)
-1. For Sofle without underglow, flashed with [Rev 2023-4-1 Sofle usb alt](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20&%20v2%20mx/firmware/readme.md#rev-2023-4-1-sofle-usb-alt) by default.
-2. For Sofle with underglow RGB strip and RGB per key, flashed with [Rev 2023-4 Sofle RGB usb detect](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofle%20v1%20&%20v2%20mx/firmware/readme.md#rev-2023-4-sofle-rgb-usb-detect) by default. 
-3. Firmware download from [here](https://share.multcloud.link/share/c831cb3e-590b-4b11-b883-bfa68798e0cf), password gets from discord `welcome-note`.
+# Standard Firmware Flashed for Sofle V2 (2023.06.22)
+1. Standard wired firmware flashed after this date: `Rev 2023-4-3 Oled bug`.
+2. For Sofle without underglow, flashed with: `xcmkb_sofle_vial-ud.hex`.
+3. For Sofle with underglow RGB strip and RGB per key, flashed with: `xcmkb_sofle_vial_udrgb.hex`.
+4. Firmware download from [here](https://drive.google.com/drive/u/0/folders/19jDXbsa5eFDwiKjC7scXAqYjvtuJ-qrr).
 
 ## Rev 2023-4-3 Oled bug 
 - Date: 2023.04.28
