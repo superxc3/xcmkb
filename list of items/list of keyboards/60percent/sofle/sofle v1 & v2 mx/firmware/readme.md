@@ -6,7 +6,9 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
 1. Standard wired firmware flashed after this date: `Rev 2023-4-3 Oled bug`.
 2. For Sofle without underglow, flashed with: `xcmkb_sofle_vial-ud.hex`.
 3. For Sofle with underglow RGB strip and RGB per key, flashed with: `xcmkb_sofle_vial_udrgb.hex`.
-4. Firmware download from [here](https://drive.google.com/drive/u/0/folders/19jDXbsa5eFDwiKjC7scXAqYjvtuJ-qrr).
+4. The board you bought is already pre-flashed, we do not recommend you to flash it unless you are aware what you are doing or advised by us.
+5. Refer [Flashing Hex](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md) for steps to flash hex. 
+5. Firmware download from [here](https://drive.google.com/drive/u/0/folders/19jDXbsa5eFDwiKjC7scXAqYjvtuJ-qrr).
 
 ## Rev 2023-4-3 Oled bug 
 - Date: 2023.04.28
