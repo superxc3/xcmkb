@@ -15,11 +15,11 @@ Please check [zmk-config-crkbd](https://github.com/superxc3/zmk-config-crkbd).
 1. For RGB, the board is flashed with Rev 2023-3u.
 2. For non-rgb, the board is flashed with Rev 2023-3.
 
-## Rev 2023-3u
+### Rev 2023-3u
 - RGB enabled, qmk settings disabled
 - the rest similar to Rev 2023-3
 
-## Rev 2023-3
+### Rev 2023-3
 - fix board does not wake up after restart
 - RGB disabled, mousekey enabled, qmk settings enabled
 - 6 layers
