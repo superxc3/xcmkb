@@ -10,11 +10,19 @@ Sofle is powered by QMK-firmware (Firmware has been merged and can be found on t
 5. Refer [Flashing Hex](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md) for steps to flash hex. 
 5. Firmware download from [here](https://drive.google.com/drive/u/0/folders/19jDXbsa5eFDwiKjC7scXAqYjvtuJ-qrr).
 
-## Rev 2023-4-3 Oled bug 
+## Rev 2023-4-3 Oled bug (xcmkb_sofle_vial-ud or xcmkb_sofle_vial-udrgb)
 - Date: 2023.04.28
 - Similar to previous update, fix bug on MO(2) and above misaligned. 
 - Sofle RGB/Underglow: vial-udrgb
 - Sofle without RGB/Underglow: vial-ud
+
+## Rev 2023-4-4 no oled, no rgb (xcmkb_sofle_vial-ud-nooled)
+- Date: 2023.07.07
+- Built based on xcmkb_sofle_vial-ud
+- No oled, no rgb
+- Mousekey enable
+- QMK Settings, Tap dance enable
+* The firmware size is approaching the maximum - 28130/28672 (98%, 542 bytes free)
 
 ## Rev 2023-4-1 Sofle usb alt
 - without RGB lighting and enable mousekey
