@@ -1,5 +1,7 @@
 # Corne 
 
+![image](https://github.com/superxc3/xcmkb/assets/79617315/b4bf9a74-3347-4272-92b0-74de354a62a9)
+
 Corne is designed by [foostan](https://github.com/foostan/crkbd).
 
 1. Corne-cherry (hotswap mx) - you are here
