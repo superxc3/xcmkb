@@ -1,5 +1,10 @@
 # User Manual for Sofle
 
+![image](https://github.com/superxc3/xcmkb/assets/79617315/1fc4084e-740a-4594-b958-ec9c65ea7c8f)
+
+![image](https://github.com/superxc3/xcmkb/assets/79617315/3018c4f3-2c5d-474e-93aa-21701d202f28)
+
+
 ## What is included?
 - 1 x Left and right pre-soldered Sofle
 - Pre-flashed with VIAL
