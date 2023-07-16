@@ -4,6 +4,9 @@ Date: 20230716
 
 1. Start from Toolchain Setup, this guide will show you how to set up a development environment for building ZMK locally. 
 2. Install dependencies> Install Chocolatey
+3. `cd zmk/app`
+4. `C:\Users\xcmkb\zmk\app\build\zephyr`
+5. `west build -p -b nice_nano_v2 -- -DSHIELD="oceanwave nice_view_adapter nice_view"`
 
 ## Chocolatey for windows
 a. Start> PowerShell > right click > run as administrator
@@ -55,7 +58,10 @@ e. `pip install -r %HOMEPATH%\zephyrproject\zephyr\scripts\requirements.txt`
 ## Install Zephyr SDK
 f. Close and launch new cmd
 
-g. Paste the following
+g. Paste the following, download [here](https://github.com/zephyrproject-rtos/sdk-ng/releases/download/v0.15.0/zephyr-sdk-0.15.0_windows-x86_64.zip) if download speed from cmd is ridiculously slow. Extract the file as advised, one of it to your direcotry home, mine `C:\Users\xcmkb`.
+
+![image](https://github.com/superxc3/xcmkb/assets/79617315/641e3c19-b5ed-4e62-9cfc-7162d20b134b)
+
 ```
 cd %HOMEPATH%
 wget https://github.com/zephyrproject-rtos/sdk-ng/releases/download/v0.15.0/zephyr-sdk-0.15.0_windows-x86_64.zip
@@ -69,7 +75,35 @@ cd zephyr-sdk-0.15.0
 setup.cmd
 ```
 
-## Build the Blinky Sample
-a. 
+## Install West
+a. Refer to [here](https://zmk.dev/docs/development/setup#install-west).
+
+b. CMD > run as admin
+
+c. `pip3 install -U west`, follow instruction if need update or upgrade.
+
+d. `west --version`. Any error please follow link above.
+
+oi
+## Clone ZMK firmware
+a. cmd > cd `where you want to clone`. Mine default, which is `C:\Users\xcmkb`.
+
+b. git clone https://github.com/zmkfirmware/zmk.git
+
+
+# New Repo Clone
+This is important for first repo. But also important reference if clonning new repo next time, for instance, mouse ftc repo.
+
+## Initialize & Update Zephyr Workspace
+a. Please refer to [Step into the repository](https://zmk.dev/docs/development/setup#step-into-the-repository).
+
+b. Basically: `cd zmk`, replace zmk with your new repo?
+
+c. `west init -l app/`, `west update`
+
+d. `west zephyr-export`
+
+e. `pip3 install -r zephyr/scripts/requirements.txt`, if doesnt work, try cmd>admin, cd zmk. Repeat d and e.
+
 
 
