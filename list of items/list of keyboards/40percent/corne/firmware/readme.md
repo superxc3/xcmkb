@@ -8,7 +8,7 @@ We are using [Bastardkb/Splinky](https://github.com/Bastardkb/Splinky) RP2040 Pr
 1. All boards are flashed with Rev 2023-2040, named `crkbd_rev1_xcvial2040-u_promicro_rp2040` in uf2 format.
 2. For those who want to edit oled or so, source code is [included](https://drive.google.com/drive/folders/1B5K1ulOXyE-yQELU--9-apa6VU97dLYm?usp=sharing).
 
-   a. Please set up [Vial Environment](https://get.vial.today/docs/porting-to-vial.html#1-prepare-your-build-environment), it is similar to QMK VIA.
+   a. Please set up [Vial Environment](https://get.vial.today/docs/porting-to-vial.html#1-prepare-your-build-environment). If you are completely new to qmk_firmware, command `qmk setup -b vial vial-kb/vial-qmk` to clone vial-qmk to qmk firmware in your pc.
    
    b. Copy content in the Corne to your qmk-vial directory, except `keymaps`, this includes rev1, r2g, lib, halconf.h etc.
    
