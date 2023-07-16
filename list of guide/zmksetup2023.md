@@ -35,16 +35,41 @@ choco install ninja gperf python git dtc-msys2 wget unzip
 e. Close the window and open a new cmd.exe window as a regular user to continue.
 
 ## Get Zephyr and install Python dependencies
-Follow [here](https://docs.zephyrproject.org/3.2.0/develop/getting_started/index.html)
+Follow [Get Zephyr and install Python dependencies](https://docs.zephyrproject.org/3.2.0/develop/getting_started/index.html).
 
 a. as 'e' above
 
 b. `python -m venv zephyrproject\.venv`
 
-c. `west init zephyrproject`
+c. Copy below and wait. Lastly press enter again when `west update` shows as the last line.
+```
+west init zephyrproject
+cd zephyrproject
+west update
+```
 
-d. `cd zephyrproject`
+d. `west zephyr-export`
 
-d. `west update`
+e. `pip install -r %HOMEPATH%\zephyrproject\zephyr\scripts\requirements.txt`
+
+## Install Zephyr SDK
+f. Close and launch new cmd
+
+g. Paste the following
+```
+cd %HOMEPATH%
+wget https://github.com/zephyrproject-rtos/sdk-ng/releases/download/v0.15.0/zephyr-sdk-0.15.0_windows-x86_64.zip
+```
+
+h. And again `unzip zephyr-sdk-0.15.0_windows-x86_64.zip`.
+
+i. Paste again
+```
+cd zephyr-sdk-0.15.0
+setup.cmd
+```
+
+## Build the Blinky Sample
+a. 
 
 
