@@ -46,7 +46,7 @@ We are using [Bastardkb/Splinky](https://github.com/Bastardkb/Splinky) RP2040 Pr
 
 ## Other variation:
 ### Rev xcvial0718
-Reference `qmk compile -kb crkbd -km xcvial0718`
+Reference `qmk compile -kb crkbd -km xcvial0718`:
 - a total of 7 layers (Layer 0 - 6)
 - oled and rgb disabled
 - mousekey enabled
@@ -54,6 +54,7 @@ Reference `qmk compile -kb crkbd -km xcvial0718`
 - combo yes
 - tap dance yes
 - key overrides no
+The firmware size is fine - 27508/28672 (95%, 1164 bytes free). [Download](.
 
 
 ## Rev 2023-2 (2023-01-08)
