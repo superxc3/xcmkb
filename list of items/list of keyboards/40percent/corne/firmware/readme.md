@@ -54,7 +54,7 @@ Reference `qmk compile -kb crkbd -km xcvial0718`:
 - combo yes
 - tap dance yes
 - key overrides no
-The firmware size is fine - 27508/28672 (95%, 1164 bytes free). [Download](.
+The firmware size is fine - 27508/28672 (95%, 1164 bytes free). 
 
 
 ## Rev 2023-2 (2023-01-08)
