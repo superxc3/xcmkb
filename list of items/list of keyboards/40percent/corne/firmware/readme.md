@@ -44,6 +44,17 @@ We are using [Bastardkb/Splinky](https://github.com/Bastardkb/Splinky) RP2040 Pr
 5. Refer [Flashing Hex](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md) for steps to flash hex. 
 6. All corne firmware rev download from [here](https://drive.google.com/drive/folders/1Fzg_2ExMRd2aj1tImBqirBF1Uh8W3mVz?usp=drive_link).
 
+## Other variation:
+### Rev xcvial0718
+Reference `qmk compile -kb crkbd -km xcvial0718`
+- a total of 7 layers (Layer 0 - 6)
+- oled and rgb disabled
+- mousekey enabled
+- qmk settings yes
+- combo yes
+- tap dance yes
+- key overrides no
+
 
 ## Rev 2023-2 (2023-01-08)
 Built based on rev1. Disable rgb, enable qmk settings and mousekey. The firmware size is approaching the maximum - 27928/28672 (97%, 744 bytes free)
