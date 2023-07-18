@@ -38,4 +38,4 @@ For [split keyboard](https://github.com/superxc3/xcmkb/blob/main/list%20of%20gui
 8. Connect your LEFT split to pc. Check the reset button (Sofle and corne near to oled; while some boards are at the bottom)
 9. When everything is selected and ticked as Step 7, double press the reset button. 
 10. That should be considered done for left split. Continue the step above for right split, do note that some split requires different hex file to enable master on left and right.
-11. After you have flashed the board and everything is working, please refer to **Save keymap before reset** to `load saved layout` in Vial. 
+11. After you have flashed the board and everything is working, please refer to [Save keymap before reset](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md#save-keymap-before-reset) to `load saved layout` in Vial. 
