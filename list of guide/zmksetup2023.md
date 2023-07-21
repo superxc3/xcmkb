@@ -7,7 +7,7 @@ Date: 20230716
 3. `cd zmk/app`
 4. `C:\Users\xcmkb\zmk\app\build\zephyr`
 5. `west build -p -b nice_nano_v2 -- -DSHIELD="oceanwave nice_view_adapter nice_view"`
-6. Reset u2f use this command: `west build -p -b nice_nano_v2 -- -DSHIELD="settings_reset"`
+6. Reset u2f use this command: `west build -p -b nice_nano_v2 -- -DSHIELD="settings_reset"` or [download](https://drive.google.com/file/d/1CRn6hMGiWgrZyPQr4HeDIOayVl4uNXOY/view?usp=drive_link).
 
 ## Chocolatey for windows
 a. Start> PowerShell > right click > run as administrator
