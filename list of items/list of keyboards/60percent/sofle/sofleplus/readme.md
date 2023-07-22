@@ -56,5 +56,5 @@ You can refer to [Vial Tutorial](https://get.vial.today/manual/) for Layers, Mac
 3. Common issues refer to [Common Issues](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md).
 
 ## Other link gates as follow:
-1. Build Guide
-2. Firmware
+1. [Build Guide](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/build%20guide.md)
+2. [Firmware](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/firmware.md)
