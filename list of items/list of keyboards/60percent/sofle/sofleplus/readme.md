@@ -8,13 +8,26 @@ Sofle is a 6×4+5 keys column-staggered split keyboard designed by Josefadamcik.
 Enjoy the freedom to choose between MX and Low Profile Choc V1 switches for ultimate customization.
 
 ###  Enhanced Encoders
-Discover more encoder options, including horizontal scroll wheel, pimoroni trackball, and vibration haptic bzzz for increased functionality.
+Discover more encoder options for increased functionality.
+- Horizontal scroll wheel, convenient to scroll!
+- [Pimoroni trackball](https://shop.pimoroni.com/products/trackball-breakout?variant=27672765038675), adds cursor control to move and scroll without moving your hand to your mouse
+- [Haptic Bzzz](https://shop.pimoroni.com/products/drv2605l-linear-actuator-haptic-breakout?variant=27859486867539), programmable vibration with a range of built-in patterns will really get you buzzing!
 
 ###  Tailored for Wireless
-Experience convenience with a power button for battery-saving and support for battery saver nice!view.
+Experience convenience with a power button for battery-saving and support for [nice!view](https://nicekeyboards.com/nice-view/), using Sharp's cutting edge Memory-in-Pixel technology, maintains 30Hz at e-paper level power draw. 
+- Dedicated power button
+- Low power draw nice!view supported
 
 ### Greater RP2040 MCU, Greater Firmware
-Now with a more powerful RP2040 MCU, advanced firmware supporting 10 layers, 32 tap dance, 32 combos, 32 key overrides, and Qmk settings, and full RGB lighting effects enabled in Vial. Sofle Plus retains the ProMicro footprint, allowing for a seamless Bluetooth upgrade in the future without the need for desoldering!
+Now with [Splinky 0xB2](https://github.com/Bastardkb/Splinky) from Bastardkb, a more powerful RP2040 MCU! Advanced firmware supporting:
+- 10 layers,
+- 32 tap dance,
+- 32 combos,
+- 32 key overrides,
+- Qmk settings enabled, 
+- Full RGB lighting effects enabled in Vial.
+
+Sofle Plus retains the ProMicro footprint, allowing for a seamless Bluetooth upgrade in the future without the need for desoldering!
 
 ## What is included?
 - 1 x Left and right pre-soldered Sofle
