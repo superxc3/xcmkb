@@ -5,11 +5,11 @@ Unlike normal Sofle v2, our PCBs are not reversible.
 
 |![PCB front](https://github.com/superxc3/xcmkb/assets/79617315/79811d56-abae-47a3-be2b-a638e0a6bf03)|
 |:--:|
-| PCB Front |
+| Front of PCB |
 
 |![PCB rear](https://github.com/superxc3/xcmkb/assets/79617315/26c8d7b8-963c-41ad-a06a-61e99e7c73f4)|
 |:--:|
-| PCB Back - where you solder most of the components |
+| Back of PCB - where you solder most of the components |
 
 ## Bridge Jumpers
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/e67081bd-3b8b-4d93-993c-dbb6d6b38185)
