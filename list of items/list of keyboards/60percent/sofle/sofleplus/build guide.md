@@ -62,7 +62,7 @@ Here demonstrates for knob encoder and horizontal scroll wheel. For Pimoroni Tra
 The rest are pretty straightforward. We proceed with firmware flashing. 
 
 ## Firmware Flashing
-For RP2040, no qmk toolbox is required. Download the uf2 [here](https://drive.google.com/drive/folders/1vNPOlv2NhzNlO9qoJ0fS3oOtKQtKS7rQ?usp=drive_link).
+For RP2040, no qmk toolbox is required. Download the uf2 [here](https://drive.google.com/drive/folders/1vNPOlv2NhzNlO9qoJ0fS3oOtKQtKS7rQ?usp=drive_link). Please go to [Firmware](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/firmware.md) if you wish to know more on the features of firmware provided.
 1. Connect your left split to your pc through usb c. No trs cable is inserted yet.
 2. Double press the side reset button to call out window explorer in your pc.
 3. Drag and drop the uf2 provided.
