@@ -1,6 +1,6 @@
 # Firmware of Sofle Plus
 
-Sofle is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master). The firmware here are highly customised and modified by us, they are used to flash your boards before we ship to you. Hence, list of firmwares here are totally different from the default QMK VIA firmware found at the [official repo](https://qmk.fm/keyboards/). 
+Sofle is powered by QMK-firmware (Firmware has been merged and can be found on the QMK master). The firmware here are highly customised and modified by us, they are used to flash your boards before we ship to you. Hence, list of firmware here are totally different from the default QMK VIA firmware found at the [official repo](https://qmk.fm/keyboards/). 
 
 Sofle Plus is compatible with any Sofle v2 or v1 firmware, as well as Choc firmware, but not with firmware from Keyhive. It is specifically designed based on the RP2040 ProMicro, incorporating all functions and capabilities in Vial. 
 
