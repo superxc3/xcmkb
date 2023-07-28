@@ -1,4 +1,4 @@
-![image](https://github.com/superxc3/xcmkb/assets/79617315/914e9151-d547-4fbf-aae0-3ff4de237e20)# Build Guide 
+# Build Guide 
 
 ## PCB Orientation
 Unlike normal Sofle, our PCBs are not reversible. 
