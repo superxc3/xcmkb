@@ -20,6 +20,16 @@ Sofle Plus is compatible with any Sofle v2 or v1 firmware, as well as Choc firmw
 6. QMK settings allows you to configure the fine details of how QMK operates, including tapping term, permissive hold etc. Read more on [QMK Firmware](https://docs.qmk.fm/#/).
 7. Mousekey allows you to remap mouse key on keyboard, including left click, right click, scroll etc.
 8. RGB Light enabled and including all RGB lighting effects.
-9. Pimoroni trackball and haptic bzzz enabled. Further key configuration on `Custom` tab.
-10. `Super ALT↯TAB` is enabled in `Custom` tab as `ATABF` and `ATABR`, allows you to cycle tab through window, especially suitable for knob function.
+9. Pimoroni trackball and haptic bzzz enabled. Further key configuration on `User` tab.
+
+#### User Tab Explanation
+1. `Super ALT↯TAB` is enabled in `User` tab as `ATABF` and `ATABR`, allows you to cycle tab through window, especially suitable for knob function.
+2. `ATMWU` and `ATMWD` denotes Alt + Mousewheel allows you to control brush size in Photoshop.
+3. `NMR` and `NML` move your window to left or right monitor, if you have two monitors.
+4. `SBS` denotes Shift + Backspace to delete whole word.
+5. `SCR` hold to scroll pimoroni trackball
+
+### Issues found
+1. Re-plug in the usb cable is required after PC restarts.
+2. Random text on "User" tab in Vial. 
 
