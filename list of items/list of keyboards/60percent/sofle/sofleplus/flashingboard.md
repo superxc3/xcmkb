@@ -12,8 +12,8 @@ If you already remap the keys, please save layout before flashing.
 6. Re-connect your LEFT split to pc, no trs cable is inserted yet.
 7. Double-press the reset button between the OLED and TRS jack at the inner side of the board.
 8. Drag the uf2 file to new window you just called out.
-9. Wait for about 10s for the board to be flashed.
-10. That should be considered done for the left split. Continue the step above for the right split.
+9. Wait for about 5s for the board to be flashed (when key can be registered after you dragged the file in then it is done)
+10. That should be considered done for the left split. Continue the step above for the RIGHT split.
 11. Done!
 12. Now unplug your right split. Connect your splits through trs, reconnect usb c to either side.
 13. Load saved layout in Vial you have saved your keymap.
