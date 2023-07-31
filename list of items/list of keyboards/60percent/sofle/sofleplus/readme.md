@@ -1,6 +1,10 @@
-# Sofle Plus
+# Sofle PLUS
 
-Sofle is a 6×4+5 keys column-staggered split keyboard designed by Josefadamcik. It is the most popular split keyboard used by beginners. We, XCMKB, would like to introduce this new Sofle Plus with high flexibility and customizable features to you. 
+
+|![image](https://github.com/superxc3/xcmkb/assets/79617315/bd81dc8d-9970-4951-b874-163cdaebc7bc)|
+|:--:|
+
+Sofle PLUS is brought to you by XCMKB, a revamp of the most popular split keyboard originally designed by Josefadamcik.
 
 ## Features
 
