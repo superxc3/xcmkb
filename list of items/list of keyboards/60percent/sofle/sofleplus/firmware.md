@@ -27,31 +27,8 @@ Sofle Plus is compatible with any Sofle v2 or v1 firmware, as well as Choc firmw
 1. All wired versions of Sofle Plus come pre-flashed with this firmware.
 2. The board you purchased comes pre-flashed, except for the build kit. We strongly advise against flashing it unless you are familiar with the process or have been instructed to do so by us.
 3. Refer to [Flashing uf2](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/flashingboard.md) tutorial for flashing.
-5. On this date `2023.08.01`, we are using **Version 1.1** as standard firmware. List of uf2 downloads from [here](https://drive.google.com/drive/u/0/folders/1vNPOlv2NhzNlO9qoJ0fS3oOtKQtKS7rQ).
+5. On this date `2023.08.01`, we are using `Version 1.1` as standard firmware. List of uf2 downloads from [here](https://drive.google.com/drive/u/0/folders/1vNPOlv2NhzNlO9qoJ0fS3oOtKQtKS7rQ).
+6. Read [Changelog](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/firmware-changelog.md) for firmware version features or improvements.
 
-## Version 1.1
-Released on August 1, 2023, `xcmkb_sofleplus_2040_vial-ud-p_rp2040_ce(left/right)`. Fixed the main issue of replugging required after a fresh restart and added RGB matrix support.
 
-### Bug Fixes & Improvements 
-Merged with the release of Vial version 0.7 on July 15, 2023. 
-
-### Re-plug in the usb cable is required after PC restarts.
-Changed `CONVERT_TO = rp2040_ce` from the old `#CONVERT_TO = promicro_rp2040`, as Splinky differs from Sparkfun's.
-
-### RGB pin redefined
-Deprecated RGB data pin from `#define RGB_DI_PIN D3` to `#define WS2812_DI_PIN D3`.
-
-### Adding RGB Matrix support instead of RGB light only
-Since we dont have firmware size limits, we have enabled support for the more colorful RGB Matrix. Add `#define RGB_DISABLE_WHEN_USB_SUSPENDED` in config.h as RGBLIGHT_SLEEP  not working on none-rgb light.
-![image](https://github.com/superxc3/xcmkb/assets/79617315/e5dde50f-b90a-4182-a233-69aabb2f04c7)
-
-### Fix keycode in User Tab
-Some words could not be read properly. Fixed with a shorter short form, but USER01 which should be read as ABR, can still not be fixed.
-![image](https://github.com/superxc3/xcmkb/assets/79617315/a41fed82-5fb4-412b-8767-c34320dde884)
-
- 
-# Archives
-
-## Version 1.0
-The very first released rp2040 promicro firmware, `xcmkb_sofleplus_2040_vial-ud-p_promicro_rp2040-left/right-3`.
 
