@@ -12,7 +12,7 @@ Sofle Plus is compatible with any Sofle v2 or v1 firmware, as well as Choc firmw
 5. 32 Key overrides
 6. QMK Settings allows you to configure the fine details of how QMK operates, including tapping term, permissive hold etc. Read more on [QMK Firmware](https://docs.qmk.fm/#/).
 7. Mousekey allows you to remap mouse key on keyboard, including left click, right click, scroll etc.
-8. RGB Light enabled and including all RGB lighting effects.
+8. RGB Matrix is now enabled and including all RGB lighting effects. More colorful, more lively!
 9. Pimoroni trackball and haptic bzzz enabled. 
 10. Left and right can be master, meaning either side can be used to plug in usb-c. But trackball and bzzz must be on the master.
 
