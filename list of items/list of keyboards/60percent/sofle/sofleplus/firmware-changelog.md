@@ -19,5 +19,5 @@ Some words could not be read properly. Fixed with a shorter short form, but USER
 
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/a41fed82-5fb4-412b-8767-c34320dde884)
 
-## Firmware: Version 1.1
+## Firmware: Version 1.0
 The very first released rp2040 promicro firmware, `xcmkb_sofleplus_2040_vial-ud-p_promicro_rp2040-left/right-3`.
