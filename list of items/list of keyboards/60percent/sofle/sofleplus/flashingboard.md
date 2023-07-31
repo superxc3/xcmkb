@@ -15,7 +15,7 @@ If you already remap the keys, please save layout before flashing.
 9. Wait for about 5s for the board to be flashed (when key can be registered after you dragged the file in then it is done)
 10. That should be considered done for the left split. Continue the step above for the RIGHT split.
 11. Done!
-12. Now unplug your right split. Connect your splits through trs, reconnect usb c to either side.
+12. Unplug your right split. Connect your splits through trs, reconnect usb c to either side.
 13. Load saved layout in Vial you have saved your keymap.
 
 Now you can start testing your new firmware. Have fun!
