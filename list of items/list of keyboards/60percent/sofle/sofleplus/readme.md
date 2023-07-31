@@ -56,6 +56,7 @@ Sofle Plus retains the ProMicro footprint, allowing for a seamless Bluetooth upg
 
 ### Key Remap
 Download [Vial](https://get.vial.today/download/) for key remap. No flashing is required unless you are purchasing build kit. Basically plug and play. 
+![image](https://github.com/superxc3/xcmkb/assets/79617315/b52e9b8e-1c53-4f9f-836d-1c9b244849fb)
 
 The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explain how it works.
 ![image](https://user-images.githubusercontent.com/79617315/208881636-7c6481e0-e320-4ad1-b727-bb4b7e0616f4.png)
