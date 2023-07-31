@@ -43,7 +43,9 @@ Changed `CONVERT_TO = rp2040_ce` from the old `#CONVERT_TO = promicro_rp2040`, a
 Deprecated RGB data pin from `#define RGB_DI_PIN D3` to `#define WS2812_DI_PIN D3`.
 
 ### Adding RGB Matrix support instead of RGB light only
-Since we dont have firmware size limits, we have enabled support for the more colorful RGB Matrix.
+Since we dont have firmware size limits, we have enabled support for the more colorful RGB Matrix. 
+
+Add `#define RGB_DISABLE_WHEN_USB_SUSPENDED` in config.h as RGBLIGHT_SLEEP  not working on none-rgb light.
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/e5dde50f-b90a-4182-a233-69aabb2f04c7)
 
 ### Fix keycode in User Tab
