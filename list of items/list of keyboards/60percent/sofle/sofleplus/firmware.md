@@ -27,7 +27,7 @@ Sofle Plus is compatible with any Sofle v2 or v1 firmware, as well as Choc firmw
 1. All wired versions of Sofle Plus come pre-flashed with this firmware.
 2. The board you purchased comes pre-flashed, except for the build kit. We strongly advise against flashing it unless you are familiar with the process or have been instructed to do so by us.
 3. Refer to [Flashing uf2](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/flashingboard.md) tutorial for flashing.
-5. On this date `2023.08.01`, we are using `Version 1.1` as standard firmware. List of uf2 downloads from [here](https://drive.google.com/drive/u/0/folders/1vNPOlv2NhzNlO9qoJ0fS3oOtKQtKS7rQ).
+5. On this date `2023.08.03`, we are using `Version 1.2` as standard firmware. List of uf2 downloads from [here](https://drive.google.com/drive/u/0/folders/1vNPOlv2NhzNlO9qoJ0fS3oOtKQtKS7rQ).
 6. Read [Changelog](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/firmware-changelog.md) for firmware version features or improvements.
 
 
