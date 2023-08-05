@@ -13,7 +13,7 @@ Now with [Splinky 0xB2](https://github.com/Bastardkb/Splinky) from Bastardkb or 
 
 ### Key Remap
 Download [Vial](https://get.vial.today/download/) for key remap. No flashing is required unless you are purchasing build kit. Basically plug and play. 
-![Screenshot 2023-08-01 073958](https://github.com/superxc3/xcmkb/assets/79617315/bd390a65-d142-4e3f-bb11-5d90a0f169b8)
+![klein](https://github.com/superxc3/xcmkb/assets/79617315/f3b210ef-fbe2-4d56-9dcd-02c22afbf06b)
 
 
 The quantum can achieve tap feature such as: Hold as Left Control; tap as Space. Just hover on it and it will explain how it works.
