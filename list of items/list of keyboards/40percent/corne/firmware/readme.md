@@ -4,19 +4,20 @@
 Please check [zmk-config-crkbd](https://github.com/superxc3/zmk-config-crkbd).
 
 ## Standard Firmware (2023.07.13) for RP2040 promicro 
-We are using [Bastardkb/Splinky](https://github.com/Bastardkb/Splinky) RP2040 Pro-Micro. 
-1. All boards are flashed with Rev 2023-2040, named `crkbd_rev1_xcvial2040-u_promicro_rp2040` in uf2 format.
-2. For those who want to edit oled or so, source code is [included](https://drive.google.com/drive/folders/1B5K1ulOXyE-yQELU--9-apa6VU97dLYm?usp=sharing).
+
+![image](https://github.com/superxc3/xcmkb/assets/79617315/17fb21e2-87de-4945-b89f-009cbbd192b7)
+
+We use [Bastardkb/Splinky](https://github.com/Bastardkb/Splinky) or similar RP2040 Pro-Micro. 
+1. Standard firmware by 2023.08.05 is Version 1.1.
+2. For those who want to edit oled or so, source code is [included](https://drive.google.com/drive/folders/1-6yim1sLNgdcoQgKbDtAbBsG6yMPpH2_?usp=drive_link).
 
    a. Please set up [Vial Environment](https://get.vial.today/docs/porting-to-vial.html#1-prepare-your-build-environment). If you are completely new to qmk_firmware, command `qmk setup -b vial vial-kb/vial-qmk` in qmk msys to clone vial-qmk to qmk firmware in your pc.
    
-   b. Copy content in the Corne to your qmk-vial directory, except `keymaps`, this includes rev1, r2g, lib, halconf.h etc.
+   b. Copy content to your qmk-vial keymap directory.
    
-   c. Go to your qmk-vial directory and copy `xcvial2040-u` to your keymaps folder.
-   
-   d. Edit oled code in `keymap.c`.
+   c. Edit oled code in `keymap.c`.
 
-   e. In your QMK MSYS, compile using `qmk compile -kb crkbd -km xcvial2040-u`.
+   d. In your QMK MSYS, compile using `qmk compile -kb crkbd -km xcvial`.
 
    f. Go to your `build` folder in your vial-qmk directory for uf2 file you've just compiled.
 
