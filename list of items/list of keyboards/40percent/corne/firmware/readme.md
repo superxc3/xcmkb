@@ -1,8 +1,8 @@
 # Corne Firmware
 Three main types of firmware:
 
-1. Splinky or similar RP2040 Promicro user, please check [RP2040 Promicro]().
-2. The old version of Corne using Atmega32u4 Promicro, please check [Atmega32u4 Promicro](). 
+1. Splinky or similar RP2040 Promicro user, please check [RP2040 Promicro](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/40percent/corne/firmware#rp2040-promicro).
+2. The old version of Corne using Atmega32u4 Promicro, please check [Atmega32u4 Promicro](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/40percent/corne/firmware#atmega32u4-promicro). 
 3. ZMK Wireless, please head to [zmk-config-crkbd](https://github.com/superxc3/zmk-config-crkbd).
 
 
