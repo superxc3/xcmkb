@@ -1,29 +1,37 @@
 # Corne Firmware
+Three main types of firmware:
 
-## ZMK Wireless 
-Please check [zmk-config-crkbd](https://github.com/superxc3/zmk-config-crkbd).
+1. Splinky or similar RP2040 Promicro user, please check [RP2040 Promicro]().
+2. The old version of Corne using Atmega32u4 Promicro, please check [Atmega32u4 Promicro](). 
+3. ZMK Wireless, please head to [zmk-config-crkbd](https://github.com/superxc3/zmk-config-crkbd).
 
-## Standard Firmware (2023.07.13) for RP2040 promicro 
+
+# RP2040 Promicro
+This session is for the new batch of Corne with Splinky or similar RP2040 Promicro. 
 
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/17fb21e2-87de-4945-b89f-009cbbd192b7)
 
-We use [Bastardkb/Splinky](https://github.com/Bastardkb/Splinky) or similar RP2040 Pro-Micro. 
-1. Standard firmware by 2023.08.05 is Version 1.1.
-2. For those who want to edit oled or so, source code is [included](https://drive.google.com/drive/folders/1-6yim1sLNgdcoQgKbDtAbBsG6yMPpH2_?usp=drive_link).
+## Features
+1. Auto-detected in [Vial software](https://get.vial.today/download/), supports Win, Linux, and Mac. Real-time key remap software without the needs of code compilation. No load json is required. 
+2. 10 [Layers](https://get.vial.today/manual/layers.html), maximum fn! You can refer to [Miryoku](https://github.com/manna-harbour/miryoku) for inspiration.
+3. 32 [Combos](https://get.vial.today/manual/combos.html), adds custom actions when a certain combination of keys is pressed.
+4. 32 [Tap dance](https://get.vial.today/manual/tap-dance.html), taps and hold for different key outputs.
+5. 32 Key overrides
+6. QMK Settings allows you to configure the fine details of how QMK operates, including tapping term, permissive hold etc. Read more on [QMK Firmware](https://docs.qmk.fm/#/).
+7. Mousekey allows you to remap mouse key on keyboard, including left click, right click, scroll etc.
+8. RGB Matrix is now enabled and including all RGB lighting effects. More colorful, more lively!
+9. Left and right can be master, meaning either side can be used to plug in usb-c. 
 
-   a. Please set up [Vial Environment](https://get.vial.today/docs/porting-to-vial.html#1-prepare-your-build-environment). If you are completely new to qmk_firmware, command `qmk setup -b vial vial-kb/vial-qmk` in qmk msys to clone vial-qmk to qmk firmware in your pc.
-   
-   b. Copy content to your qmk-vial keymap directory.
-   
-   c. Edit oled code in `keymap.c`.
+## Standard Firmware of Corne (RP2040)
+1. All wired versions of Corne come pre-flashed with this firmware.
+2. The board you purchased comes pre-flashed, except for the build kit. We strongly advise against flashing it unless you are familiar with the process or have been instructed to do so by us.
+3. On this date `2023.08.05`, we are using `Version 1.1` as standard firmware. List of uf2 downloads from [here](https://drive.google.com/drive/u/0/folders/1-6yim1sLNgdcoQgKbDtAbBsG6yMPpH2_).
+4. Refer to [Flashing uf2](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/flashingboard.md) tutorial for flashing.
+5. Read [Changelog](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/40percent/corne/firmware/firmware-changelog.md) for firmware version features or improvements.
+6. Do note that Corne is an open-sourced pcb with QMK. You can edit anything you like, especially OLED display, without following our board firmware strictly. We may constantly update the basic usage of the firmware, but not responsible for lifetime changes. We hope you could enjoy the fun of open-source instead!
 
-   d. In your QMK MSYS, compile using `qmk compile -kb crkbd -km xcvial`.
-
-   f. Go to your `build` folder in your vial-qmk directory for uf2 file you've just compiled.
-
-   g. Double press the physical reset button on your board and just drag the uf2 file to your both sides.
-
-
+# Atmega32u4 Promicro
+This session is the old Corne with Atmega32u4 Promicro. We stop updating this on the date of 13.08.2023.
 
 ## Standard Firmware (2023.04.05) for Promicro
 1. For RGB, the board is flashed with Rev 2023-3u, named `crkbd_rev1_xcvial-u-left`.
