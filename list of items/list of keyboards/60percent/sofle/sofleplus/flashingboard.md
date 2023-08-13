@@ -5,7 +5,7 @@ If you already remap the keys, please save layout before flashing.
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/29c79087-a6ec-444a-b77b-39ec0b25a0e7)
 
 ### Split Keyboard
-1. Get ready of your compiled firmware or download from [Standard Firmware](https://drive.google.com/drive/u/0/folders/1vNPOlv2NhzNlO9qoJ0fS3oOtKQtKS7rQ).
+1. Get ready of your compiled firmware or download from [Standard Firmware](https://drive.google.com/drive/u/0/folders/1-6yim1sLNgdcoQgKbDtAbBsG6yMPpH2_).
 2. Disconnect your board from pc by unplugging the micro usb or type c cable. 
 3. Disconnect your splits by unplugging the trs or trrs cable. 
 4. No QMK toolbox is required.
