@@ -1,7 +1,22 @@
 # Changelog 
 
+## Firmware: Version 1.2AOLED
+Released on August 15, 2023, `xcmkb_sofleplus_2040_vial-ud-p_rp2040_ce-v1.2AOLED(left/right)`. Adopted animated pets and layer indicators through RGB light.
+
+### Animated OLED
+1. Right as Luna with WPM responsive; capslock triggers barking luna.
+2. Left shows typing wpm in digit form
+
+### RGB Layer indicator
+1. Add RGB indicator for layer 1 (teal); 2 (purple); 3 (yellow); 4 (blue). The rest are not added, suitable for users who do not want RGB indicator.
+
+### Notes
+1. To add left pet to oled
+2. To add rgb for trackball
+3. Haptic buzz is disabled due to certain confliction that requires to debug.
+
 ## Firmware: Version 1.2
-Relased on August 3, 2023, `xcmkb_sofleplus_2040_vial-ud-p_rp2040_ce-v1.2(left/right)`. Fixed the first RGB led not lit up. 
+Released on August 3, 2023, `xcmkb_sofleplus_2040_vial-ud-p_rp2040_ce-v1.2(left/right)`. Fixed the first RGB led not lit up. 
 
 ## Firmware: Version 1.1
 Released on August 1, 2023, `xcmkb_sofleplus_2040_vial-ud-p_rp2040_ce(left/right)`. Fixed the main issue of replugging required after a fresh restart and added RGB matrix support. This version is merged with the release of Vial version 0.7 on July 15, 2023. 
