@@ -34,6 +34,7 @@ All our boards are pre-assembled and pre-flashed. No flashing is required. Launc
 ![image](https://user-images.githubusercontent.com/79617315/204213627-3c877043-aae7-45f9-804b-e50d5ad57624.png)
 2. If you brick your MCU, your board will no longer function. You will need to replace the set of MCUs if the MCU is bricked.
 3. :warning: For RGB per-key users, it is recommended to set the brightness to a maximum of 50% only. Setting it higher than that may result in an unstable power supply to the USB, potentially causing the keyboard to disconnect from your PC.
+4. It is normal for the board to wiggle when you receive it; however, it becomes completely stable after you insert the switch.
 
 ### Key Remap for Wired user
 Download [Vial](https://get.vial.today/download/) for key remap. No flashing is required unless you are purchasing build kit. Basically plug and play. 
