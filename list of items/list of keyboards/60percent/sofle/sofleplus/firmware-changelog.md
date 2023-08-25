@@ -13,9 +13,8 @@ Main changes: adopted animated pets and layer indicators through RGB light.
 1. Add RGB indicator for layer 1 (teal); 2 (purple); 3 (yellow); 4 (blue). The rest are not added, suitable for users who do not want RGB indicator.
 
 ### Known issues
-1. By touching the keys may not able to wake the computer from sleep if the trackball is already in deep sleep. You need to use mouse to wake your computer.
-2. RGB seems unable to sleep after leave idle.
-3. Sometimes keyboard is acting weird during fresh restart, re-plugging usb c and leave it idle from 10s then only start using it seems able to fix. Still monitoring.
+1. By touching the keys may not able to wake the computer from sleep if the trackball is already in deep sleep. You need to use mouse or your power button to wake your computer.
+2. Oled flickering once a while during sleep; but works perfectly when the board is awake.
    
 ### Future patches
 1. To fix known issues listed
