@@ -1,7 +1,7 @@
 # Changelog 
 
 ## Firmware: Version 2.0 beta
-Released on September 8, 2023, `xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`. Thanks to NoZuoNoDie, a fews significant changes have been implemented. The codes are edited accordingly to suit for everyone usage. 
+Released on September 8, 2023, `xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`, [Download](https://drive.google.com/file/d/1GajHL9OGIlprdd9wH9aA6EoxqdFUEF9C/view?usp=drive_link)u. Thanks to NoZuoNoDie, a fews significant changes have been implemented. The codes are edited accordingly to suit for everyone usage. 
 
 Main changes:
 1. Animated OLED: wpm responsive space and animated calcifer
