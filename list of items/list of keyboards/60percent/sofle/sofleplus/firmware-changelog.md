@@ -1,12 +1,12 @@
 # Changelog 
 
 ## Firmware: Version 2.0 beta
-Released on September 8, 2023, `xcmkb_sofleplus_2040_vial-space_rp2040_ce`. Thanks to NoZuoNoDie, a fews significant changes have been implemented. The codes are edited accordingly to suit for everyone usage. 
+Released on September 8, 2023, `xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`. Thanks to NoZuoNoDie, a fews significant changes have been implemented. The codes are edited accordingly to suit for everyone usage. 
 
 Main changes:
 1. Animated OLED: wpm responsive space and animated calcifer
 2. Trackball is now light up as Capslock (red), Numlock (turquoise), and Trackball layer indicator (white)
-3. Haptic support is now returned
+3. Haptic support is now returned, but only works on master. 
 4. Bugs and improvements
 
 ### Animated OLED
@@ -19,8 +19,7 @@ WPM responsive space is designed and created by [admiralalleki](https://www.redd
 
 ### Known issues
 1. Pressing keys on board cannot wake the pc, seems like a known issue for board with pimoroni trackball.
-2. Animated calcifer unwilling to sleep even left idle for long.
-3. No layer indicator for pimoroni trackball.
+
    
 ## Firmware: Version 1.2AOLED beta
 Removed and replaced with better Version 2.0
