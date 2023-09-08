@@ -1,26 +1,24 @@
 # Changelog 
 
-## Firmware: Version 1.2AOLED beta
-Released on August 15, 2023, `xcmkb_sofleplus_2040_vial-ud-p_rp2040_ce-v1.2AOLED(left/right)`. If you find this [Version 1.2AOLED](https://drive.google.com/drive/u/0/folders/18RLAtqyae9TjMOiLKMwhJUlh-HlSbQ1s) is unstable, please revert to [Version 1.2](https://drive.google.com/drive/u/0/folders/1PH2i1OQQut_ADcWHp_RfRwOdZxHYM62C). 
+## Firmware: Version 2.0 beta
+Released on September 8, 2023, `xcmkb_sofleplus_2040_vial-space_rp2040_ce`. Thanks to NoZuoNoDie, a fews significant changes have been implemented. The codes are edited accordingly to suit for everyone usage. 
 
-Main changes: adopted animated pets and layer indicators through RGB light.
+Main changes:
+1. Animated OLED: wpm responsive space and animated calcifer
+2. Trackball is now light up as Capslock (red), Numlock (turquoise), and Trackball layer indicator (white)
+3. Haptic support is now returned
+4. Bugs and improvements
 
 ### Animated OLED
-1. Right as Luna with WPM responsive; capslock triggers barking luna.
-2. Left shows typing wpm in digit form
+WPM responsive space is designed and created by [admiralalleki](https://www.reddit.com/r/MechanicalKeyboards/comments/y916bk/i_programmed_my_corne_oled_via_qmk_to_show_a/). While animated calcifer inspired from [Semput](https://www.youtube.com/@semputs), wanted to make it long time ago but finally yay!
 
-### RGB Layer indicator
-1. Add RGB indicator for layer 1 (teal); 2 (purple); 3 (yellow); 4 (blue). The rest are not added, suitable for users who do not want RGB indicator.
+### Bugs and improvements
+1. Fixed User labels show properly
+2. A few new attributes added by NZND, hover to know the usage
+3. When move your trackball, it goes to last layer automatically. OLED shows "TBALL" and trackball lights up in white color. 
 
-### Known issues
-1. By touching the keys may not able to wake the computer from sleep if the trackball is already in deep sleep. You need to use mouse or your power button to wake your computer.
-2. Oled flickering once a while during sleep; but works perfectly when the board is awake.
-   
-### Future patches
-1. To fix known issues listed
-2. To add left pet to oled
-3. To add rgb for trackball
-4. Haptic buzz is disabled due to certain confliction that requires to debug.
+### Firmware: Version 1.2AOLED beta
+Removed and replaced with better Version 2.0
 
 ## Firmware: Version 1.2
 Released on August 3, 2023, `xcmkb_sofleplus_2040_vial-ud-p_rp2040_ce-v1.2(left/right)`. Fixed the first RGB led not lit up. 
