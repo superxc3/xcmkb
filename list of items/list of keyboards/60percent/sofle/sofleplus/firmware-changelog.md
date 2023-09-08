@@ -22,7 +22,7 @@ WPM responsive space is designed and created by [admiralalleki](https://www.redd
 2. Animated calcifer unwilling to sleep even left idle for long.
 3. No layer indicator for pimoroni trackball.
    
-### Firmware: Version 1.2AOLED beta
+## Firmware: Version 1.2AOLED beta
 Removed and replaced with better Version 2.0
 
 ## Firmware: Version 1.2
