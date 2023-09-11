@@ -17,8 +17,7 @@ WPM responsive space is designed and created by [admiralalleki](https://www.redd
 2. A few new attributes added by NZND, hover to know the usage
 3. When move your trackball, it goes to last layer automatically. OLED shows "TBALL" and trackball lights up in white color. 
 
-### Known issues
-1. Pressing keys on board cannot wake the pc, seems like a known issue for board with pimoroni trackball.
+
 
    
 ## Firmware: Version 1.2AOLED beta
