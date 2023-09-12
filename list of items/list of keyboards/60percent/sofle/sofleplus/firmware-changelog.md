@@ -1,6 +1,13 @@
 # Changelog 
 
-## Firmware: Version 2.0 beta
+## Firmware: Version 2.1 beta
+Released on September 12, 2023, `2.1 - xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`, [Download](https://drive.google.com/file/d/1rX1ygEaqdiuW7BuCqDNg5u8HOV_JwF5X/view?usp=drive_link).
+
+Main changes:
+1. Enable toggle scroll `TBSCRT` in User, instead of hold scroll `TBSCR` for pimoroni trackball. However trackball wont be lit up during scroll mode.
+2. Enable toggle precision `TBPOIT` in User. If you wish to change from scroll mode to precision, register this key without holding it.
+
+## Firmware: Version 2.0 
 Released on September 8, 2023, `xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`, [Download](https://drive.google.com/file/d/1GajHL9OGIlprdd9wH9aA6EoxqdFUEF9C/view?usp=drive_link). Thanks to NoZuoNoDie, a fews significant changes have been implemented. The codes are edited accordingly to suit for everyone usage. 
 
 Main changes:
