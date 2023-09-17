@@ -1,5 +1,12 @@
 # Firmware Changelog
 
+## Firmware version 2.0 beta
+Released on September 17, 2023.
+
+Implementing SoflePLUS oled to CRKBD.
+- Master renders CRKBD, Layer, capslock, numlock indicator and animated calcifer
+- Slave renders wpm responsive rocket to the space
+
 ## Firmware version 1.1
 Released on August 5, 2023.
 
