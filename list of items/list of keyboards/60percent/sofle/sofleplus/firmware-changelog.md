@@ -1,7 +1,9 @@
 # Changelog 
 
 ## Firmware: Version 2.1 beta
-Released on September 12, 2023, `2.1 - xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`, [Download](https://drive.google.com/file/d/1rX1ygEaqdiuW7BuCqDNg5u8HOV_JwF5X/view?usp=drive_link).
+Re-released on September 19, 2023, `2.1 left/right combined xcmkb_sofleplus_2040_vial-spacexc-nop_rp2040_ce`. Fixed bugs on mirror keymap when usb-c connects to left as master.
+
+Released on September 12, 2023, `2.1 - xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`.
 
 Main changes:
 1. Enable toggle scroll `TBSCRT` in User, instead of hold scroll `TBSCR` for pimoroni trackball. However trackball wont be lit up during scroll mode.
