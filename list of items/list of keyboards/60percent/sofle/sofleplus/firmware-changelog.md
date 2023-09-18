@@ -1,7 +1,21 @@
 # Changelog 
 
 ## Firmware: Version 2.1 beta
-Re-released on September 19, 2023, `2.1 left/right combined xcmkb_sofleplus_2040_vial-spacexc-nop_rp2040_ce`. Fixed bugs on mirror keymap when usb-c connects to left as master.
+Re-released on September 18, 2023, `2.1 ee xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`.
+This version requires local compilation using qmk msys to flash into your board. For board after this date we will do it for you and you just drop in uf2 given.
+
+```
+qmk flash -kb xcmkb/sofleplus/2040 -km vial-spacexc -bl uf2-split-left
+```
+
+Main changes:
+1. USB-C can be on left or right no matter where trackball or haptic bzzz located.
+
+<br>
+
+Re-released on September 17, 2023, `2.1 left/right combined xcmkb_sofleplus_2040_vial-spacexc-nop_rp2040_ce`. Fixed bugs on mirror keymap when usb-c connects to left as master.
+
+<br>
 
 Released on September 12, 2023, `2.1 - xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`.
 
