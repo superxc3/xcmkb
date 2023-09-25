@@ -64,6 +64,9 @@ The quantum can achieve tap feature such as: Hold as Left Control; tap as Space.
 Also layer cycle through Layer tab:
 ![image](https://user-images.githubusercontent.com/79617315/208881348-fc678b95-c729-4dff-94a2-946d5032845c.png)
 
+![combination](https://github.com/superxc3/xcmkb/assets/79617315/f9fdb327-4391-46f2-a700-533f6dd97be1)
+
+
 You can refer to [Vial Tutorial](https://get.vial.today/manual/) for Layers, Macros, Tap Dance, Combos features (this is suitable for rp2040 promicro). 
 
 ### Notes
