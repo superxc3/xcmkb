@@ -1,5 +1,15 @@
 # Changelog 
 
+## Firmware: Version 2.2 beta
+Un-released yet. 
+
+Ditto 2.1 beta with the following changes:
+1. Sentence case enabled. The first letter after "." will always auto-caps. Read [here](https://getreuer.info/posts/keyboards/sentence-case/index.html) to understand the rules. Thanks to the creator Pascal Getreuer.
+2. Recalled the ATMU and ATMD functions that were accidentally removed earlier. These functions represent Alt+Mousewheel up or down, which are useful for editing software.
+3. Revised User tabs to make it cleaner. Removed a few Users as it could be replaced with Quantum shortcuts.
+![image](https://github.com/superxc3/xcmkb/assets/79617315/5ddc2431-1f82-47d6-a52c-eb8e5604fb7c)
+
+
 ## Firmware: Version 2.1 beta
 Re-released on September 18, 2023, `2.1 ee xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`.
 This version requires local compilation using qmk msys to flash into your board. For board after this date we will do it for you and you just drop in uf2 given.
