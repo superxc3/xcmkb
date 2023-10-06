@@ -23,7 +23,7 @@ Experience convenience with a power button for battery-saving and support for [n
 - Low power draw nice!view supported
 
 ### Greater RP2040 MCU, Greater Firmware
-Now with [Splinky 0xB2](https://github.com/Bastardkb/Splinky) from Bastardkb, a more powerful RP2040 MCU! Advanced firmware supporting:
+Now with the more powerful RP2040 MCU! Advanced firmware supporting:
 - 10 layers,
 - 32 tap dance,
 - 32 combos,
