@@ -1,13 +1,20 @@
 # Changelog 
+If this happens to your board:
+1. If trackball on right, and usb plugged in left. Trackball layer white doesnt led up. Capslock red and numlock turquoise still working good. No issue on the opposite direction. Meaning it requires qmk msys qmk flash to your board.
+
+Solution:
+1. Plug in usb to your trackball side to enjoy newer updates.
+2. Or, continue to plug in usb to left, but trackball layer doesnt light up. Capslock and numlocks still working.
 
 ## Firmware: Version 2.2 beta
-Un-released yet. 
+Un-released yet. `2.2 no sentence case - xcmkb_sofleplus_2040_vial-spacexc2_rp2040_ce`
 
 Ditto 2.1 beta with the following changes:
-1. Sentence case enabled. The first letter after "." will always auto-caps. Read [here](https://getreuer.info/posts/keyboards/sentence-case/index.html) to understand the rules. Thanks to the creator Pascal Getreuer.
+1. ~~Sentence case enabled. The first letter after "." will always auto-caps. Read [here](https://getreuer.info/posts/keyboards/sentence-case/index.html) to understand the rules. Thanks to the creator Pascal Getreuer.~~ Omit till able to find toggle for sentence case.
 2. Recalled the ATMU and ATMD functions that were accidentally removed earlier. These functions represent Alt+Mousewheel up or down, which are useful for editing software.
 3. Revised User tabs to make it cleaner. Removed a few Users as it could be replaced with Quantum shortcuts.
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/5ddc2431-1f82-47d6-a52c-eb8e5604fb7c)
+
 
 
 ## Firmware: Version 2.1 beta
@@ -33,8 +40,7 @@ Main changes:
 1. Enable toggle scroll `TBSCRT` in User, instead of hold scroll `TBSCR` for pimoroni trackball. However trackball wont be lit up during scroll mode.
 2. Enable toggle precision `TBPOIT` in User. If you wish to change from scroll mode to precision, register this key without holding it.
 
-Known issues:
-1. If trackball on right, and usb plugged in on left. Trackball precision white doesnt led up. Capslock red and numlock turquoise still working good. No issue on the opposite direction. This is happened on my board with haptic on the left, and after i qmk flash to test version 2.2 beta.
+
    
 ## Firmware: Version 2.0 
 Released on September 8, 2023, `xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`, [Download](https://drive.google.com/file/d/1GajHL9OGIlprdd9wH9aA6EoxqdFUEF9C/view?usp=drive_link). Thanks to NoZuoNoDie, a fews significant changes have been implemented. The codes are edited accordingly to suit for everyone usage. 
