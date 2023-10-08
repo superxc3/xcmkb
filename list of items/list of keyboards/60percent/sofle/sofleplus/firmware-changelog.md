@@ -34,7 +34,7 @@ Main changes:
 2. Enable toggle precision `TBPOIT` in User. If you wish to change from scroll mode to precision, register this key without holding it.
 
 Known issues:
-1. If trackball on right, and usb plugged in on left. Trackball precision white doesnt led up. Capslock red and numlock turquoise still working good. No issue on the opposite direction. This is happened on my board with haptic on the left. 
+1. If trackball on right, and usb plugged in on left. Trackball precision white doesnt led up. Capslock red and numlock turquoise still working good. No issue on the opposite direction. This is happened on my board with haptic on the left, and after i qmk flash to test version 2.2 beta.
    
 ## Firmware: Version 2.0 
 Released on September 8, 2023, `xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`, [Download](https://drive.google.com/file/d/1GajHL9OGIlprdd9wH9aA6EoxqdFUEF9C/view?usp=drive_link). Thanks to NoZuoNoDie, a fews significant changes have been implemented. The codes are edited accordingly to suit for everyone usage. 
