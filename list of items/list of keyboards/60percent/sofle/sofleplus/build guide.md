@@ -56,12 +56,24 @@ Here demonstrates for knob encoder and horizontal scroll wheel. For Pimoroni Tra
 ## RGB Underglow
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/c66a3191-bbcf-416d-97d0-0b7534397b48)
 
-## Screw and Standsoff for OLED cover
+## Trackball installation
+### Soldering Pimoroni Trackball
+![build guide - trackball](https://github.com/superxc3/xcmkb/assets/79617315/9c5f76a3-28a8-41e0-9972-20ebfc6ccd98)
+### Install cover for Pimoroni Trackball
+![build guide - cover trackball](https://github.com/superxc3/xcmkb/assets/79617315/113ec40f-be09-4cb7-bfa1-8e42e60e7611)
+
+
+## Screw and Standsoff for cover
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/a5904140-c391-4b45-897e-da6f393c2d9f)
+
+
+
 
 The rest are pretty straightforward. We proceed with firmware flashing. 
 
 ## Firmware Flashing
+Normally the MCU are preflashed by us. For future flashing, you can refer to guide below.
+
 For RP2040, no qmk toolbox is required. Download the uf2 [here](https://drive.google.com/drive/folders/1vNPOlv2NhzNlO9qoJ0fS3oOtKQtKS7rQ?usp=drive_link). Please go to [Firmware](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/firmware.md) if you wish to know more on the features of firmware provided.
 1. Connect your left split to your pc through usb c. No trs cable is inserted yet.
 2. Double press the side reset button to call out window explorer in your pc.
