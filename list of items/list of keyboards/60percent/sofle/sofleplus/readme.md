@@ -66,8 +66,10 @@ Also layer cycle through Layer tab:
 
 ![combination](https://github.com/superxc3/xcmkb/assets/79617315/f9fdb327-4391-46f2-a700-533f6dd97be1)
 
-
 You can refer to [Vial Tutorial](https://get.vial.today/manual/) for Layers, Macros, Tap Dance, Combos features (this is suitable for rp2040 promicro). 
+
+
+![Trackball manual](https://github.com/superxc3/xcmkb/assets/79617315/6ba8086a-2a59-485d-ba2f-0292656fedfb)
 
 ### Notes
 1. :warning: This step is crucial to prevent bricking the MCU. When connecting a split keyboard, it is important to ensure proper and correct connections. Please refer to [demo](https://www.instagram.com/tv/CdpYrWBJuD9/?igshid=YmMyMTA2M2Y=) here.
