@@ -1,5 +1,4 @@
-![image](https://github.com/superxc3/xcmkb/assets/79617315/8dbcdf3a-aca6-434b-a119-b5c2a6b336ce)# Bastard Charybdis Nano
-
+# Bastard Charybdis Nano
 
 ## Firmware
 
