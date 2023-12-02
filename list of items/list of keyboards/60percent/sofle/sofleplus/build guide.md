@@ -27,6 +27,8 @@ Use tape to fix the position of MCU socket and TRS jack (if you are building wir
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/12dc0502-e559-4208-a8b3-876e7ca6cc29)
 
 ## MCU
+![Untitled-1](https://github.com/superxc3/xcmkb/assets/79617315/30a4a9f8-ff1c-455d-8d51-22668d3b2a12)
+
 Insert the pins, put the MCU on top and start soldering. Please note that both MCU are facing upwards. Solder MCU before OLED socket. 
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/e614597f-dbb0-4680-bfe8-cf79725e67a6)
 
