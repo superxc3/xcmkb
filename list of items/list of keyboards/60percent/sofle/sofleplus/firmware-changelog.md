@@ -6,6 +6,14 @@ Solution:
 1. Plug in usb to your trackball side to enjoy newer updates.
 2. Or, continue to plug in usb to left, but trackball layer doesnt light up. Capslock and numlocks still working.
 
+## Firmware: Version 2.3 beta (vial-spacexc3)
+Add SNIP function for pimoroni trackball. Hold SNIP and cursor will move super slow, convenient for small precision function. However, your customised dpi will be reset after SNIP release. That means customisation of dpi and snip function cant co-exist in this beta.
+
+![image](https://github.com/superxc3/xcmkb/assets/79617315/a3ba824f-1b53-489b-af21-4ad4c028af14)
+
+
+
+
 ## Firmware: Version 2.2 beta
 Un-released yet. `2.2 no sentence case - xcmkb_sofleplus_2040_vial-spacexc2_rp2040_ce`
 
