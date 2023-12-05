@@ -1,19 +1,24 @@
 # Bastard Charybdis Nano
-![DSC09691](https://github.com/superxc3/xcmkb/assets/79617315/5d484417-5e8b-4b37-aac5-1b1dec8f64d0)
+
+| ![DSC09691](https://github.com/superxc3/xcmkb/assets/79617315/5d484417-5e8b-4b37-aac5-1b1dec8f64d0) |
+|:--:|
+| *3D: Marble PLA, Keycaps: MT3 BOW* |
 
 
 
 ## Firmware
 
-### v3.0xcmkb - Full Vial Ported 20231202 
-![image](https://github.com/superxc3/xcmkb/assets/79617315/8a6cf729-c3fc-4ee1-bd64-79a74d426b58)
+|![image](https://github.com/superxc3/xcmkb/assets/79617315/8a6cf729-c3fc-4ee1-bd64-79a74d426b58)|
+|:--:|
+| *Standard firmware: v3.1xcmkb (6/12/2023)* |
 
-Default keymap inspired from Miryoku layout and defined by Bastard Keyboards. This version uses TRRS cable instead of TRS cable. Hand configuration changes from splinky_31/config.h
+Default keymap inspired from Miryoku layout and defined by Bastard Keyboards. This version uses TRRS cable instead of TRS cable. 
 
 Vial ported by XCMKB with:
 - 7 layers
 - qmk settings enabled (change your tapping term and tick ignore mod tap interrupt here under Tap-Hold)
 - 32 tap dance, combo, key overrides
+- OSM re-enabled
 - Unique user code for trackball
 
 #### Unique user code for trackball
