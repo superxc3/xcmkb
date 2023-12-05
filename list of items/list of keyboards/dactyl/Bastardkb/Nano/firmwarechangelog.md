@@ -7,8 +7,9 @@
 - Main change: Uncomment `NO_ACTION_ONESHOT` to enable OSM under `C:\Users\xcmkb\vial-qmk\keyboards\bastardkb\charybdis\3x5\keymaps\vial\config.h`.
 
 ## v3.0xcmkb - Full Vial Ported (2023-12-02)
-- Hand configuration changes from `splinky_31/config.h`, change `MASTER_LEFT` or `RIGHT` before individual compilation.
+- Hand configuration changes from `C:\Users\xcmkb\vial-qmk\keyboards\bastardkb\charybdis\3x5\v2\splinky_31\config.h`, change `MASTER_LEFT` or `RIGHT` before individual compilation.
 - Make command `qmk compile -kb bastardkb/charybdis/4x6/v2/splinky_31 -km vial`
+- Vial display keyboard name/version change here `C:\Users\xcmkb\vial-qmk\keyboards\bastardkb\charybdis\3x5\v2\splinky_31\info.json`
 
 
 # Flashing UF2 Guide
