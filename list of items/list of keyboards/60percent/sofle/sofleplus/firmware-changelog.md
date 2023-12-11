@@ -12,9 +12,10 @@ Add SNIP function for pimoroni trackball. Hold SNIP and cursor will move super s
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/a3ba824f-1b53-489b-af21-4ad4c028af14)
 
 ### Known issue
-If you already purchase the board and wish to upgrade the firmware, please note that you have to accept two solutions here:
-1. Plug in usb to your trackball side to enjoy newer updates.
-2. Or, continue to plug in usb to left, but trackball layer doesnt light up. Capslock and numlocks still working.
+1. If you already purchase the board and wish to upgrade the firmware, please note that you have to accept two solutions here:
+   a. Plug in usb to your trackball side to enjoy newer updates.
+   b. Or, continue to plug in usb to left, but trackball layer doesnt light up. Capslock and numlocks still working.
+2. DPI will reset after SNIP function is pressed.
 
 
 
