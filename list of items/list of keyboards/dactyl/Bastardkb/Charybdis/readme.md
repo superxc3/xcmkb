@@ -1,10 +1,20 @@
 # Charybdis 4x6
+Default keymap inspired from Miryoku layout and defined by Bastard Keyboards. This version uses TRRS cable instead of TRS cable. List of firmware utilized with Vial enabled, modified from Bastardkb. These are proprietary components, and we have chosen not to disclose the source code.
+  - [Default vial firmware (20231212)](#default-vial-firmware-20231212)
+  - [v3.0xcmkb - Full Vial Ported 20231202](#v30xcmkb---full-vial-ported-20231202)
+
 
 ## Firmware
 
-### v3.0xcmkb - Full Vial Ported 20231202 
+### Default vial firmware (20231212)
+This is the standard firmware ported with Vial
+- 4 layers only
+- qmk settings enabled
+- tap dance, combo, key overrides enabled
+- default user code for trackball provided by bastardkeyboard
+  
 
-
+### v3.0xcmkb - Full Vial Ported 20231202
 Default keymap inspired from Miryoku layout and defined by Bastard Keyboards. This version uses TRRS cable instead of TRS cable. Hand configuration changes from splinky_31/config.h
 
 Vial ported by XCMKB with:
@@ -26,4 +36,4 @@ Vial ported by XCMKB with:
 #### Known issue
 a. USB-C connects to right only.
 
-```qmk compile -kb bastardkb/charybdis/4x6/v2/splinky_3 -km vial```
+```qmk compile -kb bastardkb/charybdis/4x6/v2/splinky_3 -km vial```~~
