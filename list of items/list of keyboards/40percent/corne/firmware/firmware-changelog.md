@@ -1,5 +1,11 @@
 # Firmware Changelog
 
+## Firmware version 0.4 (CornePLUS)
+Released on December 18, 2023.
+- Enables Pimoroni trackball, inspired from SoflePLUS  (with SNIP)
+- Added encoder at each side
+
+
 ## Firmware version 2.0 beta
 Released on September 17, 2023.
 
