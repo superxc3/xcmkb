@@ -31,6 +31,21 @@ Now with the more powerful RP2040 MCU! Advanced firmware supporting:
 - Qmk settings enabled, 
 - Full RGB lighting effects enabled in Vial.
 
+| Feature                 | Sofle v2                          | Sofleplus                              |
+|-------------------------|-----------------------------------|----------------------------------------|
+| Switch Compatibility    | MX hotswap only                   | MX and Choc V1                         |
+| Encoder Options         | Knob only                         | Knob, Horizontal Scroll Wheel, Pimoroni Trackball (Cursor), Haptic Bzzz (Vibration) |
+| Wireless                | No dedicated power button         | Dedicated power button                |
+| OLED Display            | No                                | Niceview/Low Power OLED Support       |
+| Firmware Features       | Limited                           | Specially tailored for end users      |
+| Programmable Encoder    | No                                | Yes                                    |
+| Number of Layers        | 4                                 | 10                                     |
+| Tap Dance               | No                                | 32                                     |
+| Combos                  | No                                | 32                                     |
+| Key Overrides           | No                                | 32                                     |
+| QMK Settings            | No                                | Yes                                    |
+
+
 Sofle Plus retains the ProMicro footprint, allowing for a seamless Bluetooth upgrade in the future without the need for desoldering!
 
 ## What is included?
