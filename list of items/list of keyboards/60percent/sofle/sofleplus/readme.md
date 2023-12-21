@@ -36,7 +36,7 @@ Now with the more powerful RP2040 MCU! Advanced firmware supporting:
 | Switch Compatibility    | MX hotswap only                   | MX and Choc V1                         |
 | Encoder Options         | Knob only                         | Knob, Horizontal Scroll Wheel, Pimoroni Trackball (Cursor), Haptic Bzzz (Vibration) |
 | Wireless                | No dedicated power button         | Dedicated power button                |
-| OLED Display            | No                                | Niceview/Low Power OLED Support       |
+| OLED Display            | OLED                              | OLED and Niceview Support (wireless)  |
 | Firmware Features       | Limited                           | Specially tailored for end users      |
 | Programmable Encoder    | No                                | Yes                                    |
 | Number of Layers        | 4                                 | 10                                     |
