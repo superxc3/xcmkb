@@ -11,7 +11,7 @@
 Kindly refer to this [page](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/new%20to%20ergo%20board.md).
 
 # Link Gates
-|[![257368210-bd81dc8d-9970-4951-b874-163cdaebc7bc](https://github.com/superxc3/xcmkb/assets/79617315/c273f58e-8c5a-4737-8d0c-e1377b98b626)](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus) |[![253440454-b4bf9a74-3347-4272-92b0-74de354a62a9](https://github.com/superxc3/xcmkb/assets/79617315/cdb2ceeb-deb9-4445-ae50-f411c78466b2)](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/40percent/corne) | [![287458901-5d484417-5e8b-4b37-aac5-1b1dec8f64d0](https://github.com/superxc3/xcmkb/assets/79617315/3ebfb375-c7f7-43d4-a07c-e03418cbb289)](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/dactyl/Bastardkb) |
+|[![257368210-bd81dc8d-9970-4951-b874-163cdaebc7bc](https://github.com/superxc3/xcmkb/assets/79617315/c273f58e-8c5a-4737-8d0c-e1377b98b626)](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus) |[![b408f3bbcbf0db9ae49fb5ce42a7a5d](https://github.com/superxc3/xcmkb/assets/79617315/19e0e872-e082-4e6b-a9c3-b1a2bbdadcfa)](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/40percent/corne) | [![287458901-5d484417-5e8b-4b37-aac5-1b1dec8f64d0](https://github.com/superxc3/xcmkb/assets/79617315/3ebfb375-c7f7-43d4-a07c-e03418cbb289)](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/dactyl/Bastardkb) |
 |:--:|:--:|:--:|
 | SoflePLUS | Corne | Bastardkb | 
 
