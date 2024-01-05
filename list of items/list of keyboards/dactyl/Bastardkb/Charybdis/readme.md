@@ -33,15 +33,20 @@ Also layer cycle through Layer tab:
 ## Firmware
 
 List of firmware utilized with Vial enabled, modified from Bastardkb. These are proprietary components, and we have chosen not to disclose the source code.
-  - [Default vial firmware (20231212)](#default-vial-firmware-20231212)
+  - [Default vial firmware: v0.2](#v0.2-20240105)
 
 
-### Default vial firmware (20231212)
+### v0.2 (20240105)
+- splinktegrated, no longer rp2040 promicro
+- re-enabled osm
+
+### v0.1 (20231212)
 This is the standard firmware ported with Vial
 - 4 layers only
 - qmk settings enabled
 - tap dance, combo, key overrides enabled
 - default user code for trackball provided by bastardkeyboard
+
 
 #### Unique user code for trackball
 1. DPI+ : the pointer moves faster
