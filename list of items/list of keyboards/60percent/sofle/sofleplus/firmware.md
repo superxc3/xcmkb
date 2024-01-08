@@ -16,12 +16,7 @@ Sofle Plus is compatible with any Sofle v2 or v1 firmware, as well as Choc firmw
 9. Pimoroni trackball and haptic bzzz enabled. 
 10. Left and right can be master, meaning either side can be used to plug in usb-c. But trackball and bzzz must be on the master.
 
-#### User Tab Explanation
-1. `Super ALT↯TAB` is enabled in `User` tab as `ABF` and `ABR/User01`, allowing you to cycle tab through window, especially suitable for knob function.
-2. `AMWU` and `AMWD` denotes Alt + Mousewheel allows you to control brush size in Photoshop.
-3. `NMR` and `NML` move your window to left or right monitor, if you have two monitors.
-4. `SBS` denotes Shift + Backspace to delete whole word.
-5. `SCR` hold to scroll pimoroni trackball.
+
    
 # Standard Firmware of Sofle Plus (RP2040)
 1. All wired versions of Sofle Plus come pre-flashed with this firmware.
