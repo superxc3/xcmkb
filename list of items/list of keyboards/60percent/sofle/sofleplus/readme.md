@@ -86,6 +86,25 @@ You can refer to [Vial Tutorial](https://get.vial.today/manual/) for Layers, Mac
 
 ![Trackball manual](https://github.com/superxc3/xcmkb/assets/79617315/6ba8086a-2a59-485d-ba2f-0292656fedfb)
 
+#### User Tab Explanation
+1. `ATABF`: alt+tab, cycle tab through window
+2. `ATABR`: alt+shift+tab, reverse cycle tab through window
+3. `ATMU`: alt + mousewheel allows you to control brush size in Photoshop or similar design software
+4. `ATMD`: alt + mousewheel allows you to control brush size in Photoshop or similar design software
+5. `POWER`: power button in window
+6. `SNIP`: Hold to move cursor super slow, suitable for precision
+7. `HSCRL`: Hold for trackball scroll
+8. `SCRL`: Enable trackball scroll
+9. `POINT`: Enable trackball pointinng
+10. `TBINS`: Increase trackball speed by 1 level
+11. `TBDES`: Decrease trackball speed by 1 level
+12. `TBRST`: Reset trackball speed
+
+Other functions that can be fulfilled through `Quantum` are removed in `User`.
+a. `NMR` and `NML` move your window to left or right monitor, if you have two monitors. Assign LGUI+Shift+Arrow left/right
+4. `SBS` denotes Shift + Backspace to delete whole word. Assign Lshift+Backspace.
+
+
 ### Notes
 1. :warning: This step is crucial to prevent bricking the MCU. When connecting a split keyboard, it is important to ensure proper and correct connections. Please refer to [demo](https://www.instagram.com/tv/CdpYrWBJuD9/?igshid=YmMyMTA2M2Y=) here.
 ![image](https://user-images.githubusercontent.com/79617315/204213627-3c877043-aae7-45f9-804b-e50d5ad57624.png)
