@@ -25,7 +25,7 @@ This session is for the new batch of Corne with Splinky or similar RP2040 Promic
 ## Standard Firmware of Corne (RP2040)
 1. All wired versions of Corne come pre-flashed with this firmware.
 2. The board you purchased comes pre-flashed, except for the build kit. We strongly advise against flashing it unless you are familiar with the process or have been instructed to do so by us.
-3. On this date `2023.08.05`, we are using `Version 1.1` as standard firmware. List of uf2 downloads from [here](https://drive.google.com/drive/u/0/folders/1-6yim1sLNgdcoQgKbDtAbBsG6yMPpH2_).
+3. On this date `2024.01.08`, we are using `Version 4` as standard firmware. This is compiled based on [QMK 20231126](https://docs.qmk.fm/#/ChangeLog/20231126). List of uf2 downloads from [here](https://drive.google.com/drive/u/0/folders/1-6yim1sLNgdcoQgKbDtAbBsG6yMPpH2_).
 4. Refer to [Flashing uf2](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/flashingboard.md) tutorial for flashing.
 5. Read [Changelog](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/40percent/corne/firmware/firmware-changelog.md) for firmware version features or improvements.
 6. Do note that Corne is an open-sourced pcb with QMK. You can edit anything you like, especially OLED display, without following our board firmware strictly. We may constantly update the basic usage of the firmware, but not responsible for lifetime changes. We hope you could enjoy the fun of open-source instead!
