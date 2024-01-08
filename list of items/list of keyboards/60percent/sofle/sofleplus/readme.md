@@ -101,8 +101,8 @@ You can refer to [Vial Tutorial](https://get.vial.today/manual/) for Layers, Mac
 12. `TBRST`: Reset trackball speed
 
 Other functions that can be fulfilled through `Quantum` are removed in `User`.
-a. `NMR` and `NML` move your window to left or right monitor, if you have two monitors. Assign LGUI+Shift+Arrow left/right
-4. `SBS` denotes Shift + Backspace to delete whole word. Assign Lshift+Backspace.
+1. `NMR` and `NML` move your window to left or right monitor, if you have two monitors. Assign LGUI+Shift+Arrow left/right
+2. `SBS` denotes Shift + Backspace to delete whole word. Assign Lshift+Backspace.
 
 
 ### Notes
