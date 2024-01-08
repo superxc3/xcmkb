@@ -92,13 +92,17 @@ You can refer to [Vial Tutorial](https://get.vial.today/manual/) for Layers, Mac
 3. `ATMU`: alt + mousewheel allows you to control brush size in Photoshop or similar design software
 4. `ATMD`: alt + mousewheel allows you to control brush size in Photoshop or similar design software
 5. `POWER`: power button in window
-6. `SNIP`: Hold to move cursor super slow, suitable for precision
+6. `SNIP*`: Hold to move cursor super slow, suitable for precision
 7. `HSCRL`: Hold for trackball scroll
 8. `SCRL`: Enable trackball scroll
 9. `POINT`: Enable trackball pointinng
 10. `TBINS`: Increase trackball speed by 1 level
 11. `TBDES`: Decrease trackball speed by 1 level
 12. `TBRST`: Reset trackball speed
+
+*SNIP explanation
+Updated in SoflePLUS 2.3 beta. Add SNIP function for pimoroni trackball. Hold SNIP and cursor will move super slow, convenient for small precision function. However, your customised dpi will be reset after SNIP release. That means customisation of dpi and snip function cant co-exist in this beta. 
+
 
 Other functions that can be fulfilled through `Quantum` are removed in `User`.
 1. `NMR` and `NML` move your window to left or right monitor, if you have two monitors. Assign LGUI+Shift+Arrow left/right
