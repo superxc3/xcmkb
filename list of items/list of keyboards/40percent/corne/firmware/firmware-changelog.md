@@ -4,6 +4,7 @@
 Released on December 18, 2023.
 - Enables Pimoroni trackball, inspired from SoflePLUS  (with SNIP)
 - Added encoder at each side
+- Added layout for 3x5 and encoder in Vial.
 
 
 ## Firmware version 2.0 beta
