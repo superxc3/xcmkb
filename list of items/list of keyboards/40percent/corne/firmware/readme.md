@@ -1,15 +1,12 @@
-# Corne Firmware
-Three main types of firmware:
-
+# CornePLUS Firmware
+All wired version use RP2040 firmware, we stop maintain atmega32u4 promicro.
 1. Splinky or similar RP2040 Promicro user, please check [RP2040 Promicro](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/40percent/corne/firmware#rp2040-promicro).
-2. The old version of Corne using Atmega32u4 Promicro, please check [Atmega32u4 Promicro](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/40percent/corne/firmware#atmega32u4-promicro). 
-3. ZMK Wireless, please head to [zmk-config-crkbd](https://github.com/superxc3/zmk-config-crkbd).
-
+2. ZMK Wireless, please head to [zmk-config-crkbd](https://github.com/superxc3/zmk-config-crkbd).
 
 # RP2040 Promicro
-This session is for the new batch of Corne with Splinky or similar RP2040 Promicro. 
 
-![image](https://github.com/superxc3/xcmkb/assets/79617315/17fb21e2-87de-4945-b89f-009cbbd192b7)
+## v0.4
+![2024-01-12 11-52-50](https://github.com/superxc3/vial-qmk/assets/79617315/51ffac07-195d-454f-aedd-1a3236d725f2)
 
 ## Features
 1. Auto-detected in [Vial software](https://get.vial.today/download/), supports Win, Linux, and Mac. Real-time key remap software without the needs of code compilation. No load json is required. 
@@ -20,157 +17,11 @@ This session is for the new batch of Corne with Splinky or similar RP2040 Promic
 6. QMK Settings allows you to configure the fine details of how QMK operates, including tapping term, permissive hold etc. Read more on [QMK Firmware](https://docs.qmk.fm/#/).
 7. Mousekey allows you to remap mouse key on keyboard, including left click, right click, scroll etc.
 8. RGB Matrix is now enabled and including all RGB lighting effects. More colorful, more lively!
-9. Left and right can be master, meaning either side can be used to plug in usb-c. 
+9. Left and right can be master, meaning either side can be used to plug in usb-c.
 
-## Standard Firmware of Corne (RP2040)
-1. All wired versions of Corne come pre-flashed with this firmware.
-2. The board you purchased comes pre-flashed, except for the build kit. We strongly advise against flashing it unless you are familiar with the process or have been instructed to do so by us.
-3. On this date `2024.01.08`, we are using `Version 4` as standard firmware. This is compiled based on [QMK 20231126](https://docs.qmk.fm/#/ChangeLog/20231126). List of uf2 downloads from [here](https://drive.google.com/drive/u/0/folders/1-6yim1sLNgdcoQgKbDtAbBsG6yMPpH2_).
-4. Refer to [Flashing uf2](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/flashingboard.md) tutorial for flashing.
-5. Read [Changelog](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/40percent/corne/firmware/firmware-changelog.md) for firmware version features or improvements.
-6. Do note that Corne is an open-sourced pcb with QMK. You can edit anything you like, especially OLED display, without following our board firmware strictly. We may constantly update the basic usage of the firmware, but not responsible for lifetime changes. We hope you could enjoy the fun of open-source instead!
+## Source code
+Our [source codes](https://github.com/superxc3/vial-qmk/blob/corneplus/keyboards/crkbd/readme.md) will be provided to our clients and should not be disclosed to the public. They are restricted for personal use only. Please note that flashing the board is done at your own risk, and we are not responsible for any board failure resulting from flashing.
 
-# Atmega32u4 Promicro
-This session is the old Corne with Atmega32u4 Promicro. We stop updating this on the date of 13.08.2023.
-
-## Standard Firmware (2023.04.05) for Promicro
-1. For RGB, the board is flashed with Rev 2023-3u, named `crkbd_rev1_xcvial-u-left`.
-2. For non-rgb, the board is flashed with Rev 2023-3, named `crkbd_rev1_xcvial-2`.
-
-### Rev 2023-3 (non-RGB)
-- fix board does not wake up after restart
-- RGB disabled, mousekey enabled, qmk settings enabled
-- 6 layers
-  
-### Rev 2023-3u (RGB)
-- RGB enabled, qmk settings disabled
-- the rest similar to Rev 2023-3
-
-1. With vial enabled, qmk settings, rgb (limit to 3) and oled enabled, mousekey disabled: firmware oversize (3372 bytes over)
-2. Refer setting above, oled disabled, firmware 93%. 
-3. Refer setting 1, oled disabled, mousekey enabled, rgb limit to 2, firmware 99%, 192 bytes free.
-4. The board you bought is already pre-flashed, we do not recommend you to flash it unless you are aware what you are doing. 
-5. Refer [Flashing Hex](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/flashing%20hex.md) for steps to flash hex. 
-6. All corne firmware rev download from [here](https://drive.google.com/drive/folders/1Fzg_2ExMRd2aj1tImBqirBF1Uh8W3mVz?usp=drive_link).
-
-## Other variation:
-### Rev xcvial0718
-Reference `qmk compile -kb crkbd -km xcvial0718`:
-- a total of 7 layers (Layer 0 - 6)
-- oled and rgb disabled
-- mousekey enabled
-- qmk settings yes
-- combo yes
-- tap dance yes
-- key overrides no
-
-The firmware size is fine - 27508/28672 (95%, 1164 bytes free). 
-
-
-## Rev 2023-2 (2023-01-08)
-Built based on rev1. Disable rgb, enable qmk settings and mousekey. The firmware size is approaching the maximum - 27928/28672 (97%, 744 bytes free)
-
-### Features
-- a total of 8 layers (Layer 0 - 7)
-- oled yes
-- vial and via yes
-- qmk settings yes, combo, tap dance no
-- mousekey yes
-- rgb disabled
-- tapping term 200
-- ignore mod tap interrupt
-- split usb detect 
-- usb polling 1000
-
-## Rev 2023-1 (2023-01-06)
-Suitable for user who looking for vial-enabled firmware. This is created to allow keyboard to be mapped with vial as recent via firmware is incompatible in vial. 
-- enable vial 
-- due to increasing size, mousekey is disabled
-
-### Features
-- a total of 8 layers (Layer 0 - 7)
-- oled yes
-- vial and via yes
-- qmk settings, combo, tap dance no
-- mousekey no
-- rgb enabled with Rainbow mood, Static gradient, Rainbow swirl, Breathing only
-- tapping term 200
-- ignore mod tap interrupt
-- split usb detect 
-- usb polling 1000
-
-
-## Rev 2022-3 (2022-12-21)
-- modified based on Rev 2
-- layers up to 8 (0-7)
-- tapping term changes to 200
-- add mousekey modification in config.h based on request
-- the rest are same
-- vial is not enabled but you can remap in ~~vial~~/via. vial will read it as via config.
-- rgb underglow lighting effect cant be edit in vial, only in via. 
-
-`Recent VIA firmware is completely incompatible with Vial. The "unsupported protocol" message means you've got recent VIA firmware flashed, which means you will need to use the VIA website until you finish and flash the Vial keymap.`
-
-## Rev 2022-2 (2022-12-15)
-- split usb detect
-- layers up to 7
-- tapping term 180
-- ignore mod tap interrupt
-- usb pooling interval ms1
-- qmk keys per scan 12
-- rgb: rainbow mood, static gradient, rainbow swirl, breathing
-- enabled mousekey
-- enabled oled
-
-
-## Rev 2022-1 (2022-06-19)
-- split usb detect
-- no rgb
-- oled enabled
-- IGNORE_MOD_TAP_INTERRUPT
-- tapping term 230
-- layers add up to 7
-- rgb sleep enable
-- QMK settings in vial
-- mousekey disabled
-
-## Rev 2021-1 (2021-11-22)
-- Layers added up to 6
-- Media key enabled
-- Mousekey enabled
-- RGB lighting all enabled
-
-
-## Rev 2022-1 (2022-03-10)
-Added VIAL support for certain features:
-- Layers added up to 8
-- Added VIAL support by enabling QMK settings and Tap dance
-- Combo is still disabled due to size limit
-- Mousekey is disabled to accommodate for QMK settings and Tap dance in VIAL
-- Oled is disabled to accommodate for QMK settings and Tap dance in VIAL
-
-RGB lighting
-- [x] RGBLIGHT_EFFECT_BREATHING
-- [x] RGBLIGHT_EFFECT_RAINBOW_MOOD
-- [x] RGBLIGHT_EFFECT_RAINBOW_SWIRL
-- [ ] RGBLIGHT_EFFECT_SNAKE
-- [ ] RGBLIGHT_EFFECT_KNIGHT
-- [ ] RGBLIGHT_EFFECT_CHRISTMAS
-- [x] RGBLIGHT_EFFECT_STATIC_GRADIENT
-- [x] RGBLIGHT_EFFECT_RGB_TEST
-
-|![image](https://user-images.githubusercontent.com/79617315/157654494-7f1aa6e9-c5b2-4e1c-9076-ff4fa77e263e.png)|
-|:--:|
-| QMK Settings in VIAL |
-
-| ![image](https://user-images.githubusercontent.com/79617315/157654570-f283d9f6-7724-46c9-acfd-0cfaa9279a21.png)|
-|:--:|
-| Tap Dance in VIAL |
-
-## Rev 2022-0 
-- Layers 4 (0,1,2,3)
-- RGB lighting effect all
-- Mousekey disabled
 
 
 
