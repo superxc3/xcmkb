@@ -6,6 +6,10 @@ Default firmware: [v0.2](#v02-xcmkb---splinktegrated--2024-01-05-)
 - [v3.0xcmkb - Full Vial Ported (2023-12-02)](#v30xcmkb---full-vial-ported-2023-12-02)
 - [Flashing UF2 Guide](#flashing-uf2-guide)
 
+## v0.3 xcmkb - auto-mouse layer, left as main (2024-01-23)
+- Enable auto-mouse layer, touch the trackball auto-trigger mouse layer
+- Plug in left and trackball still working great
+
 ## v0.2 xcmkb - splinktegrated (2024-01-05)
 - Change of mcu to splinktegrated
 - Rename info.json
