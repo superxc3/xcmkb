@@ -9,6 +9,7 @@ Default firmware: [v0.2](#v02-xcmkb---splinktegrated--2024-01-05-)
 ## v0.3 xcmkb - auto-mouse layer, left as main (2024-01-23)
 - Enable auto-mouse layer, touch the trackball auto-trigger mouse layer
 - Plug in left and trackball still working great
+- Notes for xc: `qmk compile -kb bastardkb/charybdis/3x5/v2/splinky_3vial -km vial`
 
 ## v0.2 xcmkb - splinktegrated (2024-01-05)
 - Change of mcu to splinktegrated
