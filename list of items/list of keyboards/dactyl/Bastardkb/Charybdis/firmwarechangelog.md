@@ -10,10 +10,13 @@ List of firmware utilized with Vial enabled, modified from Bastardkb. These are 
 - [Flashing UF2 Guide without physical reset button](#flashing-uf2-guide-without-physical-reset-button)
 
 ### v0.3 (20240125)
+- master can be left now, you can plug in usb-c to left or right
 - adds layer number from 4 to 7, namely 0123456
 - auto-mouse layer enabled, green light up when layer is triggered.
-- free to use and [download](https://drive.google.com/file/d/1_PwiKGskKvhrY-eqHm3sat8IGjYGmofS/view?usp=drive_link).
-- 7 layers without automouse [download](https://drive.google.com/file/d/1bn51Q2Pfrlb3xfuxXCjeV9rA-oBIvpXs/view?usp=drive_link).
+- 7 layers with automouse enabled [download](https://drive.google.com/file/d/18dHiwoUvty3oQFYZd_iYd6_dex74NVbi/view?usp=drive_link).
+- 7 layers without automouse [download](https://drive.google.com/file/d/1COwV89z8TxgxaGvSCS4ellqj0NpvF1bp/view?usp=drive_link).
+- PLEASE NOTE THAT THIS SUPPORTS THE NEWER MCU SPLINKTEGRATED ONLY
+- If your left is the mirror image of right, press MO(1)+N so you can define left as master and re-plug in your usb c. This is applicable for old splinktegrated board.
 
 #### Known bug
 - rgb lightning resets to maximum brightness after auto-mouse layer is triggered
