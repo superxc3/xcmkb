@@ -1,9 +1,33 @@
 # Firmware Changelog
-Default firmware: v0.2
+
+List of firmware utilized with Vial enabled, modified from Bastardkb. These are proprietary components, and we have chosen not to disclose the source code.
+- [Default vial firmware: v0.3](#v0.2-20240125)
+- [Default vial firmware: v0.2](#v0.2-20240105)
+
 
 ## List of firmware
 - [Flashing UF2 Guide](#flashing-uf2-guide)
 - [Flashing UF2 Guide without physical reset button](#flashing-uf2-guide-without-physical-reset-button)
+
+### v0.3 (20240125)
+- adds layer number from 4 to 7, namely 0123456
+- auto-mouse layer enabled, green light up when layer is triggered.
+- free to use and [download](https://drive.google.com/file/d/1_PwiKGskKvhrY-eqHm3sat8IGjYGmofS/view?usp=drive_link).
+- 7 layers without automouse [download](https://drive.google.com/file/d/1bn51Q2Pfrlb3xfuxXCjeV9rA-oBIvpXs/view?usp=drive_link).
+
+#### Known bug
+- rgb lightning resets to maximum brightness after auto-mouse layer is triggered
+
+### v0.2 (20240105)
+- splinktegrated, no longer rp2040 promicro
+- re-enabled osm
+
+### v0.1 (20231212)
+This is the standard firmware ported with Vial
+- 4 layers only
+- qmk settings enabled
+- tap dance, combo, key overrides enabled
+- default user code for trackball provided by bastardkeyboard
 
 
 # Flashing UF2 Guide
