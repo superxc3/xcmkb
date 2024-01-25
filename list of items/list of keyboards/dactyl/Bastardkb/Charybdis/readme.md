@@ -31,21 +31,8 @@ Also layer cycle through Layer tab:
 
 
 ## Firmware
-
-List of firmware utilized with Vial enabled, modified from Bastardkb. These are proprietary components, and we have chosen not to disclose the source code.
-  - [Default vial firmware: v0.2](#v0.2-20240105)
-
-
-### v0.2 (20240105)
-- splinktegrated, no longer rp2040 promicro
-- re-enabled osm
-
-### v0.1 (20231212)
-This is the standard firmware ported with Vial
-- 4 layers only
-- qmk settings enabled
-- tap dance, combo, key overrides enabled
-- default user code for trackball provided by bastardkeyboard
+Firmware [changelog](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/dactyl/Bastardkb/Charybdis/firmwarechangelog.md).
+![image](https://github.com/superxc3/xcmkb/assets/79617315/5cb2e7cb-a3a5-4764-9c16-4d97dee88afa)
 
 
 #### Unique user code for trackball
