@@ -9,3 +9,10 @@ under development
 - RGB underglow and RGB per key
 - MX and GLP hotswap socket or Lp v1 with choc-spaced (different pcbs)
 
+## Layout
+- Maintain the [SofleV2](https://josefadamcik.github.io/SofleKeyboard/) layout, 6×4+5.
+- Why SofleV2? More aggressive pinky compared to Lily and Iris, more outward thumb cluster for comfort.
+- Even more aggressive pinky, inspired from piantor/cantor
+- Extra thumb outermost thumbkey
+
+![image](https://github.com/superxc3/xcmkb/assets/79617315/3aa03250-bb1e-48b6-a28f-de5bb3ad90cb)
