@@ -11,7 +11,8 @@ under development
 | [5way from Duet too]|
 |![image](https://github.com/superxc3/xcmkb/assets/79617315/190ff392-779f-4615-a01f-f48f4c07d138)|
 | [Magnetic connector](https://www.aliexpress.com/item/1005004609718442.html) or [connector from duet](https://github.com/zzeneg/duet/tree/main/guide#connectors)|
-
+|
+|[ESD protection](https://github.com/tzarc/djinn)|
 
 
 
