@@ -1,7 +1,7 @@
 # Firmware Changelog
 
 List of firmware utilized with Vial enabled, modified from Bastardkb. These are proprietary components, and we have chosen not to disclose the source code.
-- [Default vial firmware: v0.3](#v0.2-20240125)
+- [Default vial firmware: v0.3](#v0.3-20240125)
 - [Default vial firmware: v0.2](#v0.2-20240105)
 
 
@@ -24,6 +24,7 @@ List of firmware utilized with Vial enabled, modified from Bastardkb. These are 
 ### v0.2 (20240105)
 - splinktegrated, no longer rp2040 promicro
 - re-enabled osm
+- flash to both sides, usb on right [download](https://drive.google.com/drive/u/0/folders/1wFJSKS4g3jTub1cuLj0BrvQfomj7d9PO)
 
 ### v0.1 (20231212)
 This is the standard firmware ported with Vial
