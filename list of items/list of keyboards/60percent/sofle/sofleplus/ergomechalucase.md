@@ -6,7 +6,7 @@
 
 SoflePLUS is a split keyboard with a 6x4+5 keys layout and OLED displays. It is based on the original [Sofle](https://github.com/josefadamcik/SofleKeyboard) design by Josef Adamcik, but with some improvements and modifications by XC, the designer of SoflePLUS. You can find more details about SoflePLUS [here](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus).
 
-One of the features of SoflePLUS is that it can be upgraded to an aluminium case from [Ergomech](https://ergomech.com/). However, the aluminium case from Ergomech is not a direct fit for SoflePLUS. It requires some minor modifications. The good news is that no desoldering and soldering are required, and the process is relatively simple and straightforward.
+SoflePLUS can be upgraded to an aluminium case from [Ergomech](https://ergomech.com/). However, the aluminium case from Ergomech is not a direct fit for SoflePLUS. It requires some minor modifications. The good news is that no desoldering and soldering are required, and the process is relatively simple and straightforward.
 
 In this page, I will show you how to change or upgrade the case of SoflePLUS to aluminium case from Ergomech, step by step. I will also provide some tips and tricks to make the process easier and smoother. Let's get started!
 
