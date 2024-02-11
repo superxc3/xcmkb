@@ -12,3 +12,5 @@ This session is restricted to certain users only. Please flash at your own risk.
 
 ## List of firmware
 1. Date: 20230312 [vial-spacexc2](https://drive.google.com/file/d/14DlU5cgb2wjtidxAvTpWAv2AsGakaz7k/view?usp=drive_link)
+2. Date: 20231206 [vial-spacexc3](https://drive.google.com/drive/folders/1DOA64Zla0MBqCCvLTLZuoOxeCWMx5dRG?usp=drive_link)
+3. Date: 20240212 [vial1126](https://drive.google.com/drive/folders/1xhfKKumdlSbV8uYdywnQ8x6JVvHreqRR?usp=drive_link)
