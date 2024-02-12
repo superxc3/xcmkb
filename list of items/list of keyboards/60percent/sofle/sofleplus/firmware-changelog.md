@@ -3,8 +3,37 @@ If this happens to your board:
 1. If trackball on right, and usb plugged in left. Trackball layer white doesnt led up. Capslock red and numlock turquoise still working good. No issue on the opposite direction. Meaning it requires qmk msys qmk flash to your board.
 
 Solution:
-1. Plug in usb to your trackball side to enjoy newer updates.
-2. Or, continue to plug in usb to left, but trackball layer doesnt light up. Capslock and numlocks still working.
+   1. Plug in USB to your trackball side: By connecting the USB cable to the trackball side, you can enjoy the latest updates and features.
+   2. Continue to plug in USB to the left: If you prefer to connect the USB cable to the left side, please note that the trackball layer won’t light up. However, the Caps Lock and Num Lock functions will still work.
+
+<br/>
+
+## Firmware: Version 2.4 RGBlayer (vial1126rgb)
+Adds RGB indicator for layer and capslock. This is the standard, and we won’t accommodate specific color requests for certain layers.
+
+
+### RGB layer
+| Layer | RGB color |
+|:--:|:--|
+|0| Default RGB effect set by user|
+|1| Purple|
+|2|Magenta|
+|3|Orange|
+|4|Springgreen|
+|5|Blue|
+|6|Cyan|
+|7|Pink|
+|8|Gold|
+|9| Default RGB effect set by user|
+|Capslock|Red|
+
+### Known issue
+If you have already purchased the board and wish to upgrade the firmware, please note that you must accept one of the two solutions here:
+
+   1. Plug in USB to your trackball side: By connecting the USB cable to the trackball side, you can enjoy the latest updates and features.
+   2. Continue to plug in USB to the left: If you prefer to connect the USB cable to the left side, please note that the trackball layer won’t light up. However, the Caps Lock and Num Lock functions will still work.
+      
+<br/>
 
 ## Firmware: Version 2.3 beta (vial-spacexc3)
 Add SNIP function for pimoroni trackball. Hold SNIP and cursor will move super slow, convenient for small precision function. However, your customised dpi will be reset after SNIP release. That means customisation of dpi and snip function cant co-exist in this beta.
@@ -12,7 +41,7 @@ Add SNIP function for pimoroni trackball. Hold SNIP and cursor will move super s
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/a3ba824f-1b53-489b-af21-4ad4c028af14)
 
 ### Known issue
-1. If you already purchase the board and wish to upgrade the firmware, please note that you have to accept two solutions here:
+1. If you have already purchased the board and wish to upgrade the firmware, please note that you must accept one of the two solutions here:
    
    a. Plug in usb to your trackball side to enjoy newer updates.
    
@@ -20,7 +49,7 @@ Add SNIP function for pimoroni trackball. Hold SNIP and cursor will move super s
    
 2. DPI will reset after SNIP function is pressed.
 
-
+<br/>
 
 ## Firmware: Version 2.2 beta
 Un-released yet. `2.2 no sentence case - xcmkb_sofleplus_2040_vial-spacexc2_rp2040_ce`
@@ -31,7 +60,7 @@ Ditto 2.1 beta with the following changes:
 3. Revised User tabs to make it cleaner. Removed a few Users as it could be replaced with Quantum shortcuts.
 ![image](https://github.com/superxc3/xcmkb/assets/79617315/5ddc2431-1f82-47d6-a52c-eb8e5604fb7c)
 
-
+<br/>
 
 ## Firmware: Version 2.1 beta
 Re-released on September 18, 2023, `2.1 ee xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`.
@@ -56,7 +85,7 @@ Main changes:
 1. Enable toggle scroll `TBSCRT` in User, instead of hold scroll `TBSCR` for pimoroni trackball. However trackball wont be lit up during scroll mode.
 2. Enable toggle precision `TBPOIT` in User. If you wish to change from scroll mode to precision, register this key without holding it.
 
-
+<br/>
    
 ## Firmware: Version 2.0 
 Released on September 8, 2023, `xcmkb_sofleplus_2040_vial-spacexc_rp2040_ce`, [Download](https://drive.google.com/file/d/1GajHL9OGIlprdd9wH9aA6EoxqdFUEF9C/view?usp=drive_link). Thanks to NoZuoNoDie, a fews significant changes have been implemented. The codes are edited accordingly to suit for everyone usage. 
@@ -75,14 +104,17 @@ WPM responsive space is designed and created by [admiralalleki](https://www.redd
 2. A few new attributes added by NZND, hover to know the usage
 3. When move your trackball, it goes to last layer automatically. OLED shows "TBALL" and trackball lights up in white color. 
 
-
-
+<br/>
    
 ## Firmware: Version 1.2AOLED beta
 Removed and replaced with better Version 2.0
 
+<br/>
+
 ## Firmware: Version 1.2
 Released on August 3, 2023, `xcmkb_sofleplus_2040_vial-ud-p_rp2040_ce-v1.2(left/right)`. Fixed the first RGB led not lit up. 
+
+<br/>
 
 ## Firmware: Version 1.1
 Released on August 1, 2023, `xcmkb_sofleplus_2040_vial-ud-p_rp2040_ce(left/right)`. Fixed the main issue of replugging required after a fresh restart and added RGB matrix support. This version is merged with the release of Vial version 0.7 on July 15, 2023. 
