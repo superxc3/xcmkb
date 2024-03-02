@@ -2,8 +2,8 @@
 Default firmware: [v0.2](#v02-xcmkb---splinktegrated--2024-01-05-)
 
 ## List of firmware
-- [v3.1xcmkb - OSM re-enabled (2023-12-06)](#v31xcmkb---osm-re-enabled-2023-12-06)
-- [v3.0xcmkb - Full Vial Ported (2023-12-02)](#v30xcmkb---full-vial-ported-2023-12-02)
+- [v3.1xcmkb - OSM re-enabled (2023-12-06)](#v31xcmkb---osm-re-enabled-2023-12-06) This is for old batch 
+- [v3.0xcmkb - Full Vial Ported (2023-12-02)](#v30xcmkb---full-vial-ported-2023-12-02) This is for old batch 
 - [Flashing UF2 Guide](#flashing-uf2-guide)
 
 ## v0.3 xcmkb - auto-mouse layer, left as main (2024-01-23)
