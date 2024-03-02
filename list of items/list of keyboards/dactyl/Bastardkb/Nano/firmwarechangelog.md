@@ -6,14 +6,16 @@ Default firmware: [v0.2](#v02-xcmkb---splinktegrated--2024-01-05-)
 - [v3.0xcmkb - Full Vial Ported (2023-12-02)](#v30xcmkb---full-vial-ported-2023-12-02) This is for old batch 
 - [Flashing UF2 Guide](#flashing-uf2-guide)
 
-## v0.3 xcmkb - auto-mouse layer, left as main (2024-01-23)
-- Enable auto-mouse layer, touch the trackball auto-trigger mouse layer
-- Plug in left and trackball still working great
-- Notes for xc: `qmk compile -kb bastardkb/charybdis/3x5/v2/splinky_3vial -km vial`
-
 ## v0.2 xcmkb - splinktegrated (2024-01-05)
 - Change of mcu to splinktegrated
 - Rename info.json
+
+## v0.3 xcmkb - auto-mouse layer, left as main (2024-01-23) - not using
+This version is omitted as plugging in left trackball is unstable for scroll function etc. Auto-mouse layer is also not stable and hard to control. 
+
+- Enable auto-mouse layer, touch the trackball auto-trigger mouse layer
+- Plug in left and trackball still working great 
+- Notes for xc: `qmk compile -kb bastardkb/charybdis/3x5/v2/splinky_3vial -km vial`
 
 # Flashing UF2 Guide
 
