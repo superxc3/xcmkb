@@ -6,15 +6,17 @@
 
 ## User manual 
 1. Connect trrs cable between two halves.
-2. Then only connect usb c-a to your pc. 
-3. Download [Vial](https://get.vial.today/download/) to remap the keys. 
+2. Then only connect your usb c to RIGHT split. 
+3. Download [Vial](https://get.vial.today/download/) to remap the keys, or [web vial](https://vial.rocks/) to remap through browser. 
+4. The key `Z` and `/` access to `layer 3`. This is a mouse layer, it automatically triggers `snip`, cursor will move slower. 
 
 ### Notes
 1. :warning: This step is crucial to prevent bricking the MCU. When connecting a split keyboard, it is important to ensure proper and correct connections. Please refer to [demo](https://www.instagram.com/tv/CdpYrWBJuD9/?igshid=YmMyMTA2M2Y=) here.
 2. If you brick your MCU, your board will no longer function. You will need to replace the set of MCUs if the MCU is bricked.
 3. :warning: For RGB per-key users, it is recommended to set the brightness to a maximum of 50% only. Setting it higher than that may result in an unstable power supply to the USB, potentially causing the keyboard to disconnect from your PC.
-4. This version uses TRRS cable instead of TRS cable. 
-5. Common issues refer to [Common Issues](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md).
+4. This version uses TRRS cable instead of TRS cable.
+5. If `SCROLL` doesnt work >> make sure your usb c connect to right, not left. 
+6. Common issues refer to [Common Issues](https://github.com/superxc3/xcmkb/blob/main/list%20of%20guide/common%20issues.md).
 
 
 ### Key Remap
