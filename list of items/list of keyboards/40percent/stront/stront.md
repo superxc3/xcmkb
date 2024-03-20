@@ -19,6 +19,7 @@ Stront is designed by [zzeneg](https://github.com/zzeneg/stront). This is a spli
 ### Pointing device features
 1. Cirque trackpad: tap for left click, outer circular gesture to scroll up or down
 2. Azoteq: tap for left click, two fingers tap for right click, two fingers moving up and down for scrolling, tap once and hold to drag
+
 *Other features are not available unless mentioned above.*
 
 ### HID LCD features
