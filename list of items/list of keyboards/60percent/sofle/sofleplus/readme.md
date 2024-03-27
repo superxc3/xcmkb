@@ -108,6 +108,10 @@ Other functions that can be fulfilled through `Quantum` are removed in `User`.
 1. `NMR` and `NML` move your window to left or right monitor, if you have two monitors. Assign LGUI+Shift+Arrow left/right
 2. `SBS` denotes Shift + Backspace to delete whole word. Assign Lshift+Backspace.
 
+#### Mac users
+1. LGUI/RGUI = Windows/Command/Meta
+2. LALT = Option
+3. RALT = Option/AltGr
 
 ### Notes
 1. :warning: This step is crucial to prevent bricking the MCU. When connecting a split keyboard, it is important to ensure proper and correct connections. Please refer to [demo](https://www.instagram.com/tv/CdpYrWBJuD9/?igshid=YmMyMTA2M2Y=) here.
