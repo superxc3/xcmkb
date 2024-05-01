@@ -4,7 +4,12 @@
 |:--:|
 | *3D: Marble PLA, Keycaps: MT3 BOW* |
 
-
+## TLDR
+1. Do not remove trs/trrs cable when usb c still connecting to your pc, this will brick the mcu and board wont be function.
+2. Usb-c connects to right only (trackball side).
+3. Key remap uses this firmware/web: [Vial](https://get.vial.today/).
+4. If you are new to vial, do refer [Basic vial layout](https://xcmkb.com/pages/basic-vial-usage).
+5. Wireless build please read and fork [zmk-config-charybdis_nano](https://github.com/superxc3/zmk-config-charybdis_nano).
 
 ## Firmware
 
@@ -31,5 +36,4 @@ Vial ported by XCMKB with:
 7. DRG : hold to scroll
 8. DRGT : toggle scroll on and off
 
-#### Known issue
-a. USB-C connects to right only.
+
