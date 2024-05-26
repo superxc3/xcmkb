@@ -24,13 +24,7 @@ This version is omitted as plugging in left trackball is unstable for scroll fun
 1. **Download Firmware:**
    - Download the firmware files for the left and right sides from the link provided by XC.
 
-2. **Disconnect from PC:**
-   - Unplug the USB C cable from your split keyboard, ensuring it's completely disconnected from your computer.
-
-3. **Disconnect Splits:**
-   - Unplug the TRS or TRRS cable connecting the two halves of your split keyboard.
-     
-4. **Turn On VIAL:**
+2. **Turn On VIAL:**
    - Launch the VIAL software.
 
 5. **Double Press Reset Button:**
@@ -45,12 +39,6 @@ This version is omitted as plugging in left trackball is unstable for scroll fun
 8. **Flashing Complete:**
    - Once both sides are recognized by VIAL, the flashing is done.
 
-9. **Reconnect Cables:**
-   - Reconnect the TRS or TRRS cable between the two halves of your split keyboard.
-   - Reconnect the USB C cable to your computer.
-
-10. **Done:**
-    - Your split keyboard is now successfully flashed with the new firmware.
 
 :exclamation: *Do not disconnect or connect the TRS/TRRS cable while the USB C is still connected to the PC to avoid MCU brick.*
 
