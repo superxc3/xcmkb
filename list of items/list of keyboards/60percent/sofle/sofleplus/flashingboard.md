@@ -17,6 +17,6 @@ If you already remap the keys, please save layout before flashing.
 
 Now you can start testing your new firmware. Have fun!
 
-### Notes for Trackpad V1.01 version
+### Notes for SoflePLUS Trackpad V1.01 version
 1. Please press `DPI0` after you flashed your firmware to activate the trackpad.
 2. Plug in usb left oled shows wpm rocket, plug in usb to right oled shows overall status. 
