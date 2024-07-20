@@ -49,6 +49,20 @@ If you already remap the keys, please save the layout before flashing.
 
 Now you can start testing your new firmware. Have fun!
 
+### Left and right keymap got mirror
+If you encounter this issue, especially when plugging the USB into the left side shows a mirror image, follow these steps:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/394aa98d-dc0d-4a5d-938b-b871d2df8bc1" width="600" style="border: 2px solid black;"/>
+      <br>
+      <em>Plug in your USB to the left split, and remap the `EEH_LEFT` under `Quantum`. Press the left split long thumb and replugging should work.</em>
+    </td>
+  </tr>
+</table>
+
+
 ### Notes for SoflePLUS Trackpad V1.01 version
 1. Please press `DPI0` after you flash your firmware to activate the trackpad.
 2. Plugging in the USB to the left OLED shows WPM rocket, plugging in the USB to the right OLED shows overall status.
