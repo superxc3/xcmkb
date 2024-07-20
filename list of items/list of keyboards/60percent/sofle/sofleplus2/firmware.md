@@ -8,4 +8,6 @@
 - This is for PLUSv2 with usb-c comms connection only. TRS connection incompatible.
 
 ## v2.02b
-- This is for full rgb backlighting and underglow version, rgb indicator for layers and capslock removed (only difference compare to v2.02a)
+- This is for full rgb backlighting and underglow version, rgb indicator for layers and capslock removed.
+- Fix for correct visual presentation on Azoteq layout. Remove remappable dip click on the left.
+- Others ditto v2.02a
