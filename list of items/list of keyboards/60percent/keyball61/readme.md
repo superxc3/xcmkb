@@ -6,7 +6,7 @@ Created especially for trackball. Please refer to [Special Keycodes](https://git
 ## Firmware changelog
 
 ### v1.02
-1. add so it goes to sleep
+1. Let LED off when sleep
 ```
 #define RGBLIGHT_SPLIT
 #define RGBLIGHT_SLEEP 			//Turn off LEDs when computer sleeping (+72)
