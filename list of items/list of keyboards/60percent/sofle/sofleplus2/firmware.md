@@ -26,4 +26,5 @@ Flashing manual refer to [RP2040 Flashing guide](https://github.com/superxc3/xcm
   
 ## v1.02a
 - Oled can display DPI speed now. Capslock and numlock indicator on oled is removed.
+- Others ditto v1.02
 - [Download](https://drive.google.com/file/d/1S154U7fFFqoWvL1lX_BekHu8eNVO81NM/view?usp=drive_link)
