@@ -1,6 +1,12 @@
 # Zazu 
+
+![Image_20240730162923](https://github.com/user-attachments/assets/58591898-0298-4512-907c-13d13bf851d5)
+
+
+
 The board is designed by [AlaaSaadAbdo](https://github.com/AlaaSaadAbdo/battoota/tree/main) with [QMK_Firmware](https://github.com/AlaaSaadAbdo/qmk_firmware/tree/develop/keyboards/mabroum/zazu).  We are not responsible for and will not assist with firmware configuration.
 Please note that we have 4 extra units available, as we are keeping one for personal use. Once sold out, they are considered sold out.
+
 
 ## User manual 
 1. The outer scroll ring may be slightly loose. We’ve pre-taped it for you. If it becomes loose over time, you can tape the inner part of the ring for added stability.
