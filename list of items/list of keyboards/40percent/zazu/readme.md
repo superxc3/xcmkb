@@ -31,6 +31,7 @@ Please note that we have 4 extra units available, as we are keeping one for pers
 1. LGUI/RGUI = Windows/Command/Meta
 2. LALT = Option
 3. RALT = Option/AltGr
+4. Further please read [Keycodes Overview](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md)
 
 ## Special keycodes  
 Some useful one as listed below especially to assist trackball control. The rest please refers to `keymap.c` and `keys.h` for Zazu's special keycodes in QMK Firmware link above. 
