@@ -3,7 +3,7 @@ Flashing manual refer to [RP2040 Flashing guide](https://github.com/superxc3/xcm
 
 
 ## v2.03 
-- Layer and capslock indicator for rgb underglow only. 
+- Layer and capslock indicator for rgb underglow only. Using dimmer indicator color to avoid flickering. 
 
 ## v2.02a 
 - Fix issue on requiring re-plug after reboot or fresh restart by adding `#define SPLIT_WATCHDOG_ENABLE` in `config.h`.
