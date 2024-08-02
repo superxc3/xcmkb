@@ -3,7 +3,7 @@ Flashing manual refer to [RP2040 Flashing guide](https://github.com/superxc3/xcm
 
 ## v2.03 - Ergomech edition
 - ditto v2.03
-- Layer and capslock indicator changes to 3 inner thumb keys as RGB underglow couldnt be seen from Ergomech case
+- Layer and capslock indicator changes to 5 thumb keys as RGB underglow couldnt be seen from Ergomech case
 
 ## v2.03 
 - Layer and capslock indicator for rgb underglow only. Using dimmer indicator color to avoid flickering.
