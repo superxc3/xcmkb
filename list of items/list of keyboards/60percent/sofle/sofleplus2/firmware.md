@@ -1,6 +1,10 @@
 # Firmware
 Flashing manual refer to [RP2040 Flashing guide](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/flashingboard.md). 
 
+
+## v2.03 
+- Layer and capslock indicator for rgb underglow only. 
+
 ## v2.02a 
 - Fix issue on requiring re-plug after reboot or fresh restart by adding `#define SPLIT_WATCHDOG_ENABLE` in `config.h`.
 - This is only for RGB underglow version, rgb indicator for layers and capslock remain
