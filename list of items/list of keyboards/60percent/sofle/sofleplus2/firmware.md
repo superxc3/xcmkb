@@ -49,8 +49,20 @@
 - Add `DPI-` in `user` tab to change DPI of trackpad.
 - [Download](https://drive.google.com/file/d/1Rhh3cRpNw75QYf8Do9ucuipwj_ymHcOp/view?usp=drive_link)
   
-## v1.02a
+## v1.02a - reported not working on 20240902
 - Oled can display DPI speed now. Capslock and numlock indicator on oled is removed.
 - Others ditto v1.02
 - This is for PLUS with trs connection only. C-C connection incompatible.
 - [Download](https://drive.google.com/file/d/1S154U7fFFqoWvL1lX_BekHu8eNVO81NM/view?usp=drive_link)
+
+# Source Code
+Keep this for personal use only. 
+
+## v2.03 
+- vial-qmk environment, pulled on 2024-09-02, compiled with qmk msys 1.9.0
+- [Download](https://drive.google.com/drive/folders/1OM-pccKEOvNtJggC9Q17KyIiNZYJbKfr?usp=drive_link)
+
+## v1.02a
+- 
+
+
