@@ -40,6 +40,13 @@
 |:--:|
 |SoflePLUS with large TPS62 trackpad, TRS connection|
 
+## v1.02b - oled dpi fix
+- update on 2024-09-02
+- correct the visual information for oled, omit rocket space animation as we only have one oled for this version.
+- oled can display DPI value, capslock indicator omitted, shows through rgb indicator instead.
+- [Download](https://drive.google.com/file/d/1Uyd_2-dLyolhWUDSB6dS474n5pja_Xsn/view?usp=drive_link)
+
+~~## v1.02a - reported not working on 20240902~~
 
 ## v1.02
 - Fix issue on requiring re-plug after reboot or fresh restart by adding `#define SPLIT_WATCHDOG_ENABLE` in `config.h`.
@@ -48,15 +55,11 @@
 - TPS62 trackpad
 - Add `DPI-` in `user` tab to change DPI of trackpad.
 - No DPI display on OLED
-- Compatible for normal Sofle
+- Compatible for normal Sofle without trackpad
 - [Download](https://drive.google.com/file/d/1Rhh3cRpNw75QYf8Do9ucuipwj_ymHcOp/view?usp=drive_link)
-  
-## v1.02a - reported not working on 20240902
-- Oled can display DPI speed now. Capslock and numlock indicator on oled is removed.
-- Others ditto v1.02
-- This is for PLUS with trs connection only. C-C connection incompatible.
-- [Download](https://drive.google.com/file/d/1S154U7fFFqoWvL1lX_BekHu8eNVO81NM/view?usp=drive_link)
 
+
+  
 # Source Code
 Keep this for personal use only. 
 
@@ -64,7 +67,12 @@ Keep this for personal use only.
 - vial-qmk environment, pulled on 2024-09-02, compiled with qmk msys 1.9.0
 - [Download](https://drive.google.com/drive/folders/1OM-pccKEOvNtJggC9Q17KyIiNZYJbKfr?usp=drive_link)
 
-## v1.02a
-- 
+## v1.02b
+- vial-qmk environment, pulled on 2024-09-02, compiled with qmk msys 1.9.0
+- [Download](https://drive.google.com/drive/folders/1XHns0GvEJjhrjjdFua79qMDN-CcppcxN?usp=drive_link)
+
+## v1.02
+- vial-qmk environment, pulled on 2024-09-02, compiled with qmk msys 1.9.0
+- [Download](https://drive.google.com/drive/folders/1XHns0GvEJjhrjjdFua79qMDN-CcppcxN?usp=drive_link)
 
 
