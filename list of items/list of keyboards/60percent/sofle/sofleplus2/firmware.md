@@ -48,6 +48,7 @@
 - TPS62 trackpad
 - Add `DPI-` in `user` tab to change DPI of trackpad.
 - No DPI display on OLED
+- Compatible for normal Sofle
 - [Download](https://drive.google.com/file/d/1Rhh3cRpNw75QYf8Do9ucuipwj_ymHcOp/view?usp=drive_link)
   
 ## v1.02a - reported not working on 20240902
