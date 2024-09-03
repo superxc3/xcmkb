@@ -51,7 +51,7 @@
 - update on 2024-09-02
 - correct the visual information for oled, omit rocket space animation as we only have one oled for this version.
 - oled can display DPI value, capslock indicator omitted, shows through rgb indicator instead.
-- [Download](https://drive.google.com/file/d/1Uyd_2-dLyolhWUDSB6dS474n5pja_Xsn/view?usp=drive_link)
+- [Download](https://drive.google.com/file/d/1m-1oIWS8lbtKk6Lv-TwTBI517SpusS6L/view?usp=drive_link)
 
 ~~## v1.02a - reported not working on 20240902~~
 
