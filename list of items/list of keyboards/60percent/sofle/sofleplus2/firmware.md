@@ -2,10 +2,17 @@
 1. Flashing manual refer to [RP2040 Flashing guide](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/flashingboard.md).
 2. Please press `DPI0` after you flash your firmware to activate the trackpad.
 
+
 # SoflePLUS2
 |![Image_20240724140025](https://github.com/user-attachments/assets/7db5fc4e-b2d2-4977-9250-ff7491b30f86)|
 |:--:|
 |SoflePLUS2 with smaller TPS43 trackpad, USB-C connection|
+
+### Next breaking changes v2.04 - Azoteq improvements
+- Suggest new function in `user` tab such as: hold to scroll (current scroll need two fingers to be well-aligned to scroll, when hold to scroll is activated, just use single hand to scroll). May apply to user tab or through certain layer
+- hold to drag: on certain layer or in user tab
+- horizontal scrolling (not sure whether this will work yet)
+- expected update end of September 2024
 
 ## v2.03 - Ergomech edition
 - ditto v2.03
