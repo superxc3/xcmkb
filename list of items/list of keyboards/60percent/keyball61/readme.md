@@ -13,7 +13,8 @@ Created especially for trackball. Please refer to [Special Keycodes](https://git
 #define RGBLIGHT_SLEEP 			//Turn off LEDs when computer sleeping (+72)
 #define RGB_DISABLE_WHEN_USB_SUSPENDED //As RGB light does not sleep, alternative code
 ```
-2. [Downnload](https://drive.google.com/file/d/1z029VRAnYXVFQ3z6HQBAIs96kgq-sYs1/view?usp=drive_link)
+2. [Download](https://drive.google.com/file/d/1z029VRAnYXVFQ3z6HQBAIs96kgq-sYs1/view?usp=drive_link)
+3. Special gateway to Keyball39 v1.02 [Download](https://drive.google.com/file/d/1WGBTCxgcSJNxjMod5waWxutPEIhL-rQC/view?usp=drive_link)
 
 ### v1.01
 1. Correction on Vial keycodes as some are not working. Add SNIP in user tab.
