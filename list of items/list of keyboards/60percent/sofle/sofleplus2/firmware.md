@@ -14,6 +14,11 @@
 - horizontal scrolling (not sure whether this will work yet)
 - expected update end of September 2024
 
+## v2.03 - 65
+- ditto v2.03
+- for larger trackpad 65
+- [Download](https://drive.google.com/file/d/18joRFv1wW972N29pvW-bzpu7NB4XBwVa/view?usp=drive_link)
+
 ## v2.03 - Ergomech edition
 - ditto v2.03
 - Layer and capslock indicator changes to 5 thumb keys as RGB underglow couldnt be seen from Ergomech case
