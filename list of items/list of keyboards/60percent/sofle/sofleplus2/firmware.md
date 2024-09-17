@@ -53,6 +53,7 @@
 |SoflePLUS with large TPS62 trackpad, TRS connection|
 
 ## v1.02b - oled dpi fix
+- yet to test, may not worked.
 - update on 2024-09-02
 - correct the visual information for oled, omit rocket space animation as we only have one oled for this version.
 - oled can display DPI value, capslock indicator omitted, shows through rgb indicator instead.
