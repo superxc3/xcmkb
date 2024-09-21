@@ -5,7 +5,13 @@ All wired version use RP2040 firmware, we stop maintain atmega32u4 promicro.
 
 # RP2040 Promicro
 
-## [V0.5](https://drive.google.com/drive/folders/12LtxLUCY4crnO1c1aplqwu-pg4pVLYCl)
+## [v2.02b](https://drive.google.com/file/d/1D2sjhvIMXPaJuxE4MZU9Rsl5Hdgqv-j4/view?usp=sharing)
+- Aligned with SoflePLUS firmware version, hence rename to v2.02b
+- Display shows DPI due to Trackpad, corrected both sides display to show status only, no more wpm rocket.
+- Added trackpad 43, corrected orientation.
+- Left and right can be master.
+
+## [v0.5](https://drive.google.com/drive/folders/12LtxLUCY4crnO1c1aplqwu-pg4pVLYCl)
 - Adds layout option for 42/36 keys corne, flat wheel encoders yes or nil
   
 ## v0.4
