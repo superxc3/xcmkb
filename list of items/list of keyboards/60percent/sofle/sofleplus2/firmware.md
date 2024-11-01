@@ -9,10 +9,14 @@
 |SoflePLUS2 with smaller TPS43 trackpad, USB-C connection|
 
 ### Next breaking changes v2.04 - Azoteq improvements
-- Suggest new function in `user` tab such as: hold to scroll (current scroll need two fingers to be well-aligned to scroll, when hold to scroll is activated, just use single hand to scroll). May apply to user tab or through certain layer
-- hold to drag: on certain layer or in user tab
-- horizontal scrolling (not sure whether this will work yet)
-- expected update end of September 2024
+- Add `SCRLR`: change horizontal scroll direction
+- Add `MOSCR`: hold to trigger scroll with single finger. This reduces the needs of using two fingers to trigger scroll, easier to trigger.
+- Add `TOSCR`: toggle single finger scroll
+- Horizontal scrolling already proved to work for previous version
+- Looking more possibilities to enhance azoteq improvements before release (2024.11.1) <br>
+
+◯ Vial-gui improvements, swipe and zoom gestures
+
 
 ## v2.03 - 65
 - ditto v2.03
