@@ -16,6 +16,11 @@
 - Horizontal scrolling already proved to work for previous version
 - Looking more possibilities to enhance azoteq improvements before release (2024.11.1) <br>
 
+#### Known issue
+- USB on the right triggers an unintended right click. It works correctly with USB on the left.
+- MOSCR or TOSCR vertical/horizontal scrolling inadvertently triggers horizontal/vertical scrolling, which may cause issues in Excel files. Two-finger scrolling works without any problems.
+
+#### Looking forward
 ◯ Vial-gui improvements, swipe and zoom gestures
 
 
