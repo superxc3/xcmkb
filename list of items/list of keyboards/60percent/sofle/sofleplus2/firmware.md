@@ -9,6 +9,7 @@
 |SoflePLUS2 with smaller TPS43 trackpad, USB-C connection|
 
 ### Next breaking changes v2.04 - Azoteq improvements
+- Beta download [here](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2_vialazo204.uf2?v=1730427148)
 - Add `SCRLR`: change horizontal scroll direction
 - Add `MOSCR`: hold to trigger scroll with single finger. This reduces the needs of using two fingers to trigger scroll, easier to trigger.
 - Add `TOSCR`: toggle single finger scroll
