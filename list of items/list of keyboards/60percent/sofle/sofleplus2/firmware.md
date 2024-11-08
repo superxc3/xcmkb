@@ -26,6 +26,11 @@
 ◯ Vial-gui improvements, swipe and zoom gestures
 
 
+## v2.03 - Classic
+- ditto v2.03
+- no trackpad. encoders on both sides
+- [Download](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2_vialazo203c.uf2?v=1731074764)
+
 ## v2.03 - 65
 - ditto v2.03
 - for larger trackpad 65
