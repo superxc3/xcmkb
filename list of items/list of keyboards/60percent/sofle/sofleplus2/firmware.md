@@ -16,6 +16,7 @@
 - Add `MOSCR`: hold to trigger scroll with single finger. This reduces the needs of using two fingers to trigger scroll, easier to trigger.
 - Add `TOSCR`: toggle single finger scroll
 - Horizontal scrolling already proved to work for previous version
+- Change `ee_hand` to `master_left` to simplify the flashing process (2024.11.10)
 - Looking more possibilities to enhance azoteq improvements before release (2024.11.1) <br>
 
 #### Known issue
