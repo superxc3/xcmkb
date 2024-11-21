@@ -26,6 +26,10 @@
 #### Looking forward
 ◯ Vial-gui improvements, swipe and zoom gestures
 
+## v2.04 - RGB UP 
+- Based on the v2.04 beta
+- Specially for RGB per key models only, RGB layer and capslock indicator shines from top
+- [Download](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2_vialazo204-rgbup.uf2?v=1732152745)
 
 ## v2.03 - Classic
 - ditto v2.03
