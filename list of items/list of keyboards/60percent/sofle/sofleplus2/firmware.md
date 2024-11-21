@@ -1,6 +1,6 @@
 # Firmware
 1. Flashing manual refer to [RP2040 Flashing guide](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/flashingboard.md).
-2. Please press `DPI0` after you flash your firmware to activate the trackpad.
+2. Tick `Azoteq` in the Layout. Please press `DPI0` after you flash your firmware to activate the trackpad.
 
 
 # SoflePLUS2
