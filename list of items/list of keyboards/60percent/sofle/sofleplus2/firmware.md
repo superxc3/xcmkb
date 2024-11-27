@@ -8,6 +8,15 @@
 |:--:|
 |SoflePLUS2 with smaller TPS43 trackpad, USB-C connection|
 
+
+## v2.05 - RGB matrix fix 
+- Realise some lighting effects dont appear properly especially on heatmap etc. Issue fixed.
+- Fix default layer indicator for Layer 2, changes from yellow to the more appealing cyan.
+- Add last row of thumb keys and rgb underglow as layer and capslock indicator
+- For Starter or Standard without RGB underglow, please download this [v2.05](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2u_vialazo205.uf2?v=1732695672)
+- For Signature or with RGB underglow and Per key, please download this [v2.05s](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2_vialazo205withu.uf2?v=1732697331)
+- Udate on 2024-11-27  
+
 ### Next breaking changes v2.04 - Azoteq improvements
 - Beta download [here](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2_vialazo204.uf2?v=1730427148)
 - For large trackpad download [here](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2_vialazo204L.uf2?v=1731074577)
