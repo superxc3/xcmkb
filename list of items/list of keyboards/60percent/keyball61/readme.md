@@ -6,6 +6,10 @@ Created especially for trackball. Please refer to [Special Keycodes](https://git
 
 ## Firmware changelog
 
+### v1.03
+1. Fix wake up keyboard that requires re-plug
+2. Check scroll mode not working 
+
 ### v1.02
 1. Let LED off when sleep
 ```
