@@ -6,7 +6,8 @@ This is for CornePLUS2, usb-c to c connection, pcba. List of firmware download f
 ### v2.04 Classic
 This is the classic Corne without any encoder and trackpad. 
 - [Download](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_crkbd_rev1_vialplus204-c.uf2?v=1733362630)
-- EEH_Hand so left and right can be master. 
+- EEH_Hand so left and right can be master.
+- Fix RGB_Sleep throuhg `#define RGB_MATRIX_SLEEP`
 
 ![image](https://github.com/user-attachments/assets/6296f95a-1455-4742-ae9f-0b2f9e1e3645)
 
