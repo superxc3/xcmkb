@@ -17,6 +17,8 @@ This is the classic Corne without any encoder and trackpad.
 - [x] Capslock indicator (highlighted when it is on)
 - [x] Slave shows wpm space rocket
 
+---
+
 ### v2.04
 This is the corne with trackpad on right. 
 
@@ -25,7 +27,7 @@ This is the corne with trackpad on right.
 - [x] Numlock indicator (only shows N when it is off)
 - [ ] Capslock indicator (highlighted when it is on)
 - [ ] Slave shows same as master, may not exist due to trackpad
-
+***
 ## Pending list
 - [ ] RGB indicator
 
