@@ -1,6 +1,7 @@
 # Firmware
 1. Flashing manual refer to [RP2040 Flashing guide](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/flashingboard.md).
 2. Tick `Azoteq` in the Layout. Please press `DPI0` after you flash your firmware to activate the trackpad.
+3. You can load default keymap [here](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/sofleplus2_keymap.vil?v=1733494418) by File>Load Saved Layout, ignore any error and click other tab to refresh the keymap. 
 
 
 # SoflePLUS2
@@ -8,6 +9,11 @@
 |:--:|
 |SoflePLUS2 with smaller TPS43 trackpad, USB-C connection|
 
+## v2.05a - Master oled flickering on mac
+- The master OLED flickers when the keyboard goes to sleep on macOS. Otherwise, everything works fine, including returning to normal upon wake.
+- For Starter or Standard without RGB underglow, please download this [v2.05a](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2u_vialazo205a.uf2?v=1733493904)
+- For Signature or with RGB underglow and Per key, please download this [v2.05ua](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2_vialazo205withua.uf2?v=1733494156)
+- Update on 2024-12-6
 
 ## v2.05 - RGB matrix fix 
 - Realise some lighting effects dont appear properly especially on heatmap etc. Issue fixed.
