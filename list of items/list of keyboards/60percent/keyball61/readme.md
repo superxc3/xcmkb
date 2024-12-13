@@ -39,8 +39,8 @@ Please report any issues with the firmware to us via email at [xcmkbtech@gmail.c
 
 ## Firmware changelog
 
-### v2.1 for Keyball44
-Requested by client to add 64 combo, 64 tap dance. [Download](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/keyball_keyball44_vial64combotap.uf2?v=1733996416).
+### v2.1 beta for Keyball39
+Requested by client to add 64 combo and tap dance. Trying to fix replug with `#define USB_VBUS_PIN GP19` instead. 
 
 ### v1.02
 1. Let LED off when sleep
