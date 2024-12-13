@@ -9,6 +9,15 @@
 |:--:|
 |SoflePLUS2 with smaller TPS43 trackpad, USB-C connection|
 
+## v3.00 beta 
+- This project is currently in beta.
+- For new pcb released in mid-dec 2024: spinning disk in v0.9, left PCB v2.09. 
+- Remove `#define SPLIT_WATCHDOG_ENABLE` and `usb detect` and replace with `#define SPLIT_WATCHDOG_ENABLE` for re-plug issue
+- Center click (GP12) of spinning disk remains as left click, the rest remappable in Vial, new Col6 introduced with massive change on the code.
+- For Starter or Standard without RGB underglow, please download this [v3.00](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2anostandard_vial300.uf2?v=1734074204)
+- For Signature or with RGB underglow and Per key, please download this [v3.00 Signature](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2ano_signature_v300.uf2?v=1734074651)
+- Update on 2024-12-13
+
 ## v2.05a - Master oled flickering on mac
 - The master OLED flickers when the keyboard goes to sleep on macOS. Otherwise, everything works fine, including returning to normal upon wake.
 - For Starter or Standard without RGB underglow, please download this [v2.05a](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2u_vialazo205a.uf2?v=1733493904)
