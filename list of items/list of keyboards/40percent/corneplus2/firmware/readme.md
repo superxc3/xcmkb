@@ -1,7 +1,15 @@
 # Firmware
-This is for CornePLUS2, usb-c to c connection, pcba. List of firmware download from below, default keymap layout download [here](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/corneplus_layout.vil?v=1733360318)
+This is for CornePLUS2, usb-c to c connection, pcba. List of firmware download from below, default keymap layout download [here](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/corneplus_layout.vil?v=1733360318). Flashing manual refer to [RP2040 Flashing guide](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/flashingboard.md).
+
+⚠️ **Attention**: This is not applicable for TRS cable connection Corne, Corne MX, Corne Choc. This is only for our CornePLUS2 series.
 
 ## Updates
+
+### v2.05 Classic - RGB Patch
+This is the classic corne without any encoder and trackpad. 
+- This is a beta update
+- [Download](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_crkbd_rev1_vialplus205-c.uf2?v=1734353792)
+- Fix RGB matrix issue as Left RGB matrix is mirrored
 
 ### v2.04 Classic
 This is the classic Corne without any encoder and trackpad. 
