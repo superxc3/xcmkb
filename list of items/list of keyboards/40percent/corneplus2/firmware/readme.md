@@ -10,6 +10,7 @@ This is the classic corne without any encoder and trackpad.
 - This is a beta update
 - [Download](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_crkbd_rev1_vialplus205-c.uf2?v=1734353792)
 - Fix RGB matrix issue as Left RGB matrix is mirrored
+- Source code, please use Vial environment. The codes are messy atm. Please backup your crkbd folder and paste [this](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/crkbd_v2.05_Classic_-_RGB_Patch.rar?v=1734354252). Compile using this command `qmk compile -kb crkbd -km vialplus205-c`.
 
 ### v2.04 Classic
 This is the classic Corne without any encoder and trackpad. 
