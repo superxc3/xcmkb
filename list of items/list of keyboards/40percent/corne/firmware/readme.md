@@ -13,6 +13,10 @@ All wired version use RP2040 firmware, we stop maintain atmega32u4 promicro.
 
 ## [v0.5](https://drive.google.com/drive/folders/12LtxLUCY4crnO1c1aplqwu-pg4pVLYCl)
 - Adds layout option for 42/36 keys corne, flat wheel encoders yes or nil
+- Define master ee_hands
+- [Download](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/crkbd_rev1_vialplus_rp2040_ce-v005.uf2?v=1734486654)
+- [Source code](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/crkbd.zip?v=1734486695). Please backup the original crkbd folder in [vial](https://get.vial.today/docs/porting-to-vial.html) environment. Command using `qmk compile -kb crkbd -km vialplus`
+- 2024-12-18
   
 ## v0.4
 ![2024-01-12 11-52-50](https://github.com/superxc3/vial-qmk/assets/79617315/51ffac07-195d-454f-aedd-1a3236d725f2)
