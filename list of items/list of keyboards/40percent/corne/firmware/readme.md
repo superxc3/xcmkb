@@ -2,6 +2,7 @@
 All wired version use RP2040 firmware, we stop maintain atmega32u4 promicro.
 1. Splinky or similar RP2040 Promicro user, please check [RP2040 Promicro](https://github.com/superxc3/xcmkb/tree/main/list%20of%20items/list%20of%20keyboards/40percent/corne/firmware#rp2040-promicro).
 2. ZMK Wireless, please head to [zmk-config-crkbd](https://github.com/superxc3/zmk-config-crkbd).
+3. Flashing manual refer to [here](https://github.com/superxc3/xcmkb/blob/main/list%20of%20items/list%20of%20keyboards/60percent/sofle/sofleplus/flashingboard.md)
 
 # RP2040 Promicro
 
