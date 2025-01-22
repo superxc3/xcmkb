@@ -15,7 +15,7 @@
 - Remove `#define SPLIT_WATCHDOG_ENABLE` and `usb detect` and replace with `#define SPLIT_WATCHDOG_ENABLE` for re-plug issue
 - Center click (GP12) of spinning disk remains as left click, the rest remappable in Vial, new Col6 introduced with massive change on the code.
 - For Starter or Standard without RGB underglow, please download this [v3.00](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2anostandard_vial300.uf2?v=1734074204), [v3.00_65](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2anostandard_vial300-65.uf2.uf2?v=1735600548)
-- For Signature or with RGB underglow and Per key, please download this [v3.00 Signature](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2ano_signature_v300.uf2?v=1734074651).
+- For Signature or with RGB underglow and Per key, please download this [v3.00 Signature](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2ano_signature_v300.uf2?v=1734074651) and [v3.00 Signature Tps65](https://cdn.shopify.com/s/files/1/0691/8963/2259/files/xcmkb_sofleplus2anosignature_vial300-65.uf2?v=1737582961).
 - Update on 2024-12-13
 
 ## v2.05a - Master oled flickering on mac
